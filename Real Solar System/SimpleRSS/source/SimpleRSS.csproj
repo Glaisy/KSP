@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{349FF575-B641-4D47-9B70-5E9342BD64C0}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>SimpleRSS</RootNamespace>
+    <AssemblyName>SimpleRSS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="SimpleRSS\DecouplerShroud\DecouplerShroud.cfg" />
+    <None Include="SimpleRSS\Kopernicus\Kopernicus.cfg" />
+    <None Include="SimpleRSS\Kosmos\Kosmos_Utilities.cfg" />
+    <None Include="SimpleRSS\Kosmos\Kosmos_Structural.cfg" />
+    <None Include="SimpleRSS\Kosmos\Kosmos_Electrical.cfg" />
+    <None Include="SimpleRSS\Kosmos\Kosmos_Engines.cfg" />
+    <None Include="SimpleRSS\kOS\kOS.cfg" />
+    <None Include="SimpleRSS\Mechjeb2\Mechjeb2.cfg" />
+    <None Include="SimpleRSS\NearFutureSolar\NFS_General.cfg" />
+    <None Include="SimpleRSS\ProceduralFairings\PF_General.cfg" />
+    <None Include="SimpleRSS\ProceduralParts\PP_General.cfg" />
+    <None Include="SimpleRSS\ProceduralParts\PP_Others.cfg" />
+    <None Include="SimpleRSS\ProceduralParts\PP_SRB.cfg" />
+    <None Include="SimpleRSS\ProceduralParts\PP_Tanks.cfg" />
+    <None Include="SimpleRSS\ProceduralParts\PP_TechTree.cfg" />
+    <None Include="SimpleRSS\RemoteTech\RemoteTech_Settings.cfg" />
+    <None Include="SimpleRSS\RemoteTech\Remote_RemoteTech.cfg" />
+    <None Include="SimpleRSS\RemoteTech\Remote_Squad.cfg" />
+    <None Include="SimpleRSS\RealChute\RealChute.cfg" />
+    <None Include="SimpleRSS\SETIGreenhouse\SETIGreenhouse.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\SquadEx_Engines.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_Engines.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_SRBs.cfg" />
+    <None Include="SimpleRSS\CormorantAeronology\CormorantAeronology.cfg" />
+    <None Include="SimpleRSS\SimpleRSS.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\SquadEx_Structural.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\SquadEx_Pods.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\SquadEx_Coupling.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_Coupling.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_Communication.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_Structural.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_Electrical.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_Utility.cfg" />
+    <None Include="SimpleRSS\Squad\Squad_Pods.cfg" />
+    <None Include="SimpleRSS\TacLifeSupport\TACLS.cfg" />
+    <None Include="SimpleRSS\TweakScale\TweakScale.cfg" />
+    <None Include="SimpleRSS\Waterfall\Waterfall_SquadEx.cfg" />
+    <None Include="SimpleRSS\Waterfall\Waterfall_Squad.cfg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="SimpleRSS\ModularFuelTanks\ModularFuelTanks.cfg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SimpleRSS\Squad\Squad_Aero.cfg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

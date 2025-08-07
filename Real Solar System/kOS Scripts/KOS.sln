@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{273DB249-A9EA-4C3B-8A72-8452068C1C1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{B9BDB383-CAA9-45AC-8B85-BAFDB4F67E8D}"
+	ProjectSection(SolutionItems) = preProject
+		Libraries\Engines.ks = Libraries\Engines.ks
+		Libraries\LanderUtils.ks = Libraries\LanderUtils.ks
+		Libraries\Navigation.ks = Libraries\Navigation.ks
+		Libraries\Physics.ks = Libraries\Physics.ks
+		Libraries\StatusDisplay.ks = Libraries\StatusDisplay.ks
+		Libraries\Warping.ks = Libraries\Warping.ks
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Venus Probes", "Venus Probes", "{4ED815C7-CD42-4A56-AA40-795D93E92AB5}"
+	ProjectSection(SolutionItems) = preProject
+		Venus Probes\Venera10.ks = Venus Probes\Venera10.ks
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Moon Probes", "Moon Probes", "{EBB4A4B0-36C2-4B71-B6DD-4B5EEE439CEA}"
+	ProjectSection(SolutionItems) = preProject
+		Moon Probes\LunaX.ks = Moon Probes\LunaX.ks
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mars Probes", "Mars Probes", "{83099C81-E878-4526-8C38-C7659EC291D0}"
+	ProjectSection(SolutionItems) = preProject
+		Mars Probes\Curiosity.ks = Mars Probes\Curiosity.ks
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B9BDB383-CAA9-45AC-8B85-BAFDB4F67E8D} = {273DB249-A9EA-4C3B-8A72-8452068C1C1B}
+		{4ED815C7-CD42-4A56-AA40-795D93E92AB5} = {273DB249-A9EA-4C3B-8A72-8452068C1C1B}
+		{EBB4A4B0-36C2-4B71-B6DD-4B5EEE439CEA} = {273DB249-A9EA-4C3B-8A72-8452068C1C1B}
+		{83099C81-E878-4526-8C38-C7659EC291D0} = {273DB249-A9EA-4C3B-8A72-8452068C1C1B}
+	EndGlobalSection
+EndGlobal

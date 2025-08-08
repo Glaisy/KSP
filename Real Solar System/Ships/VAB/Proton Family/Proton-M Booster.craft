@@ -377,8 +377,8 @@ PART
 	part = sepMotor1_4293800740
 	partName = Part
 	persistentId = 3879397387
-	pos = 0.938886046,40.0130577,-0.607432961
-	attPos = -1.80676579E-07,-0.187952042,0.140509844
+	pos = 0.936004639,40.0262871,-0.596093059
+	attPos = -0.00288170762,-1.24155617,0.151849508
 	attPos0 = 1.80676579E-07,7.37515831,-2.05853724
 	rot = 1,0,4.75407091E-08,0
 	attRot = 0,0,0.99999994,0
@@ -648,8 +648,8 @@ PART
 	part = sepMotor1_4293799746
 	partName = Part
 	persistentId = 2649702969
-	pos = -0.979140997,40.0130577,1.31059396
-	attPos = 0.140509725,-0.187952042,1.78813934E-07
+	pos = -0.967801452,40.0262871,1.31347609
+	attPos = 0.151849389,-1.24155617,0.00288170576
 	attPos0 = -2.05853701,7.37515831,-2.98023224E-07
 	rot = 0.707106829,0,-0.707106709,0
 	attRot = 0,0,0,1
@@ -911,8 +911,8 @@ PART
 	part = sepMotor1_4293799664
 	partName = Part
 	persistentId = 999401953
-	pos = 0.938886166,40.0130577,3.2286222
-	attPos = 1.67638063E-07,-0.187952042,-0.140509844
+	pos = 0.941767871,40.0262871,3.2172823
+	attPos = 0.00288170576,-1.24155617,-0.151849627
 	attPos0 = 0,7.37515831,2.05853724
 	rot = 3.82932086E-09,0,-1,0
 	attRot = 0,0,0,1
@@ -1174,8 +1174,8 @@ PART
 	part = sepMotor1_4293799582
 	partName = Part
 	persistentId = 374506674
-	pos = 2.85691333,40.0130577,1.31059468
-	attPos = -0.140509725,-0.187952042,-1.78813934E-07
+	pos = 2.8455739,40.0262871,1.30771303
+	attPos = -0.15184927,-1.24155617,-0.00288170576
 	attPos0 = 2.05853701,7.37515831,5.96046448E-08
 	rot = -0.707106709,0,-0.707106829,0
 	attRot = 0,0,0,1
@@ -5041,8 +5041,8 @@ PART
 	part = sepMotor1_4293959142
 	partName = Part
 	persistentId = 3423156500
-	pos = 0.938886106,46.2140045,-0.603385806
-	attPos = -1.80152711E-07,-0.00258255005,0.146569014
+	pos = 0.938886166,46.4286308,-0.600851178
+	attPos = -1.80152711E-07,0.67086792,0.149103642
 	attPos0 = 1.80152711E-07,0.602581024,-2.0605495
 	rot = 1,0,4.26961186E-08,0
 	attRot = 0,0,0.99999994,0
@@ -5310,8 +5310,8 @@ PART
 	part = sepMotor1_4293958694
 	partName = Part
 	persistentId = 2542640826
-	pos = 0.938886166,46.2140045,3.22457504
-	attPos = 1.67347025E-07,-0.00258255005,-0.146569014
+	pos = 0.938886344,46.4286308,3.22204065
+	attPos = 1.78813934E-07,0.67086792,-0.149103522
 	attPos0 = 0,0.602581024,2.0605495
 	rot = -1.01526965E-09,0,-1,0
 	attRot = 0,0,0,1
@@ -8833,7 +8833,7 @@ PART
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 4
+	sqor = 3
 	sepI = 2
 	attm = 1
 	sameVesselCollision = False
@@ -9243,7 +9243,7 @@ PART
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 4
+	sqor = 3
 	sepI = 2
 	attm = 1
 	sameVesselCollision = False
@@ -9653,7 +9653,7 @@ PART
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 4
+	sqor = 3
 	sepI = 2
 	attm = 1
 	sameVesselCollision = False
@@ -10063,7 +10063,7 @@ PART
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 4
+	sqor = 3
 	sepI = 2
 	attm = 1
 	sameVesselCollision = False
@@ -10473,7 +10473,7 @@ PART
 	resPri = 0
 	dstg = 4
 	sidx = 1
-	sqor = 5
+	sqor = 4
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
@@ -12370,7 +12370,7 @@ PART
 	part = liquidEngineMainsail.v2_4293612236
 	partName = Part
 	persistentId = 1030934497
-	pos = -1.26111245,6.59195328,1.3105942
+	pos = -1.26111197,6.59195328,1.3105942
 	attPos = 0.200000167,0.875726461,-0.346410424
 	attPos0 = 0,-1.6757257,0
 	rot = 2.8991887E-12,0.707106888,-1.51292555E-11,-0.707106769
@@ -12384,7 +12384,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 6
+	sqor = 5
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
@@ -13787,10 +13787,10 @@ PART
 	part = liquidEngineMainsail.v2_4293611862
 	partName = Part
 	persistentId = 1106949579
-	pos = -0.161112785,6.59195328,3.21584892
+	pos = -0.161112547,6.59195328,3.21584845
 	attPos = 0.200000405,0.875726461,-0.346411049
 	attPos0 = 0,-1.6757257,0
-	rot = -5.05385924E-12,0.258819073,-1.45519057E-11,-0.965925992
+	rot = -5.05385967E-12,0.258819073,-1.45519031E-11,-0.965925992
 	attRot = 1.51292503E-11,0.707106888,2.89918848E-12,0.70710659
 	attRot0 = 5.05385447E-12,-0.258818924,1.45519118E-11,0.965925872
 	mir = 1,1,1
@@ -13801,7 +13801,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 6
+	sqor = 5
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
@@ -15204,7 +15204,7 @@ PART
 	part = liquidEngineMainsail.v2_4293611488
 	partName = Part
 	persistentId = 2776721451
-	pos = 2.03888512,6.59195328,3.21584702
+	pos = 2.03888464,6.59195328,3.21584606
 	attPos = 0.200000569,0.875726461,-0.346411198
 	attPos0 = 0,-1.6757257,0
 	rot = -1.16527257E-11,-0.258819044,-1.00753954E-11,-0.965925872
@@ -15218,7 +15218,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 6
+	sqor = 5
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
@@ -16621,7 +16621,7 @@ PART
 	part = liquidEngineMainsail.v2_4293625828
 	partName = Part
 	persistentId = 3225043087
-	pos = 3.13888288,6.59195328,1.31059444
+	pos = 3.13888216,6.59195328,1.31059444
 	attPos = 0.200000495,0.875726461,-0.34641099
 	attPos0 = 0,-1.6757257,0
 	rot = -1.51292607E-11,-0.707106769,-2.89919E-12,-0.707107008
@@ -16635,7 +16635,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 6
+	sqor = 5
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
@@ -17385,7 +17385,7 @@ PART
 	pos = 2.05317974,22.6177597,-0.619415402
 	attPos = 3.72528959E-08,1.294487,0.288240016
 	attPos0 = 0,6.37500095,0
-	rot = -0.019188473,0.963267624,0.0716123581,0.258106768
+	rot = -0.0191884711,0.963267565,0.0716123506,0.258106738
 	attRot = 0,0,0,1
 	attRot0 = 0,-0.965925872,0,0.258818984
 	mir = 1,1,1
@@ -18041,7 +18041,7 @@ PART
 	pos = 2.03888655,6.59195328,-0.594661117
 	attPos = 0.200000331,0.875726461,-0.346410781
 	attPos0 = 0,-1.6757257,0
-	rot = -1.45519074E-11,-0.965925992,5.05385924E-12,-0.258819044
+	rot = -1.45519057E-11,-0.965925992,5.05385924E-12,-0.258819044
 	attRot = 1.51292503E-11,0.707106888,2.89918848E-12,0.70710659
 	attRot0 = 5.0538549E-12,-0.258818924,1.45519118E-11,0.965925872
 	mir = 1,1,1
@@ -18052,7 +18052,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 6
+	sqor = 5
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
@@ -19455,10 +19455,10 @@ PART
 	part = liquidEngineMainsail.v2_4293612610
 	partName = Part
 	persistentId = 2138977715
-	pos = -0.161112666,6.59195328,-0.594660521
+	pos = -0.161112547,6.59195328,-0.594660282
 	attPos = 0.200000361,0.875726461,-0.3464109
 	attPos0 = 0,-1.6757257,0
-	rot = -1.00754032E-11,-0.965925992,1.16527265E-11,0.258819014
+	rot = -1.00754049E-11,-0.965925992,1.16527274E-11,0.258819014
 	attRot = 1.51292503E-11,0.707106888,2.89918848E-12,0.70710659
 	attRot0 = 5.05385404E-12,-0.258818924,1.45519126E-11,0.965925872
 	mir = 1,1,1
@@ -19469,7 +19469,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 6
+	sqor = 5
 	sepI = 4
 	attm = 0
 	sameVesselCollision = False
@@ -19880,7 +19880,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 5
+	sqor = 4
 	sepI = 4
 	attm = 1
 	sameVesselCollision = False
@@ -20153,7 +20153,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 5
+	sqor = 4
 	sepI = 4
 	attm = 1
 	sameVesselCollision = False
@@ -20407,7 +20407,7 @@ PART
 	pos = 2.53297424,24.3045387,2.23094034
 	attPos = -0.186759949,-8.77380371E-05,-0.107825875
 	attPos0 = 1.78084731,7.44944382,1.02817225
-	rot = 0.500000119,0.000175288238,0.866025388,-0.000101202531
+	rot = 0.500000119,0.000175288209,0.866025388,-0.000101202502
 	attRot = 0,0,0,1
 	attRot0 = 0.500000119,0.00017528866,0.866025388,-0.000101202953
 	mir = 1,1,1
@@ -20418,7 +20418,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 5
+	sqor = 4
 	sepI = 4
 	attm = 1
 	sameVesselCollision = False
@@ -20683,7 +20683,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 5
+	sqor = 4
 	sepI = 4
 	attm = 1
 	sameVesselCollision = False
@@ -20948,7 +20948,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 5
+	sqor = 4
 	sepI = 4
 	attm = 1
 	sameVesselCollision = False
@@ -21213,7 +21213,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 5
+	sqor = 4
 	sepI = 4
 	attm = 1
 	sameVesselCollision = False
@@ -21950,7 +21950,7 @@ PART
 	part = launchClamp1_4293272958
 	partName = Part
 	persistentId = 594700635
-	pos = -3.56621504,6.26002884,1.31059396
+	pos = -3.56621599,6.26002884,1.31059396
 	attPos = -0.0273569226,-1.09944355,0.0473845005
 	attPos0 = -0.952549636,-1.13192368,1.64986348
 	rot = 1.47944643E-08,0.707106709,-1.47944572E-08,0.707106948
@@ -21964,7 +21964,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 1
-	sqor = 6
+	sqor = 5
 	sepI = 5
 	attm = 1
 	sameVesselCollision = False
@@ -22172,10 +22172,10 @@ PART
 	part = launchClamp1_4294256222
 	partName = Part
 	persistentId = 2196491902
-	pos = -1.31366539,6.26002884,5.21212864
+	pos = -1.31366587,6.26002884,5.21212959
 	attPos = -0.0273569226,-1.09944355,0.0473845005
 	attPos0 = -0.952550173,-1.13192368,1.64986467
-	rot = 5.41515677E-09,0.965925813,-2.02096206E-08,0.258819163
+	rot = 5.41515766E-09,0.965925813,-2.02096206E-08,0.258819163
 	attRot = 0,0,0,1
 	attRot0 = -5.41515011E-09,-0.965925813,2.02096082E-08,-0.258819163
 	mir = 1,1,1
@@ -22186,7 +22186,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 1
-	sqor = 6
+	sqor = 5
 	sepI = 5
 	attm = 1
 	sameVesselCollision = False
@@ -22312,7 +22312,7 @@ PART
 		scaleFactor = 3.46009064
 		height = 6.92018127
 		stagingEnabled = True
-		towerRot = -1.10718288E-08,-0.965925813,4.13206003E-08,0.258819103
+		towerRot = -1.10718297E-08,-0.965925813,4.13206003E-08,0.258819103
 		EVENTS
 		{
 		}
@@ -22394,7 +22394,7 @@ PART
 	part = launchClamp1_4294256064
 	partName = Part
 	persistentId = 297168357
-	pos = 3.19143939,6.26002884,5.21213245
+	pos = 3.19144058,6.26002884,5.21213436
 	attPos = -0.0273569226,-1.09944355,0.0473845005
 	attPos0 = -0.95255065,-1.13192368,1.64986539
 	rot = -5.41514344E-09,0.965926051,-2.02096118E-08,-0.258818984
@@ -22408,7 +22408,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 1
-	sqor = 6
+	sqor = 5
 	sepI = 5
 	attm = 1
 	sameVesselCollision = False
@@ -22616,7 +22616,7 @@ PART
 	part = launchClamp1_4294255906
 	partName = Part
 	persistentId = 2116653671
-	pos = 5.44399214,6.26002884,1.31059551
+	pos = 5.44399405,6.26002884,1.31059551
 	attPos = -0.0273569226,-1.09944355,0.0473845005
 	attPos0 = -0.952550411,-1.13192368,1.64986479
 	rot = -1.47944608E-08,0.707107008,-1.47944634E-08,-0.707106769
@@ -22630,7 +22630,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 1
-	sqor = 6
+	sqor = 5
 	sepI = 5
 	attm = 1
 	sameVesselCollision = False
@@ -22838,7 +22838,7 @@ PART
 	part = launchClamp1_4294255748
 	partName = Part
 	persistentId = 267414741
-	pos = 3.19143772,6.26002884,-2.59093666
+	pos = 3.19143796,6.26002884,-2.59093714
 	attPos = -0.0273569226,-1.09944355,0.0473845005
 	attPos0 = -0.952549756,-1.13192368,1.6498636
 	rot = -2.02096206E-08,0.258819133,-5.41515277E-09,-0.965925813
@@ -22852,7 +22852,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 1
-	sqor = 6
+	sqor = 5
 	sepI = 5
 	attm = 1
 	sameVesselCollision = False
@@ -22978,7 +22978,7 @@ PART
 		scaleFactor = 3.46009064
 		height = 6.92018127
 		stagingEnabled = True
-		towerRot = 4.13206003E-08,-0.258819073,1.10718243E-08,-0.965925813
+		towerRot = 4.13206003E-08,-0.258819073,1.10718252E-08,-0.965925813
 		EVENTS
 		{
 		}
@@ -23060,7 +23060,7 @@ PART
 	part = launchClamp1_4294255590
 	partName = Part
 	persistentId = 3491208135
-	pos = -1.31366348,6.26002884,-2.59093761
+	pos = -1.31366396,6.26002884,-2.59093809
 	attPos = -0.0273569226,-1.09944355,0.0473845005
 	attPos0 = -0.952550054,-1.13192368,1.64986408
 	rot = -2.020961E-08,-0.258818924,5.41514567E-09,-0.965926051
@@ -23074,7 +23074,7 @@ PART
 	resPri = 0
 	dstg = 5
 	sidx = 1
-	sqor = 6
+	sqor = 5
 	sepI = 5
 	attm = 1
 	sameVesselCollision = False

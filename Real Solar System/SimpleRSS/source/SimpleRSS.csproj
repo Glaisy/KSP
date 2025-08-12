@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="SimpleRSS\CormorantAeronology\CormorantAeronology_Orbiter.cfg" />
+    <None Include="SimpleRSS\CormorantAeronology\CormorantAeronology_Others.cfg" />
+    <None Include="SimpleRSS\CormorantAeronology\CormorantAeronology_Cargo.cfg" />
+    <None Include="SimpleRSS\CormorantAeronology\CormorantAeronology_Engines.cfg" />
     <None Include="SimpleRSS\DecouplerShroud\DecouplerShroud.cfg" />
     <None Include="SimpleRSS\Kopernicus\Kopernicus.cfg" />
     <None Include="SimpleRSS\Kosmos\Kosmos_Utilities.cfg" />
@@ -56,7 +60,7 @@
     <None Include="SimpleRSS\SquadExpansion\SquadEx_Engines.cfg" />
     <None Include="SimpleRSS\Squad\Squad_Engines.cfg" />
     <None Include="SimpleRSS\Squad\Squad_SRBs.cfg" />
-    <None Include="SimpleRSS\CormorantAeronology\CormorantAeronology.cfg" />
+    <None Include="SimpleRSS\CormorantAeronology\CormorantAeronology_Tanks.cfg" />
     <None Include="SimpleRSS\SimpleRSS.cfg" />
     <None Include="SimpleRSS\SquadExpansion\SquadEx_Structural.cfg" />
     <None Include="SimpleRSS\SquadExpansion\SquadEx_Pods.cfg" />
@@ -69,15 +73,25 @@
     <None Include="SimpleRSS\Squad\Squad_Pods.cfg" />
     <None Include="SimpleRSS\TacLifeSupport\TACLS.cfg" />
     <None Include="SimpleRSS\TweakScale\TweakScale.cfg" />
+    <None Include="SimpleRSS\Waterfall\Templates\SWE-Core.cfg" />
+    <None Include="SimpleRSS\Waterfall\Templates\SWE-SeaLevelPlume.cfg" />
+    <None Include="SimpleRSS\Waterfall\Templates\SWE-Sepatron.cfg" />
+    <None Include="SimpleRSS\Waterfall\Templates\SWE-Smoke .cfg" />
     <None Include="SimpleRSS\Waterfall\Waterfall_SquadEx.cfg" />
     <None Include="SimpleRSS\Waterfall\Waterfall_Squad.cfg" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="SimpleRSS\Waterfall\Waterfall_CormorantAeronology.cfg" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="SimpleRSS\ModularFuelTanks\ModularFuelTanks.cfg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SimpleRSS\Squad\Squad_Aero.cfg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SimpleRSS\Waterfall\Sounds\sound_srb1.wav" />
+    <Content Include="SimpleRSS\Waterfall\Sounds\sound_srbloop.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

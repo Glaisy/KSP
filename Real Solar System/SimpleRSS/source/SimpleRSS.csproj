@@ -47,6 +47,7 @@
     <None Include="SimpleRSS\Mechjeb2\Mechjeb2.cfg" />
     <None Include="SimpleRSS\NearFutureSolar\NFS_General.cfg" />
     <None Include="SimpleRSS\ProceduralFairings\PF_General.cfg" />
+    <None Include="SimpleRSS\ProceduralFairings\PF_TechTree.cfg" />
     <None Include="SimpleRSS\ProceduralParts\PP_General.cfg" />
     <None Include="SimpleRSS\ProceduralParts\PP_Others.cfg" />
     <None Include="SimpleRSS\ProceduralParts\PP_SRB.cfg" />

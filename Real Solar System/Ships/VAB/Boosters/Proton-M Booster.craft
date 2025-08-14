@@ -2,7 +2,7 @@ ship = Proton-M Booster
 version = 1.12.5
 description = 
 type = VAB
-size = 7.53181648,43.1219139,8.20526123
+size = 7.53182125,43.179615,8.20526505
 steamPublishedFileId = 0
 persistentId = 468732552
 rot = 0,0,0,0
@@ -12,15 +12,15 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=3.2.4|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|B9PartSwitch=2.21.0|BetterTimeWarpCont=2.3.13|Chatterer=0.9.99|ContractConfigurator=2.11.2|RemoteTech=1.9.12|CC_RemoteTech=2.0.0|DecouplerShroud=0.9.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.4|DynamicBatteryStorage=1.0.0|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|HangerExtenderExtended=3.6.0|HUDReplacer=1.0.0|KerbalChangelog=1.4.2|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalJointReinforcement=3.8.6|Kopernicus.Parser=1.0.0|ModularFlightIntegrator=1.2.10|Kopernicus=1.12.227|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-KerbalEngineer=0.1.1|KSCSwitcher=2.2.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.38.1|MechJeb2=2.14.3|System.Buffers=4.6.28619|DockingPortAlignmentIndicator=6.10.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.0.0|NearFutureElectrical=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|ROUtils=1.1.0|ProceduralFairings=6.7.0|ProceduralParts=2.8.0|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|RealChute=1.4.9059|RealSolarSystem=20.1.3|BackgroundResources=1.12.0|DeepFreeze=0.31.0|Restock=1.0.0|RSSTimeFormatter=1.12.0|RSSVE=1.8.1|SCANsat=1.20.4|SCANmechjeb=1.20.4|SCANsat.Unity=1.20.4|scatterer=0.878.0|Shabby=0.4.2|KSP_Log=1.2.0|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|VesselModuleSave=1.0.2|KSPSteamCtrlr=0.0.1|HabUtils=1.0.0|SystemHeat=0.1.0|TacFuelBalancer=2.21.5|TacLifeSupport=0.18.0|TUFX=1.1.0|Scale=3.2.4|Waterfall=0.10.2|TweakScale_Waterfall=3.2.4|VaporCones=1.0.0|Deferred=1.2.6
+_modVersions = Scale_Redist=3.2.4|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|B9PartSwitch=2.21.0|BetterTimeWarpCont=2.3.13|Chatterer=0.9.99|ContractConfigurator=2.11.2|RemoteTech=1.9.12|CC_RemoteTech=2.0.0|DecouplerShroud=0.9.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.4|DynamicBatteryStorage=1.0.0|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|HangerExtenderExtended=3.6.0|HUDReplacer=1.0.0|KerbalChangelog=1.4.2|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalJointReinforcement=3.8.6|Kopernicus.Parser=1.0.0|ModularFlightIntegrator=1.2.10|Kopernicus=1.12.227|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-KerbalEngineer=0.1.1|KSCSwitcher=2.2.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.38.1|MechJeb2=2.14.3|System.Buffers=4.6.28619|DockingPortAlignmentIndicator=6.10.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.0.0|NearFutureElectrical=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|ROUtils=1.1.0|ProceduralFairings=6.7.0|ProceduralParts=2.8.0|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|RealChute=1.4.9059|RealSolarSystem=20.1.3|BackgroundResources=1.12.0|DeepFreeze=0.31.0|Restock=1.0.0|RSSTimeFormatter=1.12.0|RSSVE=1.8.1|SCANsat=1.20.4|SCANmechjeb=1.20.4|SCANsat.Unity=1.20.4|scatterer=0.878.0|Shabby=0.4.2|KSP_Log=1.2.0|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|VesselModuleSave=1.0.2|KSPSteamCtrlr=0.0.1|HabUtils=1.0.0|SystemHeat=0.1.0|TacFuelBalancer=2.21.5|TacLifeSupport=0.18.0|TUFX=1.1.0|Scale=3.2.4|Waterfall=0.10.2|TweakScale_Waterfall=3.2.4|Deferred=1.2.6
 PART
 {
 	part = KzResizableFairingBaseRing_4294169364
 	partName = Part
 	persistentId = 1421913730
-	pos = 0.894592047,43.3187256,0.865014911
-	attPos = -0.938886166,-47.2229004,-1.31059468
-	attPos0 = 0.894592047,43.3187256,0.865014911
+	pos = 0.840293765,52.2585831,0.407922864
+	attPos = 0,-0.0779914856,0
+	attPos0 = 0.840293765,52.1335831,0.407922864
 	rot = 0,0,0,1
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
@@ -33,15 +33,17 @@ PART
 	dstg = 0
 	sidx = 1
 	sqor = 0
-	sepI = -1
+	sepI = 0
 	attm = 0
 	sameVesselCollision = False
 	modCost = 414.492676
 	modMass = 0.514492691
 	modSize = 0,0,0
-	link = HECS2.ProbeCore_4294128908
+	link = probeCoreOcto.v2_4292928216
+	link = batteryPack_4294098134
+	link = batteryPack_4292853710
 	attN = top,Null_0_0|0.200000003|0_0|1|0_0|0.737500012|0_0|1|0
-	attN = bottom,HECS2.ProbeCore_4294128908_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = bottom,probeCoreOcto.v2_4292928216_0|0|0_0|-1|0_0|0|0_0|-1|0
 	attN = connect01,Null_0_1|0.368750006|0_0|1|0_2.0625|0.368750006|0_0|1|0
 	attN = connect02,Null_0_-4.37113883E-08|0.368750006|1_0|1|0_-9.01547352E-08|0.368750006|2.0625_0|1|0
 	attN = connect03,Null_0_-1|0.368750006|-8.74227766E-08_0|1|0_-2.0625|0.368750006|-1.8030947E-07_0|1|0
@@ -134,11 +136,8 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = FairingBaseMin0_4m
-			upgrade = FairingBaseMax2_75m
-			upgrade = FairingBaseMax4m
-			upgrade = FairingBaseMax12m
-			upgrade = FairingBaseMaxUnlimited
+			upgrade = SimpleRSSFairingBase3.5M
+			upgrade = SimpleRSSFairingBase10M
 		}
 	}
 	MODULE
@@ -313,12 +312,12 @@ PART
 }
 PART
 {
-	part = HECS2.ProbeCore_4294128908
+	part = probeCoreOcto.v2_4292928216
 	partName = Part
-	persistentId = 3066894415
-	pos = 0.894592047,43.5342178,0.865014911
-	attPos = 0,0.715492249,0
-	attPos0 = 0,-0.5,0
+	persistentId = 4036766464
+	pos = 0.840293765,52.8207016,0.407922864
+	attPos = 0,0.749198914,0
+	attPos0 = 0,-0.187080383,0
 	rot = 0,0,0,1
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
@@ -331,17 +330,15 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = batteryPack_4294098134
-	link = batteryPack_4294097924
-	link = proceduralTankLiquid_4294077170
-	attN = top,KzResizableFairingBaseRing_4294169364_0|0.5|0_0|1|0_0|0.5|0_0|1|0
-	attN = bottom,proceduralTankLiquid_4294077170_0|-0.5|0_0|-1|0_0|-0.5|0_0|-1|0
+	link = sasModule_4292920590
+	attN = bottom,sasModule_4292920590_0|-0.187081799|0_0|-1|0_0|-0.187081799|0_0|-1|0
+	attN = top,KzResizableFairingBaseRing_4294169364_0|0.187081799|0_0|1|0_0|0.187081799|0_0|1|0
 	EVENTS
 	{
 	}
@@ -501,29 +498,9 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleScienceContainer
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			CollectAllAction
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
 		name = ModuleCargoPart
 		isEnabled = True
-		packedVolume = 2400
+		packedVolume = 180
 		beingAttached = False
 		beingSettled = False
 		reinitResourcesOnStoreInVessel = False
@@ -1233,7 +1210,6 @@ PART
 		isEnabled = True
 		useVariantMass = True
 		stagingEnabled = True
-		selectedVariant = Gold
 		EVENTS
 		{
 		}
@@ -1247,7 +1223,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = True
+		isEnabled = False
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -1287,10 +1263,10 @@ PART
 		isEnabled = True
 		IsRTAntenna = True
 		IsRTActive = True
-		IsRTPowered = True
+		IsRTPowered = False
 		IsRTBroken = False
 		RTDishCosAngle = 1
-		RTOmniRange = 3000
+		RTOmniRange = 0
 		RTDishRange = -1
 		stagingEnabled = True
 		EVENTS
@@ -1313,8 +1289,8 @@ PART
 		extraMass = 0
 		stagingEnabled = True
 		type = stack
-		defaultScale = 1.25
-		currentScale = 1.25
+		defaultScale = 0.625
+		currentScale = 0.625
 		EVENTS
 		{
 		}
@@ -1424,32 +1400,26 @@ PART
 	RESOURCE
 	{
 		name = ElectricCharge
-		amount = 1000
-		maxAmount = 1000
+		amount = 10
+		maxAmount = 10
 		flowState = True
 		isTweakable = True
 		hideFlow = False
 		isVisible = True
 		flowMode = Both
 	}
-	VESSELNAMING
-	{
-		name = Proton-M Booster
-		type = Probe
-		priority = 10
-	}
 }
 PART
 {
-	part = batteryPack_4294098134
+	part = sasModule_4292920590
 	partName = Part
-	persistentId = 1611749306
-	pos = 0.894592047,43.5263672,1.59289861
-	attPos = 0,0,0
-	attPos0 = 0,-0.00785064697,0.727883697
-	rot = 0,1,-5.96046448E-08,0
+	persistentId = 4268433489
+	pos = 0.840293765,52.358181,0.407922864
+	attPos = 0,-0.184329987,0
+	attPos0 = 0,-0.278190613,0
+	rot = 0,0,0,1
 	attRot = 0,0,0,1
-	attRot0 = 0,1,-5.96046448E-08,0
+	attRot0 = 0,0,0,1
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
@@ -1459,14 +1429,15 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
-	attm = 1
+	sepI = 0
+	attm = 0
 	sameVesselCollision = False
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	sym = batteryPack_4294097924
-	srfN = srfAttach,HECS2.ProbeCore_4294128908,COLLIDER_REBUILT,0|0|0,0|0|-1,0|0|0
+	link = proceduralTankLiquid_4294077170
+	attN = bottom,proceduralTankLiquid_4294077170_0|-0.0911109|0_0|-1|0_0|-0.0911109|0_0|-1|0
+	attN = top,probeCoreOcto.v2_4292928216_0|0.0911109|0_0|1|0_0|0.0911109|0_0|1|0
 	EVENTS
 	{
 	}
@@ -1490,35 +1461,33 @@ PART
 		AutostrutOff
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutRoot
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutHeaviest
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		ResourcesEnableFlow
 		{
 			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		ResourcesDisableFlow
 		{
 			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -1527,9 +1496,48 @@ PART
 	}
 	MODULE
 	{
+		name = ModuleReactionWheel
+		isEnabled = True
+		actuatorModeCycle = 0
+		authorityLimiter = 100
+		stateString = Active
+		stagingEnabled = True
+		WheelState = Active
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			CycleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Activate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Deactivate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Toggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleCargoPart
 		isEnabled = True
-		packedVolume = 35
+		packedVolume = 70
 		beingAttached = False
 		beingSettled = False
 		reinitResourcesOnStoreInVessel = False
@@ -1569,9 +1577,9 @@ PART
 		extraCost = 0
 		extraMass = 0
 		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
+		type = stack
+		defaultScale = 0.625
+		currentScale = 0.625
 		EVENTS
 		{
 		}
@@ -1581,172 +1589,6 @@ PART
 		UPGRADESAPPLIED
 		{
 		}
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4294097924
-	partName = Part
-	persistentId = 3230028490
-	pos = 0.894591987,43.5263672,0.137131214
-	attPos = 0,0,0
-	attPos0 = -5.96046448E-08,-0.00785064697,-0.727883697
-	rot = -5.96046448E-08,-4.37113883E-08,2.60540177E-15,-1
-	attRot = 0,0,0,1
-	attRot0 = -5.96046448E-08,-4.37113883E-08,2.60540177E-15,-1
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 1
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4294098134
-	srfN = srfAttach,HECS2.ProbeCore_4294128908,COLLIDER_REBUILT,0|0|0,0|0|-1,0|0|0
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleCargoPart
-		isEnabled = True
-		packedVolume = 35
-		beingAttached = False
-		beingSettled = False
-		reinitResourcesOnStoreInVessel = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
 	}
 }
 PART
@@ -1754,9 +1596,9 @@ PART
 	part = proceduralTankLiquid_4294077170
 	partName = Part
 	persistentId = 1199264556
-	pos = 0.894592047,41.4592171,0.865014911
+	pos = 0.840293765,50.3920708,0.407922864
 	attPos = 0,0.299999237,0
-	attPos0 = 0,-2.375,0
+	attPos0 = 0,-1.96611023,0
 	rot = 0,0.707106829,0,0.707106829
 	attRot = 0,0.707106769,0,0.707106769
 	attRot0 = 0,0.707106829,0,0.707106829
@@ -1769,7 +1611,7 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 0
 	sameVesselCollision = False
 	modCost = 16285.835
@@ -1788,7 +1630,7 @@ PART
 	link = proceduralStructural_4293794860
 	link = proceduralStructural_4293750634
 	link = engineLargeSkipper.v2_4294008930
-	attN = top,HECS2.ProbeCore_4294128908_0|1.875|0_0|1|0_0|1.875|0_0|1|0
+	attN = top,sasModule_4292920590_0|1.875|0_0|1|0_0|1.875|0_0|1|0
 	attN = bottom,engineLargeSkipper.v2_4294008930_0|-1.875|0_0|-1|0_0|-1.875|0_0|-1|0
 	EVENTS
 	{
@@ -1864,15 +1706,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -2009,7 +1845,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -2109,7 +1945,7 @@ PART
 	part = sepMotor1_4293959142
 	partName = Part
 	persistentId = 3738654074
-	pos = -1.01685596,42.732666,0.865015149
+	pos = -1.07115662,51.6655197,0.407923102
 	attPos = -1.80152711E-07,0.67086792,0.149103642
 	attPos0 = 1.80152711E-07,0.602581024,-2.0605495
 	rot = 0.707106888,0,-0.707106769,0
@@ -2119,12 +1955,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 5
+	istg = 0
 	resPri = 0
 	dstg = 1
 	sidx = 0
-	sqor = 5
-	sepI = -1
+	sqor = 0
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -2378,7 +2214,7 @@ PART
 	part = sepMotor1_4293958694
 	partName = Part
 	persistentId = 3680517513
-	pos = 2.80604029,42.732666,0.865014434
+	pos = 2.75174427,51.6655197,0.407922387
 	attPos = 1.78813934E-07,0.67086792,-0.149103522
 	attPos0 = 0,0.602581024,2.0605495
 	rot = -0.707106829,0,-0.707106829,0
@@ -2388,12 +2224,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 5
+	istg = 0
 	resPri = 0
 	dstg = 1
 	sidx = 0
-	sqor = 5
-	sepI = -1
+	sqor = 0
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -2639,7 +2475,7 @@ PART
 	part = SurfAntenna_4293957508
 	partName = Part
 	persistentId = 3163305737
-	pos = 0.894595385,42.0469284,2.974823
+	pos = 0.840297103,50.9797821,2.5177331
 	attPos = 0,0,0
 	attPos0 = -2.10980606,0.333034515,1.1920929E-07
 	rot = 0.50000006,0.50000006,0.50000006,0.50000006
@@ -2654,7 +2490,7 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -2859,7 +2695,7 @@ PART
 	part = SurfAntenna_4293957276
 	partName = Part
 	persistentId = 3441293080
-	pos = 0.894591808,42.0469284,-1.2447933
+	pos = 0.840293527,50.9797821,-1.70188773
 	attPos = 0,0,0
 	attPos0 = 2.10980606,0.333034515,-2.98023224E-07
 	rot = 0.50000006,0.50000006,-0.50000006,-0.50000006
@@ -2874,7 +2710,7 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -3079,7 +2915,7 @@ PART
 	part = batteryPack_4293909894
 	partName = Part
 	persistentId = 3348397699
-	pos = 0.894593835,39.5842171,1.99784791
+	pos = 0.840295553,48.5170708,1.54075706
 	attPos = 0,0,0
 	attPos0 = -1.13283205,-2.0625,7.4505806E-08
 	rot = -0.707106829,0,0,0.707106829
@@ -3094,7 +2930,7 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -3234,7 +3070,7 @@ PART
 	part = batteryPack_4293909104
 	partName = Part
 	persistentId = 3868222628
-	pos = 0.894591928,39.5842171,-0.267818213
+	pos = 0.840293646,48.5170708,-0.724911451
 	attPos = 0,0,0
 	attPos0 = 1.13283205,-2.0625,-1.78813934E-07
 	rot = 0,0.707106829,0.707106829,0
@@ -3249,7 +3085,7 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -3389,7 +3225,7 @@ PART
 	part = LiquidEngineRV-1_4293938056
 	partName = Part
 	persistentId = 3655842110
-	pos = -1.00541139,40.0425491,0.865015268
+	pos = -1.05971396,48.9754028,0.407923222
 	attPos = 2.01165676E-07,0.512306213,0.402209282
 	attPos0 = -2.01165676E-07,-2.21230698,-2.30220914
 	rot = 0,0.707106769,0,-0.707106888
@@ -3399,12 +3235,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 6
+	istg = 1
 	resPri = 0
 	dstg = 1
 	sidx = 0
-	sqor = 6
-	sepI = -1
+	sqor = 1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -3777,7 +3613,7 @@ PART
 	part = LiquidEngineRV-1_4293790148
 	partName = Part
 	persistentId = 326100009
-	pos = 0.894591689,40.0425491,2.76501846
+	pos = 0.840293407,48.9754028,2.30793095
 	attPos = 0.402209163,0.512306213,-1.78813934E-07
 	attPos0 = -2.3022089,-2.21230698,5.96046448E-08
 	rot = 0,-1.1920929E-07,0,-1.00000012
@@ -3787,12 +3623,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 6
+	istg = 1
 	resPri = 0
 	dstg = 1
 	sidx = 0
-	sqor = 6
-	sepI = -1
+	sqor = 1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -4165,7 +4001,7 @@ PART
 	part = LiquidEngineRV-1_4293789938
 	partName = Part
 	persistentId = 2023504390
-	pos = 2.79459572,40.0425491,0.865014553
+	pos = 2.74030161,48.9754028,0.407922506
 	attPos = -2.36555934E-07,0.512306213,-0.402209282
 	attPos0 = 4.02331352E-07,-2.21230698,2.30220914
 	rot = 0,-0.707106888,0,-0.707106769
@@ -4175,12 +4011,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 6
+	istg = 1
 	resPri = 0
 	dstg = 1
 	sidx = 0
-	sqor = 6
-	sepI = -1
+	sqor = 1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -4553,7 +4389,7 @@ PART
 	part = LiquidEngineRV-1_4293789728
 	partName = Part
 	persistentId = 21519506
-	pos = 0.894591689,40.0425491,-1.03498828
+	pos = 0.840293407,48.9754028,-1.49208462
 	attPos = -0.402209163,0.512306213,2.38418579E-07
 	attPos0 = 2.3022089,-2.21230698,-3.57627869E-07
 	rot = 0,-1.00000012,0,1.1920929E-07
@@ -4563,12 +4399,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 6
+	istg = 1
 	resPri = 0
 	dstg = 1
 	sidx = 0
-	sqor = 6
-	sepI = -1
+	sqor = 1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -4941,7 +4777,7 @@ PART
 	part = proceduralStructural_4293794860
 	partName = Part
 	persistentId = 3343054806
-	pos = -1.20541024,41.4111595,0.865015149
+	pos = -1.25971091,50.3440132,0.407923102
 	attPos = -1.8812716E-07,0.217033386,0.0623807907
 	attPos0 = 1.8812716E-07,-0.274681091,-2.16238093
 	rot = 0.000222072107,-0.707106829,-0.000222072078,-0.707106829
@@ -4956,7 +4792,7 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 22.4169846
@@ -5042,15 +4878,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -5187,7 +5017,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -5265,7 +5095,7 @@ PART
 	part = proceduralStructural_4293750634
 	partName = Part
 	persistentId = 1188812993
-	pos = 2.99459457,41.4111595,0.865014672
+	pos = 2.94029856,50.3440132,0.407922626
 	attPos = 1.8440187E-07,0.217033386,-0.0623807907
 	attPos0 = 0,-0.274681091,2.16238093
 	rot = -0.000222072093,-0.707106829,-0.000222072093,0.707106829
@@ -5280,7 +5110,7 @@ PART
 	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = -1
+	sepI = 0
 	attm = 1
 	sameVesselCollision = False
 	modCost = 22.4169846
@@ -5366,15 +5196,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -5511,7 +5335,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -5589,7 +5413,7 @@ PART
 	part = engineLargeSkipper.v2_4294008930
 	partName = Part
 	persistentId = 182170204
-	pos = 0.894592047,38.5712166,0.865014911
+	pos = 0.840293765,47.5040703,0.407922864
 	attPos = 0,-1.48959732,0
 	attPos0 = 0,1.46199799,0
 	rot = 0,0.707106829,0,0.707106829
@@ -5599,12 +5423,12 @@ PART
 	symMethod = Radial
 	autostrutMode = ForceGrandparent
 	rigidAttachment = False
-	istg = 6
+	istg = 1
 	resPri = 0
 	dstg = 1
 	sidx = 1
-	sqor = 6
-	sepI = -1
+	sqor = 1
+	sepI = 0
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
@@ -5996,7 +5820,7 @@ PART
 	part = proceduralStackDecoupler_4293851392
 	partName = Part
 	persistentId = 158647461
-	pos = 0.894592047,37.1092186,0.865014911
+	pos = 0.840293765,46.0420723,0.407922864
 	attPos = 0,0,0
 	attPos0 = 0,-1.46199799,0
 	rot = 0,0.707106829,0,0.707106829
@@ -6006,12 +5830,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 2
 	sidx = 1
-	sqor = 7
-	sepI = 7
+	sqor = 2
+	sepI = 2
 	attm = 0
 	sameVesselCollision = False
 	modCost = 653.988647
@@ -6096,10 +5920,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsDecoupler3m
-			upgrade = ProceduralPartsDecoupler4.5m
-			upgrade = ProceduralPartsDecoupler0.125m
-			upgrade = ProceduralPartsDecouplerUnlimited
+			upgrade = SimpleRSSProceduralPartsStackDecoupler3.5M
+			upgrade = SimpleRSSProceduralPartsStackDecoupler10M
+			upgrade = SimpleRSSProceduralPartsStackDecouplerInfinite
 		}
 	}
 	MODULE
@@ -6218,8 +6041,8 @@ PART
 		nSides = 24
 		shroudEnabled = True
 		autoDetectSize = True
-		topWidth = 4.12500191
-		botWidth = 4.12500143
+		topWidth = 4.12500095
+		botWidth = 4.12500048
 		thickness = 0.129999995
 		height = 2.37499857
 		vertOffset = 0
@@ -6262,7 +6085,7 @@ PART
 	part = proceduralTankLiquid_4293846298
 	partName = Part
 	persistentId = 2387073978
-	pos = 0.894592047,30.1967201,0.865014911
+	pos = 0.840293765,39.1295738,0.407922864
 	attPos = 0,0,0
 	attPos0 = 0,-4.09999847,0
 	rot = 0,0.707106829,0,0.707106829
@@ -6272,12 +6095,12 @@ PART
 	symMethod = Radial
 	autostrutMode = ForceGrandparent
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = -1
 	sqor = -1
-	sepI = 7
+	sepI = 2
 	attm = 0
 	sameVesselCollision = False
 	modCost = 59171.8516
@@ -6291,15 +6114,15 @@ PART
 	link = proceduralStructural_4293796920
 	link = proceduralStructural_4293796836
 	link = proceduralStructural_4293796752
-	link = flagPartSize4_4293767754
-	link = flagPartSize4_4293761632
-	link = flagPartSize4_4293761272
-	link = flagPartSize4_4293760912
 	link = engineLargeSkipper.v2_4293819210
 	link = engineLargeSkipper.v2_4292380162
 	link = engineLargeSkipper.v2_4292379634
 	link = engineLargeSkipper.v2_4292379106
 	link = Size1p5.Strut.Decoupler_4294128944
+	link = flagPartSize1_4289094404
+	link = flagPartSize1_4289092602
+	link = flagPartSize1_4289092242
+	link = flagPartSize1_4289091882
 	attN = top,proceduralStackDecoupler_4293851392_0|6.81249952|0_0|1|0_0|6.81249952|0_0|1|0
 	attN = bottom,Size1p5.Strut.Decoupler_4294128944_0|-6.81249952|0_0|-1|0_0|-6.81249952|0_0|-1|0
 	EVENTS
@@ -6376,15 +6199,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -6521,7 +6338,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -6621,7 +6438,7 @@ PART
 	part = sepMotor1_4293800740
 	partName = Part
 	persistentId = 249254810
-	pos = -1.01209784,36.3303223,0.867896676
+	pos = -1.0663985,45.263176,0.410804629
 	attPos = -0.00288170762,-1.24155617,0.151849508
 	attPos0 = 1.80676579E-07,7.37515831,-2.05853724
 	rot = 0.707106888,0,-0.707106769,0
@@ -6631,12 +6448,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 7
-	sepI = 7
+	sqor = 2
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -6892,7 +6709,7 @@ PART
 	part = sepMotor1_4293799746
 	partName = Part
 	persistentId = 28959093
-	pos = 0.897473693,36.3303223,2.77170467
+	pos = 0.843175411,45.263176,2.31461525
 	attPos = 0.151849389,-1.24155617,0.00288170576
 	attPos0 = -2.05853701,7.37515831,-2.98023224E-07
 	rot = 1.1920929E-07,0,-1.00000012,0
@@ -6902,12 +6719,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 7
-	sepI = 7
+	sqor = 2
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -7155,7 +6972,7 @@ PART
 	part = sepMotor1_4293799664
 	partName = Part
 	persistentId = 4115898102
-	pos = 2.80128193,36.3303223,0.862132907
+	pos = 2.74698591,45.263176,0.40504086
 	attPos = 0.00288170576,-1.24155617,-0.151849627
 	attPos0 = 0,7.37515831,2.05853724
 	rot = -0.707106829,0,-0.707106829,0
@@ -7165,12 +6982,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 7
-	sepI = 7
+	sqor = 2
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -7418,7 +7235,7 @@ PART
 	part = sepMotor1_4293799582
 	partName = Part
 	persistentId = 94885175
-	pos = 0.891710162,36.3303223,-1.04167497
+	pos = 0.83741188,45.263176,-1.4987694
 	attPos = -0.15184927,-1.24155617,-0.00288170576
 	attPos0 = 2.05853701,7.37515831,5.96046448E-08
 	rot = -1.00000012,0,-1.1920929E-07,0
@@ -7428,12 +7245,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 7
-	sepI = 7
+	sqor = 2
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -7681,7 +7498,7 @@ PART
 	part = proceduralStructural_4293926812
 	partName = Part
 	persistentId = 2042052520
-	pos = -1.20794034,30.1847153,0.865014195
+	pos = -1.26224101,39.117569,0.407922149
 	attPos = 0.0103286523,-5.54708099,0.0604999065
 	attPos0 = -0.0103280041,5.53507423,-2.16303062
 	rot = 0,0.730757177,0,0.682637632
@@ -7691,12 +7508,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = -1
 	sqor = -1
-	sepI = 7
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 92.1213837
@@ -7784,15 +7601,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -7929,7 +7740,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -8007,7 +7818,7 @@ PART
 	part = proceduralStructural_4293796920
 	partName = Part
 	persistentId = 2502076929
-	pos = 0.89459157,30.1847153,2.96754789
+	pos = 0.840293288,39.117569,2.51045799
 	attPos = 0.0604994297,-5.54708099,-0.0103286505
 	attPos0 = -2.16303039,5.53507423,0.0103278756
 	rot = 0,-0.999421,0,0.0340256393
@@ -8017,12 +7828,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = -1
 	sqor = -1
-	sepI = 7
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 92.1213837
@@ -8110,15 +7921,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -8255,7 +8060,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -8333,7 +8138,7 @@ PART
 	part = proceduralStructural_4293796836
 	partName = Part
 	persistentId = 1344653132
-	pos = 2.99712467,30.1847153,0.865015149
+	pos = 2.94282866,39.117569,0.407923102
 	attPos = -0.0103290947,-5.54708099,-0.0604999065
 	attPos0 = 0.0103281932,5.53507423,2.16303062
 	rot = 0,-0.682637632,0,0.730757177
@@ -8343,12 +8148,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = -1
 	sqor = -1
-	sepI = 7
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 92.1213837
@@ -8436,15 +8241,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -8581,7 +8380,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -8659,7 +8458,7 @@ PART
 	part = proceduralStructural_4293796752
 	partName = Part
 	persistentId = 880011645
-	pos = 0.894592047,30.1847153,-1.23751795
+	pos = 0.840293765,39.117569,-1.69461238
 	attPos = -0.0604994297,-5.54708099,0.0103287101
 	attPos0 = 2.16303039,5.53507423,-0.010328114
 	rot = 0,0.0340257585,0,0.999421
@@ -8669,12 +8468,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 7
+	istg = 2
 	resPri = 0
 	dstg = 3
 	sidx = -1
 	sqor = -1
-	sepI = 7
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 92.1213837
@@ -8762,15 +8561,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -8907,7 +8700,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -8982,1282 +8775,10 @@ PART
 }
 PART
 {
-	part = flagPartSize4_4293767754
-	partName = Part
-	persistentId = 1358966626
-	pos = -0.63565886,30.3358231,2.39526629
-	attPos = 0,0,0
-	attPos0 = -1.53024757,0.163352966,-1.53024745
-	rot = 3.38008067E-05,-0.923879623,-8.16023821E-05,-0.382683486
-	attRot = 0,0,0,1
-	attRot0 = 8.16023748E-05,-0.382683456,-3.3800814E-05,-0.923879564
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 7
-	resPri = 0
-	dstg = 3
-	sidx = -1
-	sqor = -1
-	sepI = 7
-	attm = 1
-	sameVesselCollision = False
-	modCost = 25
-	modMass = 0.00270000007
-	modSize = 0,0,0
-	sym = flagPartSize4_4293761632
-	sym = flagPartSize4_4293761272
-	sym = flagPartSize4_4293760912
-	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.102499999,0|0|-1.02499998,0|0|0.102499999
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = FlagDecalBackground
-		isEnabled = True
-		currentflagUrl = Squad/Flags/default
-		displayingPortrait = True
-		flagSize = 1
-		placementID = 0
-		flagDisplayed = True
-		isMirrored = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallPortrait
-			orientation = PORTRAIT
-			mass = 0.00144000002
-			cost = 12.5
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallLandscape
-			orientation = LANDSCAPE
-			mass = 0
-			cost = 0
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0225000009
-			cost = 50
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.00810000021
-			cost = 25
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumPortrait
-			orientation = PORTRAIT
-			mass = 0.00846000016
-			cost = 50
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumLandscape
-			orientation = LANDSCAPE
-			mass = 0.00270000007
-			cost = 25
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0926999971
-			cost = 125
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.0351000018
-			cost = 75
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargePortrait
-			orientation = PORTRAIT
-			mass = 0.0365400016
-			cost = 125
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargeLandscape
-			orientation = LANDSCAPE
-			mass = 0.0135000004
-			cost = 75
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargePortraitPanel
-			orientation = PORTRAIT
-			mass = 0.37349999
-			cost = 275
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargeLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.143099993
-			cost = 175
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModulePartVariants
-		isEnabled = True
-		useVariantMass = True
-		stagingEnabled = True
-		selectedVariant = TransparentBackground
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleCargoPart
-		isEnabled = True
-		packedVolume = 25
-		beingAttached = False
-		beingSettled = False
-		reinitResourcesOnStoreInVessel = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = True
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free_square
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = flagPartSize4_4293761632
-	partName = Part
-	persistentId = 1769571720
-	pos = 2.42484474,30.3358231,2.39526391
-	attPos = 0,0,0
-	attPos0 = -1.53024745,0.163352966,1.53024733
-	rot = -3.38008176E-05,-0.923879623,-8.16023821E-05,0.382683516
-	attRot = 0,0,0,1
-	attRot0 = 3.38008067E-05,-0.923879564,-8.16023748E-05,-0.382683426
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 7
-	resPri = 0
-	dstg = 3
-	sidx = -1
-	sqor = -1
-	sepI = 7
-	attm = 1
-	sameVesselCollision = False
-	modCost = 25
-	modMass = 0.00270000007
-	modSize = 0,0,0
-	sym = flagPartSize4_4293761272
-	sym = flagPartSize4_4293760912
-	sym = flagPartSize4_4293767754
-	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.102499999,0|0|-1.02499998,0|0|0.102499999
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = FlagDecalBackground
-		isEnabled = True
-		currentflagUrl = Squad/Flags/default
-		displayingPortrait = True
-		flagSize = 1
-		placementID = 0
-		flagDisplayed = True
-		isMirrored = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallPortrait
-			orientation = PORTRAIT
-			mass = 0.00144000002
-			cost = 12.5
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallLandscape
-			orientation = LANDSCAPE
-			mass = 0
-			cost = 0
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0225000009
-			cost = 50
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.00810000021
-			cost = 25
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumPortrait
-			orientation = PORTRAIT
-			mass = 0.00846000016
-			cost = 50
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumLandscape
-			orientation = LANDSCAPE
-			mass = 0.00270000007
-			cost = 25
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0926999971
-			cost = 125
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.0351000018
-			cost = 75
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargePortrait
-			orientation = PORTRAIT
-			mass = 0.0365400016
-			cost = 125
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargeLandscape
-			orientation = LANDSCAPE
-			mass = 0.0135000004
-			cost = 75
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargePortraitPanel
-			orientation = PORTRAIT
-			mass = 0.37349999
-			cost = 275
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargeLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.143099993
-			cost = 175
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModulePartVariants
-		isEnabled = True
-		useVariantMass = True
-		stagingEnabled = True
-		selectedVariant = TransparentBackground
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleCargoPart
-		isEnabled = True
-		packedVolume = 25
-		beingAttached = False
-		beingSettled = False
-		reinitResourcesOnStoreInVessel = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = True
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free_square
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = flagPartSize4_4293761272
-	partName = Part
-	persistentId = 4061824640
-	pos = 2.42484188,30.3358231,-0.66523695
-	attPos = 0,0,0
-	attPos0 = 1.53024769,0.163352966,1.53024733
-	rot = -8.16023821E-05,-0.382683426,-3.38008103E-05,0.923879623
-	attRot = 0,0,0,1
-	attRot0 = -3.38008176E-05,-0.923879564,-8.16023748E-05,0.382683486
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 7
-	resPri = 0
-	dstg = 3
-	sidx = -1
-	sqor = -1
-	sepI = 7
-	attm = 1
-	sameVesselCollision = False
-	modCost = 25
-	modMass = 0.00270000007
-	modSize = 0,0,0
-	sym = flagPartSize4_4293760912
-	sym = flagPartSize4_4293767754
-	sym = flagPartSize4_4293761632
-	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.102499999,0|0|-1.02499998,0|0|0.102499999
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = FlagDecalBackground
-		isEnabled = True
-		currentflagUrl = Squad/Flags/default
-		displayingPortrait = True
-		flagSize = 1
-		placementID = 0
-		flagDisplayed = True
-		isMirrored = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallPortrait
-			orientation = PORTRAIT
-			mass = 0.00144000002
-			cost = 12.5
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallLandscape
-			orientation = LANDSCAPE
-			mass = 0
-			cost = 0
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0225000009
-			cost = 50
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.00810000021
-			cost = 25
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumPortrait
-			orientation = PORTRAIT
-			mass = 0.00846000016
-			cost = 50
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumLandscape
-			orientation = LANDSCAPE
-			mass = 0.00270000007
-			cost = 25
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0926999971
-			cost = 125
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.0351000018
-			cost = 75
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargePortrait
-			orientation = PORTRAIT
-			mass = 0.0365400016
-			cost = 125
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargeLandscape
-			orientation = LANDSCAPE
-			mass = 0.0135000004
-			cost = 75
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargePortraitPanel
-			orientation = PORTRAIT
-			mass = 0.37349999
-			cost = 275
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargeLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.143099993
-			cost = 175
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModulePartVariants
-		isEnabled = True
-		useVariantMass = True
-		stagingEnabled = True
-		selectedVariant = TransparentBackground
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleCargoPart
-		isEnabled = True
-		packedVolume = 25
-		beingAttached = False
-		beingSettled = False
-		reinitResourcesOnStoreInVessel = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free_square
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
-	part = flagPartSize4_4293760912
-	partName = Part
-	persistentId = 1486008364
-	pos = -0.635659099,30.3358231,-0.665235758
-	attPos = 0,0,0
-	attPos0 = 1.53024721,0.163352966,-1.53024745
-	rot = -8.16023821E-05,0.382683516,3.38008176E-05,0.923879623
-	attRot = 0,0,0,1
-	attRot0 = -8.16023748E-05,-0.382683426,-3.38008067E-05,0.923879564
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 7
-	resPri = 0
-	dstg = 3
-	sidx = -1
-	sqor = -1
-	sepI = 7
-	attm = 1
-	sameVesselCollision = False
-	modCost = 25
-	modMass = 0.00270000007
-	modSize = 0,0,0
-	sym = flagPartSize4_4293767754
-	sym = flagPartSize4_4293761632
-	sym = flagPartSize4_4293761272
-	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.102499999,0|0|-1.02499998,0|0|0.102499999
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = FlagDecalBackground
-		isEnabled = True
-		currentflagUrl = Squad/Flags/default
-		displayingPortrait = True
-		flagSize = 1
-		placementID = 0
-		flagDisplayed = True
-		isMirrored = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallPortrait
-			orientation = PORTRAIT
-			mass = 0.00144000002
-			cost = 12.5
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small
-			meshName = 5.0SmallLandscape
-			orientation = LANDSCAPE
-			mass = 0
-			cost = 0
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0225000009
-			cost = 50
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = small
-			displayName = Small Panel
-			meshName = 5.0SmallLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.00810000021
-			cost = 25
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumPortrait
-			orientation = PORTRAIT
-			mass = 0.00846000016
-			cost = 50
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium
-			meshName = 5.0MediumLandscape
-			orientation = LANDSCAPE
-			mass = 0.00270000007
-			cost = 25
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumPortraitPanel
-			orientation = PORTRAIT
-			mass = 0.0926999971
-			cost = 125
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = medium
-			displayName = Medium Panel
-			meshName = 5.0MediumLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.0351000018
-			cost = 75
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargePortrait
-			orientation = PORTRAIT
-			mass = 0.0365400016
-			cost = 125
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large
-			meshName = 5.0LargeLandscape
-			orientation = LANDSCAPE
-			mass = 0.0135000004
-			cost = 75
-			variantNames = White,Dark,Orange,TransparentBackground
-			indexOffset = 0
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargePortraitPanel
-			orientation = PORTRAIT
-			mass = 0.37349999
-			cost = 275
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		MESH
-		{
-			name = large
-			displayName = Large Panel
-			meshName = 5.0LargeLandscapePanel
-			orientation = LANDSCAPE
-			mass = 0.143099993
-			cost = 175
-			variantNames = WhitePanel,DarkPanel,OrangePanel
-			indexOffset = 1000
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModulePartVariants
-		isEnabled = True
-		useVariantMass = True
-		stagingEnabled = True
-		selectedVariant = TransparentBackground
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleCargoPart
-		isEnabled = True
-		packedVolume = 25
-		beingAttached = False
-		beingSettled = False
-		reinitResourcesOnStoreInVessel = False
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free_square
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = engineLargeSkipper.v2_4293819210
 	partName = Part
 	persistentId = 3504825660
-	pos = 0.894592166,23.6967201,1.86501658
+	pos = 0.840293884,32.6295738,1.40792668
 	attPos = 0.317063451,1.32550049,-1.1920929E-07
 	attPos0 = -1.31706345,-7.82550049,1.1920929E-07
 	rot = 0,-0.707106829,0,-0.707106829
@@ -10267,12 +8788,12 @@ PART
 	symMethod = Radial
 	autostrutMode = ForceGrandparent
 	rigidAttachment = False
-	istg = 8
+	istg = 3
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 8
-	sepI = 7
+	sqor = 3
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -10667,7 +9188,7 @@ PART
 	part = engineLargeSkipper.v2_4292380162
 	partName = Part
 	persistentId = 4091727040
-	pos = 1.89459383,23.6967201,0.865014911
+	pos = 1.8402977,32.6295738,0.407922864
 	attPos = -1.1920929E-07,1.32550049,-0.31706357
 	attPos0 = 5.96046448E-08,-7.82550049,1.31706345
 	rot = 0,-1.00000012,0,0
@@ -10677,12 +9198,12 @@ PART
 	symMethod = Radial
 	autostrutMode = ForceGrandparent
 	rigidAttachment = False
-	istg = 8
+	istg = 3
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 8
-	sepI = 7
+	sqor = 3
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -11077,7 +9598,7 @@ PART
 	part = engineLargeSkipper.v2_4292379634
 	partName = Part
 	persistentId = 378463454
-	pos = 0.894591808,23.6967201,-0.134986877
+	pos = 0.840293527,32.6295738,-0.59208107
 	attPos = -0.317063332,1.32550049,1.1920929E-07
 	attPos0 = 1.31706333,-7.82550049,-2.38418579E-07
 	rot = 0,-0.707106769,0,0.707106888
@@ -11087,12 +9608,12 @@ PART
 	symMethod = Radial
 	autostrutMode = ForceGrandparent
 	rigidAttachment = False
-	istg = 8
+	istg = 3
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 8
-	sepI = 7
+	sqor = 3
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -11487,7 +10008,7 @@ PART
 	part = engineLargeSkipper.v2_4292379106
 	partName = Part
 	persistentId = 675991490
-	pos = -0.105409622,23.6967201,0.86501503
+	pos = -0.15971005,32.6295738,0.407922983
 	attPos = 1.1920929E-07,1.32550049,0.317063391
 	attPos0 = -1.78813934E-07,-7.82550049,-1.31706333
 	rot = 0,0,0,1.00000012
@@ -11497,12 +10018,12 @@ PART
 	symMethod = Radial
 	autostrutMode = ForceGrandparent
 	rigidAttachment = False
-	istg = 8
+	istg = 3
 	resPri = 0
 	dstg = 3
 	sidx = 0
-	sqor = 8
-	sepI = 7
+	sqor = 3
+	sepI = 2
 	attm = 1
 	sameVesselCollision = False
 	modCost = 0
@@ -11897,7 +10418,7 @@ PART
 	part = Size1p5.Strut.Decoupler_4294128944
 	partName = Part
 	persistentId = 2827786821
-	pos = 0.894592047,22.8342209,0.865014911
+	pos = 0.840293765,31.7670746,0.407922864
 	attPos = 0,5.34999847,0
 	attPos0 = 0,-7.36249924,0
 	rot = 0,0.707106829,0,0.707106829
@@ -11907,12 +10428,12 @@ PART
 	symMethod = Radial
 	autostrutMode = ForceGrandparent
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 4
 	sidx = 1
-	sqor = 9
-	sepI = 9
+	sqor = 4
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 229.538895
@@ -12124,7 +10645,7 @@ PART
 	part = proceduralStructural_4293592610
 	partName = Part
 	persistentId = 314649531
-	pos = 0.894592047,21.9092216,0.865014911
+	pos = 0.840293765,30.8420753,0.407922864
 	attPos = 0,0,0
 	attPos0 = 0,8.375,0
 	rot = 0,0.707106829,0,0.707106829
@@ -12134,12 +10655,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 59.6798058
@@ -12224,15 +10745,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -12369,7 +10884,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75000006
 		fillet = 0.25
@@ -12447,7 +10962,7 @@ PART
 	part = proceduralTankLiquid_4294017130
 	partName = Part
 	persistentId = 1918964555
-	pos = 0.894592047,13.1592216,0.865014911
+	pos = 0.840293765,22.0920753,0.407922864
 	attPos = 0,0,0
 	attPos0 = 0.496997893,35.481041,-1.5025835
 	rot = 0,0.707106829,0,0.707106829
@@ -12457,12 +10972,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 72743.3672
@@ -12557,15 +11072,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -12702,7 +11211,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -12802,7 +11311,7 @@ PART
 	part = proceduralTankLiquid_4294006454
 	partName = Part
 	persistentId = 3071712638
-	pos = 0.894591808,10.6959877,3.46501732
+	pos = 0.840293527,19.6288414,3.00792742
 	attPos = 0.335325003,-3.2940712,-2.38418579E-07
 	attPos0 = -2.93532515,0.794071198,2.38418579E-07
 	rot = 0,-1.00000012,0,0
@@ -12812,12 +11321,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 15053.7041
@@ -12907,15 +11416,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -13052,7 +11555,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -13152,7 +11655,7 @@ PART
 	part = proceduralStructural_4293732882
 	partName = Part
 	persistentId = 3549819619
-	pos = 0.894591808,18.9439468,3.11770153
+	pos = 0.840293527,27.8768005,2.66061163
 	attPos = -2.98023224E-08,1.87295818,0.347315818
 	attPos0 = 0,6.37500095,0
 	rot = -0.0741385818,0,-7.4505806E-09,0.997248113
@@ -13162,12 +11665,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1720.95593
@@ -13256,15 +11759,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -13401,7 +11898,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -13479,7 +11976,7 @@ PART
 	part = proceduralStructural_4293632642
 	partName = Part
 	persistentId = 1360742508
-	pos = 0.894591808,3.6959877,3.46501732
+	pos = 0.840293527,12.6288414,3.00792742
 	attPos = 0,-0.625,0
 	attPos0 = 0,-6.93749905,0
 	rot = 0,-0.258819014,0,-0.965925932
@@ -13489,19 +11986,19 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1862.65051
 	modMass = -0.607450247
 	modSize = 0,0,0
 	link = liquidEngineMainsail.v2_4293612236
-	link = launchClamp1_4293272958
+	link = launchClamp1_4292463034
 	sym = proceduralStructural_4293634402
 	sym = proceduralStructural_4293632978
 	sym = proceduralStructural_4293632894
@@ -13585,15 +12082,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -13730,7 +12221,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -13808,22 +12299,22 @@ PART
 	part = liquidEngineMainsail.v2_4293612236
 	partName = Part
 	persistentId = 1713224028
-	pos = 0.894591808,2.89598846,3.06501579
+	pos = 0.840293527,11.8288422,2.6079278
 	attPos = 0.200000167,0.875726461,-0.346410424
 	attPos0 = 0,-1.6757257,0
-	rot = -8.64796429E-12,2.68220901E-07,-1.27480353E-11,-1.00000012
+	rot = -8.64796429E-12,2.68220901E-07,-1.27480335E-11,-1.00000012
 	attRot = 1.51292503E-11,0.707106888,2.89918848E-12,0.70710659
 	attRot0 = 5.05385534E-12,-0.258818895,1.45519118E-11,0.965925872
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 10
+	istg = 5
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 10
-	sepI = 9
+	sqor = 5
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
@@ -14216,232 +12707,10 @@ PART
 }
 PART
 {
-	part = launchClamp1_4293272958
-	partName = Part
-	persistentId = 3434718802
-	pos = 0.894591689,2.56406403,5.37012434
-	attPos = -0.0273569226,-1.09944355,0.0473845005
-	attPos0 = -0.952549636,-1.13192368,1.64986348
-	rot = 5.32907052E-15,1.00000012,-2.09225277E-08,2.68220901E-07
-	attRot = 0,0,0,1
-	attRot0 = -5.41515099E-09,-0.965925813,2.02096064E-08,-0.258819163
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 10
-	resPri = 0
-	dstg = 5
-	sidx = 1
-	sqor = 10
-	sepI = 10
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = launchClamp1_4294256222
-	sym = launchClamp1_4294256064
-	sym = launchClamp1_4294255906
-	sym = launchClamp1_4294255748
-	sym = launchClamp1_4294255590
-	srfN = srfAttach,proceduralStructural_4293632642,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleGenerator
-		isEnabled = True
-		generatorIsActive = False
-		throttle = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ActivateAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ShutdownAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTestSubject
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRestockLaunchClamp
-		isEnabled = True
-		scaleFactor = 1.61210823
-		height = 3.22421646
-		stagingEnabled = True
-		towerRot = -9.96815139E-15,-1,4.27782183E-08,1.77821846E-07
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ReleaseClamp
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRTAntennaPassive
-		isEnabled = True
-		IsRTAntenna = True
-		IsRTActive = True
-		IsRTPowered = True
-		IsRTBroken = False
-		RTDishCosAngle = 1
-		RTOmniRange = 5000
-		RTDishRange = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = proceduralTankLiquid_4293801202
 	partName = Part
 	persistentId = 3822105539
-	pos = 3.14626098,10.6959877,2.1650157
+	pos = 3.0919652,19.6288414,1.7079252
 	attPos = 0.167662263,-3.2940712,-0.290400267
 	attPos0 = -1.46766233,0.794071198,2.54206634
 	rot = 0,-0.866025507,0,0.50000006
@@ -14451,12 +12720,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 15053.7041
@@ -14546,15 +12815,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -14691,7 +12954,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -14791,22 +13054,22 @@ PART
 	part = proceduralStructural_4293733602
 	partName = Part
 	persistentId = 3809690130
-	pos = 2.84547663,18.9439468,1.99135721
+	pos = 2.79118037,27.8768005,1.53426635
 	attPos = 2.98023224E-08,1.87295818,0.347315729
 	attPos0 = 0,6.37500095,0
-	rot = -0.0642059147,0.498624086,0.0370692946,0.863642097
+	rot = -0.0642059594,0.498624086,0.0370693281,0.863642097
 	attRot = 0,0,0,1
 	attRot0 = 0,-0.965925872,0,0.258818984
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1720.95593
@@ -14895,15 +13158,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -15040,7 +13297,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -15118,7 +13375,7 @@ PART
 	part = proceduralStructural_4293634402
 	partName = Part
 	persistentId = 3599579859
-	pos = 3.14626098,3.6959877,2.1650157
+	pos = 3.0919652,12.6288414,1.7079252
 	attPos = 0,-0.625,0
 	attPos0 = 0,-6.93749905,0
 	rot = 0,-0.707106888,0,-0.707106888
@@ -15128,19 +13385,19 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1862.65051
 	modMass = -0.607450247
 	modSize = 0,0,0
 	link = liquidEngineMainsail.v2_4293611862
-	link = launchClamp1_4294256222
+	link = launchClamp1_4292462876
 	sym = proceduralStructural_4293632978
 	sym = proceduralStructural_4293632894
 	sym = proceduralStructural_4293632810
@@ -15224,15 +13481,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -15369,7 +13620,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -15447,7 +13698,7 @@ PART
 	part = liquidEngineMainsail.v2_4293611862
 	partName = Part
 	persistentId = 134707675
-	pos = 2.7998476,2.89598846,1.96501374
+	pos = 2.74555326,11.8288422,1.50792253
 	attPos = 0.200000405,0.875726461,-0.346411049
 	attPos0 = 0,-1.6757257,0
 	rot = -1.38633688E-11,-0.500000119,-6.71613112E-12,-0.866025567
@@ -15457,12 +13708,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 10
+	istg = 5
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 10
-	sepI = 9
+	sqor = 5
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
@@ -15855,232 +14106,10 @@ PART
 }
 PART
 {
-	part = launchClamp1_4294256222
-	partName = Part
-	persistentId = 166368314
-	pos = 4.79613686,2.56406403,3.11757088
-	attPos = -0.0273569226,-1.09944355,0.0473845005
-	attPos0 = -0.952550173,-1.13192368,1.64986467
-	rot = -1.04612639E-08,0.866025507,-1.81194544E-08,-0.49999994
-	attRot = 0,0,0,1
-	attRot0 = -5.41515011E-09,-0.965925813,2.02096082E-08,-0.258819163
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 10
-	resPri = 0
-	dstg = 5
-	sidx = 1
-	sqor = 10
-	sepI = 10
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = launchClamp1_4294256064
-	sym = launchClamp1_4294255906
-	sym = launchClamp1_4294255748
-	sym = launchClamp1_4294255590
-	sym = launchClamp1_4293272958
-	srfN = srfAttach,proceduralStructural_4293634402,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleGenerator
-		isEnabled = True
-		generatorIsActive = False
-		throttle = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ActivateAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ShutdownAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTestSubject
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRestockLaunchClamp
-		isEnabled = True
-		scaleFactor = 1.61210823
-		height = 3.22421646
-		stagingEnabled = True
-		towerRot = 2.13891074E-08,-0.866025388,3.7047041E-08,-0.5
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ReleaseClamp
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRTAntennaPassive
-		isEnabled = True
-		IsRTAntenna = True
-		IsRTActive = True
-		IsRTPowered = True
-		IsRTBroken = False
-		RTDishCosAngle = 1
-		RTOmniRange = 5000
-		RTDishRange = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = proceduralTankLiquid_4293800630
 	partName = Part
 	persistentId = 2678913608
-	pos = 3.14626002,10.6959877,-0.434987187
+	pos = 3.09196424,19.6288414,-0.892080545
 	attPos = -0.16766274,-3.2940712,-0.290400028
 	attPos0 = 1.46766317,0.794071198,2.5420661
 	rot = 0,-0.49999997,0,0.866025448
@@ -16090,12 +14119,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 15053.7041
@@ -16185,15 +14214,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -16330,7 +14353,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -16430,7 +14453,7 @@ PART
 	part = proceduralStructural_4293733218
 	partName = Part
 	persistentId = 1447708298
-	pos = 2.84547567,18.9439468,-0.261329174
+	pos = 2.79117966,27.8768005,-0.718422413
 	attPos = -1.78813934E-07,1.87295818,0.347315937
 	attPos0 = 0,6.37500095,0
 	rot = -0.0370692872,0.863642156,0.0642058924,0.498624027
@@ -16440,12 +14463,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1720.95593
@@ -16534,15 +14557,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -16679,7 +14696,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -16757,7 +14774,7 @@ PART
 	part = proceduralStructural_4293632978
 	partName = Part
 	persistentId = 4283842686
-	pos = 3.14626002,3.6959877,-0.434987187
+	pos = 3.09196424,12.6288414,-0.892080545
 	attPos = 0,-0.625,0
 	attPos0 = 0,-6.93749905,0
 	rot = 0,-0.965925932,0,-0.258819103
@@ -16767,19 +14784,19 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1862.65051
 	modMass = -0.607450247
 	modSize = 0,0,0
 	link = liquidEngineMainsail.v2_4293611488
-	link = launchClamp1_4294256064
+	link = launchClamp1_4292462718
 	sym = proceduralStructural_4293632894
 	sym = proceduralStructural_4293632810
 	sym = proceduralStructural_4293632726
@@ -16863,15 +14880,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -17008,7 +15019,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -17086,22 +15097,22 @@ PART
 	part = liquidEngineMainsail.v2_4293611488
 	partName = Part
 	persistentId = 885421866
-	pos = 2.79984522,2.89598846,-0.234984636
+	pos = 2.74555087,11.8288422,-0.69207859
 	attPos = 0.200000569,0.875726461,-0.346411198
 	attPos0 = 0,-1.6757257,0
-	rot = -1.53640989E-11,-0.866025567,1.11534003E-12,-0.500000119
+	rot = -1.53640989E-11,-0.866025567,1.11534133E-12,-0.500000119
 	attRot = 1.51292503E-11,0.707106888,2.89918848E-12,0.70710659
 	attRot0 = 5.05385447E-12,-0.258818835,1.455191E-11,0.965925872
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 10
+	istg = 5
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 10
-	sepI = 9
+	sqor = 5
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
@@ -17494,232 +15505,10 @@ PART
 }
 PART
 {
-	part = launchClamp1_4294256064
-	partName = Part
-	persistentId = 937959886
-	pos = 4.79614115,2.56406403,-1.38754547
-	attPos = -0.0273569226,-1.09944355,0.0473845005
-	attPos0 = -0.95255065,-1.13192368,1.64986539
-	rot = -1.81194491E-08,0.500000119,-1.04612745E-08,-0.866025448
-	attRot = 0,0,0,1
-	attRot0 = -5.41515011E-09,-0.965925872,2.02096064E-08,-0.258819133
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 10
-	resPri = 0
-	dstg = 5
-	sidx = 1
-	sqor = 10
-	sepI = 10
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = launchClamp1_4294255906
-	sym = launchClamp1_4294255748
-	sym = launchClamp1_4294255590
-	sym = launchClamp1_4293272958
-	sym = launchClamp1_4294256222
-	srfN = srfAttach,proceduralStructural_4293632978,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleGenerator
-		isEnabled = True
-		generatorIsActive = False
-		throttle = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ActivateAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ShutdownAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTestSubject
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRestockLaunchClamp
-		isEnabled = True
-		scaleFactor = 1.61210823
-		height = 3.22421646
-		stagingEnabled = True
-		towerRot = 3.70470339E-08,-0.50000006,2.13891234E-08,-0.866025448
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ReleaseClamp
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRTAntennaPassive
-		isEnabled = True
-		IsRTAntenna = True
-		IsRTActive = True
-		IsRTPowered = True
-		IsRTBroken = False
-		RTDishCosAngle = 1
-		RTOmniRange = 5000
-		RTDishRange = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = proceduralTankLiquid_4293800058
 	partName = Part
 	persistentId = 991796541
-	pos = 0.89459157,10.6959877,-1.73498738
+	pos = 0.840293288,19.6288414,-2.19208193
 	attPos = -0.335325003,-3.2940712,2.38418579E-07
 	attPos0 = 2.93532515,0.794071198,-4.76837158E-07
 	rot = 0,1.1920929E-07,0,1.00000012
@@ -17729,12 +15518,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 15053.7041
@@ -17824,15 +15613,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -17969,7 +15752,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -18069,7 +15852,7 @@ PART
 	part = proceduralStructural_4293733134
 	partName = Part
 	persistentId = 3905664117
-	pos = 0.89459157,18.9439468,-1.38767064
+	pos = 0.840293288,27.8768005,-1.84476507
 	attPos = -1.49011626E-07,1.87295818,0.347316772
 	attPos0 = 0,6.37500095,0
 	rot = 7.4505806E-09,0.997248054,0.0741385818,-1.49011612E-07
@@ -18079,12 +15862,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1720.95593
@@ -18173,15 +15956,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -18318,7 +16095,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -18396,7 +16173,7 @@ PART
 	part = proceduralStructural_4293632894
 	partName = Part
 	persistentId = 312350999
-	pos = 0.89459157,3.6959877,-1.73498738
+	pos = 0.840293288,12.6288414,-2.19208193
 	attPos = 0,0,0
 	attPos0 = 0,-6.93749905,0
 	rot = 0,-0.965925932,0,0.258819103
@@ -18406,19 +16183,19 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1862.65051
 	modMass = -0.607450247
 	modSize = 0,0,0
 	link = liquidEngineMainsail.v2_4293625828
-	link = launchClamp1_4294255906
+	link = launchClamp1_4292464526
 	sym = proceduralStructural_4293632810
 	sym = proceduralStructural_4293632726
 	sym = proceduralStructural_4293632642
@@ -18502,15 +16279,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -18647,7 +16418,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -18725,7 +16496,7 @@ PART
 	part = liquidEngineMainsail.v2_4293625828
 	partName = Part
 	persistentId = 1477736245
-	pos = 0.89459157,2.89598846,-1.33498275
+	pos = 0.840293288,11.8288422,-1.79207909
 	attPos = 0.200000495,0.875726461,-0.34641099
 	attPos0 = 0,-1.6757257,0
 	rot = -1.27480387E-11,-1,8.64796602E-12,-1.78813934E-07
@@ -18735,12 +16506,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 10
+	istg = 5
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 10
-	sepI = 9
+	sqor = 5
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
@@ -19133,232 +16904,10 @@ PART
 }
 PART
 {
-	part = launchClamp1_4294255906
-	partName = Part
-	persistentId = 3138653934
-	pos = 0.894592524,2.56406403,-3.64010096
-	attPos = -0.0273569226,-1.09944355,0.0473845005
-	attPos0 = -0.952550411,-1.13192368,1.64986479
-	rot = -2.09225348E-08,1.78813934E-07,-2.66453526E-15,-1
-	attRot = 0,0,0,1
-	attRot0 = -5.41514966E-09,-0.965925872,2.02096082E-08,-0.258819193
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 10
-	resPri = 0
-	dstg = 5
-	sidx = 1
-	sqor = 10
-	sepI = 10
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = launchClamp1_4294255748
-	sym = launchClamp1_4294255590
-	sym = launchClamp1_4293272958
-	sym = launchClamp1_4294256222
-	sym = launchClamp1_4294256064
-	srfN = srfAttach,proceduralStructural_4293632894,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleGenerator
-		isEnabled = True
-		generatorIsActive = False
-		throttle = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ActivateAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ShutdownAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTestSubject
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRestockLaunchClamp
-		isEnabled = True
-		scaleFactor = 1.61210823
-		height = 3.22421646
-		stagingEnabled = True
-		towerRot = 4.2778229E-08,-4.37113883E-08,4.81662871E-15,-1
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ReleaseClamp
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRTAntennaPassive
-		isEnabled = True
-		IsRTAntenna = True
-		IsRTActive = True
-		IsRTPowered = True
-		IsRTBroken = False
-		RTDishCosAngle = 1
-		RTOmniRange = 5000
-		RTDishRange = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = proceduralTankLiquid_4293799486
 	partName = Part
 	persistentId = 3947470028
-	pos = -1.35707688,10.6959877,-0.434986472
+	pos = -1.41137755,19.6288414,-0.892079711
 	attPos = -0.167662144,-3.2940712,0.290400267
 	attPos0 = 1.46766233,0.794071198,-2.54206681
 	rot = 0,0.500000119,0,0.866025448
@@ -19368,12 +16917,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 15053.7041
@@ -19463,15 +17012,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -19608,7 +17151,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -19708,7 +17251,7 @@ PART
 	part = proceduralStructural_4293733050
 	partName = Part
 	persistentId = 3397035697
-	pos = -1.05629289,18.9439468,-0.261328816
+	pos = -1.11059403,27.8768005,-0.718422294
 	attPos = -1.63912773E-07,1.87295818,0.347315788
 	attPos0 = 0,6.37500095,0
 	rot = 0.0370692834,0.863642097,0.0642058924,-0.498624086
@@ -19718,12 +17261,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1720.95593
@@ -19812,15 +17355,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -19957,7 +17494,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -20035,7 +17572,7 @@ PART
 	part = proceduralStructural_4293632810
 	partName = Part
 	persistentId = 2219760057
-	pos = -1.35707688,3.6959877,-0.434986472
+	pos = -1.41137755,12.6288414,-0.892079711
 	attPos = 0,-0.625,0
 	attPos0 = 0,-6.93749905,0
 	rot = 0,-0.707106829,0,0.707106829
@@ -20045,19 +17582,19 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1862.65051
 	modMass = -0.607450247
 	modSize = 0,0,0
 	link = liquidEngineMainsail.v2_4293612984
-	link = launchClamp1_4294255748
+	link = launchClamp1_4292463350
 	sym = proceduralStructural_4293632726
 	sym = proceduralStructural_4293632642
 	sym = proceduralStructural_4293634402
@@ -20141,15 +17678,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -20286,7 +17817,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -20364,7 +17895,7 @@ PART
 	part = liquidEngineMainsail.v2_4293612984
 	partName = Part
 	persistentId = 2205996950
-	pos = -1.0106672,2.89598846,-0.234985948
+	pos = -1.06496978,11.8288422,-0.692078471
 	attPos = 0.200000331,0.875726461,-0.346410781
 	attPos0 = 0,-1.6757257,0
 	rot = -6.71613199E-12,-0.866025448,1.38633679E-11,0.500000119
@@ -20374,12 +17905,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 10
+	istg = 5
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 10
-	sepI = 9
+	sqor = 5
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
@@ -20772,232 +18303,10 @@ PART
 }
 PART
 {
-	part = launchClamp1_4294255748
-	partName = Part
-	persistentId = 2851872680
-	pos = -3.00694609,2.56406403,-1.38753998
-	attPos = -0.0273569226,-1.09944355,0.0473845005
-	attPos0 = -0.952549756,-1.13192368,1.6498636
-	rot = -1.81194526E-08,-0.49999994,1.04612692E-08,-0.866025507
-	attRot = 0,0,0,1
-	attRot0 = -5.41514966E-09,-0.965925813,2.02096082E-08,-0.258819133
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 10
-	resPri = 0
-	dstg = 5
-	sidx = 1
-	sqor = 10
-	sepI = 10
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = launchClamp1_4294255590
-	sym = launchClamp1_4293272958
-	sym = launchClamp1_4294256222
-	sym = launchClamp1_4294256064
-	sym = launchClamp1_4294255906
-	srfN = srfAttach,proceduralStructural_4293632810,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleGenerator
-		isEnabled = True
-		generatorIsActive = False
-		throttle = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ActivateAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ShutdownAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTestSubject
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRestockLaunchClamp
-		isEnabled = True
-		scaleFactor = 1.61210823
-		height = 3.22421646
-		stagingEnabled = True
-		towerRot = 3.7047041E-08,0.5,-2.13891145E-08,-0.866025388
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ReleaseClamp
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRTAntennaPassive
-		isEnabled = True
-		IsRTAntenna = True
-		IsRTActive = True
-		IsRTPowered = True
-		IsRTBroken = False
-		RTDishCosAngle = 1
-		RTOmniRange = 5000
-		RTDishRange = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = proceduralTankLiquid_4293798914
 	partName = Part
 	persistentId = 2650204020
-	pos = -1.35707641,10.6959877,2.16501617
+	pos = -1.41137707,19.6288414,1.70792544
 	attPos = 0.16766274,-3.2940712,0.29039979
 	attPos0 = -1.46766245,0.794071198,-2.54206634
 	rot = 0,0.866025448,0,0.500000119
@@ -21007,12 +18316,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 15053.7041
@@ -21102,15 +18411,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -21247,7 +18550,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -21347,7 +18650,7 @@ PART
 	part = proceduralStructural_4293732966
 	partName = Part
 	persistentId = 3751314510
-	pos = -1.05629218,18.9439468,1.99135816
+	pos = -1.11059284,27.8768005,1.53426731
 	attPos = -1.04308128E-07,1.87295818,0.347315788
 	attPos0 = 0,6.37500095,0
 	rot = 0.06420587,0.498624086,0.0370692872,-0.863642097
@@ -21357,12 +18660,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1720.95593
@@ -21451,15 +18754,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -21596,7 +18893,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -21674,29 +18971,29 @@ PART
 	part = proceduralStructural_4293632726
 	partName = Part
 	persistentId = 3268853805
-	pos = -1.35707641,3.6959877,2.16501617
+	pos = -1.41137707,12.6288414,1.70792544
 	attPos = 0,-0.625,0
 	attPos0 = 0,-6.93749905,0
-	rot = 0,-0.258819163,0,0.965925992
+	rot = 0,-0.258819193,0,0.965925932
 	attRot = 0,0,0,1
 	attRot0 = 0,-0.965925872,0,0.258819014
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 1862.65051
 	modMass = -0.607450247
 	modSize = 0,0,0
 	link = liquidEngineMainsail.v2_4293612610
-	link = launchClamp1_4294255590
+	link = launchClamp1_4292463192
 	sym = proceduralStructural_4293632642
 	sym = proceduralStructural_4293634402
 	sym = proceduralStructural_4293632978
@@ -21780,15 +19077,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -21925,7 +19216,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -22003,7 +19294,7 @@ PART
 	part = liquidEngineMainsail.v2_4293612610
 	partName = Part
 	persistentId = 2159502762
-	pos = -1.01066494,2.89598846,1.96501422
+	pos = -1.0649668,11.8288422,1.5079236
 	attPos = 0.200000361,0.875726461,-0.3464109
 	attPos0 = 0,-1.6757257,0
 	rot = 1.11533265E-12,-0.500000119,1.53641128E-11,0.866025567
@@ -22013,12 +19304,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 10
+	istg = 5
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 10
-	sepI = 9
+	sqor = 5
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
 	modCost = 0
@@ -22411,232 +19702,10 @@ PART
 }
 PART
 {
-	part = launchClamp1_4294255590
-	partName = Part
-	persistentId = 598908550
-	pos = -3.0069468,2.56406403,3.11756897
-	attPos = -0.0273569226,-1.09944355,0.0473845005
-	attPos0 = -0.952550054,-1.13192368,1.64986408
-	rot = -1.04612674E-08,-0.866025448,1.81194437E-08,-0.500000238
-	attRot = 0,0,0,1
-	attRot0 = -5.41515055E-09,-0.965925813,2.02096082E-08,-0.258819193
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = 10
-	resPri = 0
-	dstg = 5
-	sidx = 1
-	sqor = 10
-	sepI = 10
-	attm = 1
-	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = launchClamp1_4293272958
-	sym = launchClamp1_4294256222
-	sym = launchClamp1_4294256064
-	sym = launchClamp1_4294255906
-	sym = launchClamp1_4294255748
-	srfN = srfAttach,proceduralStructural_4293632726,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-		ToggleSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		SetSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		RemoveSameVesselInteraction
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutOff
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutRoot
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutHeaviest
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		AutostrutGrandparent
-		{
-			actionGroup = None
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesEnableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-		ResourcesDisableFlow
-		{
-			actionGroup = None
-			active = False
-			wasActiveBeforePartWasAdjusted = False
-		}
-	}
-	PARTDATA
-	{
-	}
-	MODULE
-	{
-		name = ModuleGenerator
-		isEnabled = True
-		generatorIsActive = False
-		throttle = 0
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ToggleAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ActivateAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-			ShutdownAction
-			{
-				actionGroup = None
-				active = False
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleTestSubject
-		isEnabled = True
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRestockLaunchClamp
-		isEnabled = True
-		scaleFactor = 1.61210823
-		height = 3.22421646
-		stagingEnabled = True
-		towerRot = 2.13891145E-08,0.866025388,-3.70470232E-08,-0.50000006
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-			ReleaseClamp
-			{
-				actionGroup = None
-				wasActiveBeforePartWasAdjusted = False
-			}
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = KOSNameTag
-		isEnabled = False
-		nameTag = 
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = ModuleRTAntennaPassive
-		isEnabled = True
-		IsRTAntenna = True
-		IsRTActive = True
-		IsRTPowered = True
-		IsRTBroken = False
-		RTDishCosAngle = 1
-		RTOmniRange = 5000
-		RTDishRange = -1
-		stagingEnabled = True
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-	MODULE
-	{
-		name = TweakScale
-		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
-		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
-		EVENTS
-		{
-		}
-		ACTIONS
-		{
-		}
-		UPGRADESAPPLIED
-		{
-		}
-	}
-}
-PART
-{
 	part = sepMotor1_4293600708
 	partName = Part
 	persistentId = 129593849
-	pos = 1.81494296,20.6085739,2.45910144
+	pos = 1.7606461,29.5414276,2.00201178
 	attPos = 0.186759949,-8.77380371E-05,-0.107825875
 	attPos0 = -1.78084695,7.44944382,1.02817249
 	rot = 0.258819133,0.000195509143,0.965925932,-5.23865165E-05
@@ -22646,12 +19715,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 9
-	sepI = 9
+	sqor = 4
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 130.800003
@@ -22909,7 +19978,7 @@ PART
 	part = sepMotor1_4293599222
 	partName = Part
 	persistentId = 2028871785
-	pos = 2.73528719,20.6085739,0.865014672
+	pos = 2.68099117,29.5414276,0.407922626
 	attPos = 2.98023224E-08,-8.77380371E-05,-0.21565187
 	attPos0 = 0,7.44944382,2.05634499
 	rot = 0.707106888,0.000143122626,0.707106769,-0.000143122626
@@ -22919,12 +19988,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 9
-	sepI = 9
+	sqor = 4
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 130.800003
@@ -23174,7 +20243,7 @@ PART
 	part = sepMotor1_4293599140
 	partName = Part
 	persistentId = 1792758694
-	pos = 1.81493866,20.6085739,-0.729075313
+	pos = 1.76064157,29.5414276,-1.18616962
 	attPos = -0.186759949,-8.77380371E-05,-0.107825875
 	attPos0 = 1.78084731,7.44944382,1.02817225
 	rot = 0.965925932,5.23865165E-05,0.258818865,-0.000195508357
@@ -23184,12 +20253,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 9
-	sepI = 9
+	sqor = 4
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 130.800003
@@ -23439,7 +20508,7 @@ PART
 	part = sepMotor1_4293599058
 	partName = Part
 	persistentId = 1996193406
-	pos = -0.0257564783,20.6085739,-0.729074001
+	pos = -0.0800564289,29.5414276,-1.18616867
 	attPos = -0.186759949,-8.77380371E-05,0.107825756
 	attPos0 = 1.78084683,7.44944382,-1.02817249
 	rot = 0.965925932,-5.23865165E-05,-0.258819133,-0.000195509143
@@ -23449,12 +20518,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 9
-	sepI = 9
+	sqor = 4
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 130.800003
@@ -23704,7 +20773,7 @@ PART
 	part = sepMotor1_4293598976
 	partName = Part
 	persistentId = 1068105007
-	pos = -0.946103573,20.6085739,0.865015268
+	pos = -1.00040424,29.5414276,0.407923222
 	attPos = -2.98023224E-08,-8.77380371E-05,0.215651751
 	attPos0 = -1.1920929E-07,7.44944382,-2.05634522
 	rot = 0.707106769,-0.000143122656,-0.707106888,-0.000143122626
@@ -23714,12 +20783,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 9
-	sepI = 9
+	sqor = 4
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 130.800003
@@ -23969,7 +21038,7 @@ PART
 	part = sepMotor1_4293598894
 	partName = Part
 	persistentId = 3969192480
-	pos = -0.0257558227,20.6085739,2.45910382
+	pos = -0.0800552964,29.5414276,2.00201416
 	attPos = 0.18675983,-8.77380371E-05,0.107825994
 	attPos0 = -1.78084683,7.44944382,-1.02817273
 	rot = 0.258819103,-0.000195509143,-0.965925932,-5.23865165E-05
@@ -23979,12 +21048,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = 0
-	sqor = 9
-	sepI = 9
+	sqor = 4
+	sepI = 4
 	attm = 1
 	sameVesselCollision = False
 	modCost = 130.800003
@@ -24234,7 +21303,7 @@ PART
 	part = proceduralStructural_4293476088
 	partName = Part
 	persistentId = 1119529604
-	pos = 0.894592047,3.90922165,0.865014911
+	pos = 0.840293765,12.8420753,0.407922864
 	attPos = 0,-0.625,0
 	attPos0 = 0,-9,0
 	rot = 0,0.707106829,0,0.707106829
@@ -24244,20 +21313,20 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = 4
 	resPri = 0
 	dstg = 5
 	sidx = -1
 	sqor = -1
-	sepI = 9
+	sepI = 4
 	attm = 0
 	sameVesselCollision = False
-	modCost = 5729.83252
-	modMass = -0.311492383
+	modCost = 5729.83301
+	modMass = -0.311492354
 	modSize = 0,0,0
-	link = adapterSmallMiniShort_4293700002
+	link = proceduralStructural_4292581358
 	attN = top,proceduralTankLiquid_4294017130_0|0.875|0_0|1|0_0|0.875|0_0|1|0
-	attN = bottom,adapterSmallMiniShort_4293700002_0|-0.875|0_0|-1|0_0|-0.875|0_0|-1|0
+	attN = bottom,proceduralStructural_4292581358_0|-0.875|0_0|-1|0_0|-0.875|0_0|-1|0
 	EVENTS
 	{
 	}
@@ -24323,7 +21392,7 @@ PART
 		textureSet = ChakaBlackStation
 		capTextureIndex = 1
 		shapeName = Cylinder
-		moduleCost = 5729.83252
+		moduleCost = 5729.83301
 		moduleMass = 0
 		stagingEnabled = True
 		EVENTS
@@ -24334,15 +21403,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -24350,7 +21413,7 @@ PART
 		name = ProceduralShapeCylinder
 		isEnabled = True
 		diameter = 4.125
-		length = 1.75
+		length = 1.75000012
 		stagingEnabled = True
 		EVENTS
 		{
@@ -24479,7 +21542,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -24521,8 +21584,8 @@ PART
 	{
 		name = TankContentSwitcher
 		isEnabled = True
-		tankVolume = 23.3870716
-		mass = 0.438507617
+		tankVolume = 23.3870735
+		mass = 0.438507646
 		tankType = Structural
 		stagingEnabled = True
 		EVENTS
@@ -24554,32 +21617,344 @@ PART
 }
 PART
 {
-	part = adapterSmallMiniShort_4293700002
+	part = batteryPack_4294098134
 	partName = Part
-	persistentId = 784769447
-	pos = 0.894592047,3.03422165,0.865014911
-	attPos = 0,0,0
-	attPos0 = 0,-0.874999881,0
-	rot = 0.707106829,0,0.707106829,0
-	attRot = 0,0,0.99999994,0
-	attRot0 = 0,0,1,0
+	persistentId = 1611749306
+	pos = 0.840293765,52.8585854,0.907922864
+	attPos = 0,-0.137496948,-0.0403951406
+	attPos0 = 0,0.737499237,0.540395141
+	rot = 0,0.70710665,-0.707106888,0
+	attRot = 0,0,0,1
+	attRot0 = 0,0.70710665,-0.707106888,0
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 9
+	istg = -1
 	resPri = 0
-	dstg = 5
+	dstg = 1
 	sidx = -1
 	sqor = -1
-	sepI = 9
-	attm = 0
+	sepI = 0
+	attm = 1
 	sameVesselCollision = False
-	modCost = 3176.80005
-	modMass = 0.471754819
+	modCost = 0
+	modMass = 0
 	modSize = 0,0,0
-	attN = top,Null_0_0|0.600000024|0_0|1|0_0|0.600000024|0_0|1|0
-	attN = bottom,proceduralStructural_4293476088_0|0|0_0|-1|0_0|0|0_0|-1|0
+	sym = batteryPack_4292853710
+	srfN = srfAttach,KzResizableFairingBaseRing_4294169364,node_collider.collider,0|0|0,0|0|-1,0|0|0
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		packedVolume = 35
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = ElectricCharge
+		amount = 100
+		maxAmount = 100
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
+}
+PART
+{
+	part = batteryPack_4292853710
+	partName = Part
+	persistentId = 4183896715
+	pos = 0.840293705,52.8585854,-0.092077136
+	attPos = 0,-0.137496948,0.0403951406
+	attPos0 = -5.96046448E-08,0.737499237,-0.540395141
+	rot = -0.707106888,-3.09086126E-08,3.09086232E-08,-0.70710665
+	attRot = 0,0,0,1
+	attRot0 = -0.707106888,-3.09086126E-08,3.09086232E-08,-0.70710665
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 1
+	sidx = -1
+	sqor = -1
+	sepI = 0
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = batteryPack_4294098134
+	srfN = srfAttach,KzResizableFairingBaseRing_4294169364,node_collider.collider,0|0|0,0|0|-1,0|0|0
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		packedVolume = 35
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = ElectricCharge
+		amount = 100
+		maxAmount = 100
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
+	}
+}
+PART
+{
+	part = flagPartSize1_4289094404
+	partName = Part
+	persistentId = 4152102295
+	pos = -0.706374526,39.2992477,-1.13874519
+	attPos = 0,0,0
+	attPos0 = 1.47524619,0.169635773,-1.47524631
+	rot = -0.000191599014,-0.382683516,7.93629151E-05,-0.923879504
+	attRot = 0,0,0,1
+	attRot0 = -0.000191598941,0.382683367,-7.93628715E-05,-0.923879504
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 2
+	resPri = 0
+	dstg = 3
+	sidx = -1
+	sqor = -1
+	sepI = 2
+	attm = 1
+	sameVesselCollision = False
+	modCost = 120
+	modMass = 0.000900000043
+	modSize = 0,0,0
+	sym = flagPartSize1_4289092602
+	sym = flagPartSize1_4289092242
+	sym = flagPartSize1_4289091882
+	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.126249999,0|0|-1.00999999,0|0|0.126249999
 	EVENTS
 	{
 	}
@@ -24642,13 +22017,164 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleCargoPart
+		name = FlagDecalBackground
 		isEnabled = True
-		packedVolume = 10649.6006
-		beingAttached = False
-		beingSettled = False
-		reinitResourcesOnStoreInVessel = False
+		currentflagUrl = Squad/Flags/default
+		displayingPortrait = True
+		flagSize = 0
+		placementID = 0
+		flagDisplayed = True
+		isMirrored = False
 		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallPortrait
+			orientation = PORTRAIT
+			mass = 7.9999998E-05
+			cost = 2.5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallLandscape
+			orientation = LANDSCAPE
+			mass = 0
+			cost = 0
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.00124999997
+			cost = 10
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.000449999992
+			cost = 5
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumPortrait
+			orientation = PORTRAIT
+			mass = 0.000469999999
+			cost = 10
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumLandscape
+			orientation = LANDSCAPE
+			mass = 0.000150000007
+			cost = 5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0051500001
+			cost = 25
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00194999995
+			cost = 15
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargePortrait
+			orientation = PORTRAIT
+			mass = 0.00203000009
+			cost = 25
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargeLandscape
+			orientation = LANDSCAPE
+			mass = 0.000750000007
+			cost = 15
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargePortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0207499992
+			cost = 55
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargeLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00795000046
+			cost = 35
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModulePartVariants
+		isEnabled = True
+		useVariantMass = True
+		stagingEnabled = True
+		selectedVariant = TransparentBackground
 		EVENTS
 		{
 		}
@@ -24661,11 +22187,13 @@ PART
 	}
 	MODULE
 	{
-		name = ModulePartVariants
+		name = ModuleCargoPart
 		isEnabled = True
-		useVariantMass = True
+		packedVolume = 250
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
 		stagingEnabled = True
-		selectedVariant = Dark
 		EVENTS
 		{
 		}
@@ -24696,14 +22224,2616 @@ PART
 	{
 		name = TweakScale
 		isEnabled = True
-		currentScaleFactor = 3.20000005
-		defaultTransformScale = (1, 1, 1)
-		extraCost = 3176.80005
-		extraMass = 0.471754819
+		currentScaleFactor = 5
+		defaultTransformScale = (1.00999999, 1.00999999, 1.00999999)
+		extraCost = 120
+		extraMass = 0.000900000043
 		stagingEnabled = True
-		type = stack
-		defaultScale = 1.25
-		currentScale = 4
+		type = free_square
+		defaultScale = 100
+		currentScale = 500
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = flagPartSize1_4289092602
+	partName = Part
+	persistentId = 4220709004
+	pos = -0.706374288,39.2992477,1.95459116
+	attPos = 0,0,0
+	attPos0 = -1.47524607,0.169635773,-1.47524619
+	rot = -7.93628715E-05,-0.923879623,0.000191598941,-0.382683486
+	attRot = 0,0,0,1
+	attRot0 = -0.000191598927,-0.382683456,7.9362886E-05,-0.923879564
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 2
+	resPri = 0
+	dstg = 3
+	sidx = -1
+	sqor = -1
+	sepI = 2
+	attm = 1
+	sameVesselCollision = False
+	modCost = 120
+	modMass = 0.000900000043
+	modSize = 0,0,0
+	sym = flagPartSize1_4289092242
+	sym = flagPartSize1_4289091882
+	sym = flagPartSize1_4289094404
+	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.126249999,0|0|-1.00999999,0|0|0.126249999
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = FlagDecalBackground
+		isEnabled = True
+		currentflagUrl = Squad/Flags/default
+		displayingPortrait = True
+		flagSize = 0
+		placementID = 0
+		flagDisplayed = True
+		isMirrored = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallPortrait
+			orientation = PORTRAIT
+			mass = 7.9999998E-05
+			cost = 2.5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallLandscape
+			orientation = LANDSCAPE
+			mass = 0
+			cost = 0
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.00124999997
+			cost = 10
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.000449999992
+			cost = 5
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumPortrait
+			orientation = PORTRAIT
+			mass = 0.000469999999
+			cost = 10
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumLandscape
+			orientation = LANDSCAPE
+			mass = 0.000150000007
+			cost = 5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0051500001
+			cost = 25
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00194999995
+			cost = 15
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargePortrait
+			orientation = PORTRAIT
+			mass = 0.00203000009
+			cost = 25
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargeLandscape
+			orientation = LANDSCAPE
+			mass = 0.000750000007
+			cost = 15
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargePortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0207499992
+			cost = 55
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargeLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00795000046
+			cost = 35
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModulePartVariants
+		isEnabled = True
+		useVariantMass = True
+		stagingEnabled = True
+		selectedVariant = TransparentBackground
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		packedVolume = 250
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 5
+		defaultTransformScale = (1.00999999, 1.00999999, 1.00999999)
+		extraCost = 120
+		extraMass = 0.000900000043
+		stagingEnabled = True
+		type = free_square
+		defaultScale = 100
+		currentScale = 500
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = flagPartSize1_4289092242
+	partName = Part
+	persistentId = 3961139306
+	pos = 2.38696241,39.2992477,1.95459068
+	attPos = 0,0,0
+	attPos0 = -1.47524607,0.169635773,1.47524619
+	rot = 7.93629515E-05,-0.923879504,0.000191599014,0.382683516
+	attRot = 0,0,0,1
+	attRot0 = -7.93628642E-05,-0.923879504,0.000191598956,-0.382683337
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 2
+	resPri = 0
+	dstg = 3
+	sidx = -1
+	sqor = -1
+	sepI = 2
+	attm = 1
+	sameVesselCollision = False
+	modCost = 120
+	modMass = 0.000900000043
+	modSize = 0,0,0
+	sym = flagPartSize1_4289091882
+	sym = flagPartSize1_4289094404
+	sym = flagPartSize1_4289092602
+	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.126249999,0|0|-1.00999999,0|0|0.126249999
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = FlagDecalBackground
+		isEnabled = True
+		currentflagUrl = Squad/Flags/default
+		displayingPortrait = True
+		flagSize = 0
+		placementID = 0
+		flagDisplayed = True
+		isMirrored = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallPortrait
+			orientation = PORTRAIT
+			mass = 7.9999998E-05
+			cost = 2.5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallLandscape
+			orientation = LANDSCAPE
+			mass = 0
+			cost = 0
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.00124999997
+			cost = 10
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.000449999992
+			cost = 5
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumPortrait
+			orientation = PORTRAIT
+			mass = 0.000469999999
+			cost = 10
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumLandscape
+			orientation = LANDSCAPE
+			mass = 0.000150000007
+			cost = 5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0051500001
+			cost = 25
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00194999995
+			cost = 15
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargePortrait
+			orientation = PORTRAIT
+			mass = 0.00203000009
+			cost = 25
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargeLandscape
+			orientation = LANDSCAPE
+			mass = 0.000750000007
+			cost = 15
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargePortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0207499992
+			cost = 55
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargeLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00795000046
+			cost = 35
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModulePartVariants
+		isEnabled = True
+		useVariantMass = True
+		stagingEnabled = True
+		selectedVariant = TransparentBackground
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		packedVolume = 250
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 5
+		defaultTransformScale = (1.00999999, 1.00999999, 1.00999999)
+		extraCost = 120
+		extraMass = 0.000900000043
+		stagingEnabled = True
+		type = free_square
+		defaultScale = 100
+		currentScale = 500
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = flagPartSize1_4289091882
+	partName = Part
+	persistentId = 3178305264
+	pos = 2.38696146,39.2992477,-1.13874543
+	attPos = 0,0,0
+	attPos0 = 1.47524619,0.169635773,1.47524595
+	rot = 0.000191598941,-0.382683486,7.93628715E-05,0.923879623
+	attRot = 0,0,0,1
+	attRot0 = 7.9362886E-05,-0.923879564,0.000191598927,0.382683456
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 2
+	resPri = 0
+	dstg = 3
+	sidx = -1
+	sqor = -1
+	sepI = 2
+	attm = 1
+	sameVesselCollision = False
+	modCost = 120
+	modMass = 0.000900000043
+	modSize = 0,0,0
+	sym = flagPartSize1_4289094404
+	sym = flagPartSize1_4289092602
+	sym = flagPartSize1_4289092242
+	srfN = srfAttach,proceduralTankLiquid_4293846298,collisionMesh,0|0|0.126249999,0|0|-1.00999999,0|0|0.126249999
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = FlagDecalBackground
+		isEnabled = True
+		currentflagUrl = Squad/Flags/default
+		displayingPortrait = True
+		flagSize = 0
+		placementID = 0
+		flagDisplayed = True
+		isMirrored = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallPortrait
+			orientation = PORTRAIT
+			mass = 7.9999998E-05
+			cost = 2.5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small
+			meshName = 1.25SmallLandscape
+			orientation = LANDSCAPE
+			mass = 0
+			cost = 0
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.00124999997
+			cost = 10
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = small
+			displayName = Small Panel
+			meshName = 1.25SmallLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.000449999992
+			cost = 5
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumPortrait
+			orientation = PORTRAIT
+			mass = 0.000469999999
+			cost = 10
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium
+			meshName = 1.25MediumLandscape
+			orientation = LANDSCAPE
+			mass = 0.000150000007
+			cost = 5
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumPortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0051500001
+			cost = 25
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = medium
+			displayName = Medium Panel
+			meshName = 1.25MediumLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00194999995
+			cost = 15
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargePortrait
+			orientation = PORTRAIT
+			mass = 0.00203000009
+			cost = 25
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large
+			meshName = 1.25LargeLandscape
+			orientation = LANDSCAPE
+			mass = 0.000750000007
+			cost = 15
+			variantNames = White,Dark,Orange,TransparentBackground
+			indexOffset = 0
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargePortraitPanel
+			orientation = PORTRAIT
+			mass = 0.0207499992
+			cost = 55
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		MESH
+		{
+			name = large
+			displayName = Large Panel
+			meshName = 1.25LargeLandscapePanel
+			orientation = LANDSCAPE
+			mass = 0.00795000046
+			cost = 35
+			variantNames = WhitePanel,DarkPanel,OrangePanel
+			indexOffset = 1000
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModulePartVariants
+		isEnabled = True
+		useVariantMass = True
+		stagingEnabled = True
+		selectedVariant = TransparentBackground
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		packedVolume = 250
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 5
+		defaultTransformScale = (1.00999999, 1.00999999, 1.00999999)
+		extraCost = 120
+		extraMass = 0.000900000043
+		stagingEnabled = True
+		type = free_square
+		defaultScale = 100
+		currentScale = 500
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = proceduralStructural_4292581358
+	partName = Part
+	persistentId = 616790199
+	pos = 0.840293765,11.6545753,0.407922864
+	attPos = 0,0,0
+	attPos0 = 0,-1.25,0
+	rot = 0,0,0,1.00000012
+	attRot = 0,0,0,1
+	attRot0 = 0,-0.707106829,0,0.707106829
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 4
+	resPri = 0
+	dstg = 5
+	sidx = -1
+	sqor = -1
+	sepI = 4
+	attm = 0
+	sameVesselCollision = False
+	modCost = 1440.03723
+	modMass = -0.639793038
+	modSize = 0,0,0
+	attN = top,proceduralStructural_4293476088_0|0.3125|0_0|1|0_0|0.3125|0_0|1|0
+	attN = bottom,Null_0_0|-0.3125|0_0|-1|0_0|-0.3125|0_0|-1|0
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ProceduralPart
+		isEnabled = True
+		density = 0
+		forceLegacyTextures = True
+		textureSet = InterstageDark
+		capTextureIndex = 0
+		shapeName = Cone
+		moduleCost = 1440.03723
+		moduleMass = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapeCylinder
+		isEnabled = False
+		diameter = 1
+		length = 0.75000006
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapeCone
+		isEnabled = True
+		topDiameter = 4.125
+		bottomDiameter = 2.75
+		length = 0.625
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapePill
+		isEnabled = False
+		diameter = 1
+		length = 0.75
+		fillet = 0.25
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapeBezierCone
+		isEnabled = False
+		selectedShape = Round1
+		topDiameter = 1
+		bottomDiameter = 1.25
+		length = 0.5
+		offset = 0
+		shapePoints = (0.400000006, 0.00100000005, 1, 0.600000024)
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapePolygon
+		isEnabled = False
+		cornerCount = 8
+		diameter = 1
+		length = 0.75
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapeHollowCylinder
+		isEnabled = False
+		innerDiameter = 0.5
+		outerDiameter = 1
+		length = 0.75
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapeHollowCone
+		isEnabled = False
+		topInnerDiameter = 0.5
+		topOuterDiameter = 1
+		bottomInnerDiameter = 0.5
+		bottomOuterDiameter = 1.25
+		length = 0.5
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapeHollowPill
+		isEnabled = False
+		innerDiameter = 0
+		outerDiameter = 1
+		length = 0.75
+		fillet = 0.25
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ProceduralShapeHollowTruss
+		isEnabled = False
+		topDiameter = 1
+		bottomDiameter = 1.25
+		length = 0.5
+		rodDiameter = 0.125
+		nbRods = 12
+		tiltAngle = 10
+		offsetAngle = 0
+		symmetryRods = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TankContentSwitcher
+		isEnabled = True
+		tankVolume = 5.87770319
+		mass = 0.110206939
+		tankType = Structural
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = True
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4292464526
+	partName = Part
+	persistentId = 3494871210
+	pos = 0.840293288,11.4091682,-4.09743166
+	attPos = 0,0,0
+	attPos0 = -0.952675045,-1.21967316,1.65008116
+	rot = 1.96178546E-10,1.1920929E-07,6.9388939E-18,-1.00000012
+	attRot = 0,0,0,1
+	attRot0 = 5.0774742E-11,-0.965925872,-1.89493907E-10,-0.258819133
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 5
+	resPri = 0
+	dstg = 5
+	sidx = 1
+	sqor = 5
+	sepI = 5
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4292463350
+	sym = launchClamp1_4292463192
+	sym = launchClamp1_4292463034
+	sym = launchClamp1_4292462876
+	sym = launchClamp1_4292462718
+	srfN = srfAttach,proceduralStructural_4293632894,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 6.03465843
+		height = 12.0693169
+		stagingEnabled = True
+		towerRot = 2.16595151E-08,7.54979013E-08,-1.58975993E-15,-1
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRTAntennaPassive
+		isEnabled = True
+		IsRTAntenna = True
+		IsRTActive = True
+		IsRTPowered = True
+		IsRTBroken = False
+		RTDishCosAngle = 1
+		RTOmniRange = 5000
+		RTDishRange = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4292463350
+	partName = Part
+	persistentId = 2182160379
+	pos = -3.06146097,11.4091682,-1.84475601
+	attPos = 0,0,0
+	attPos0 = -0.952676117,-1.21967316,1.65008283
+	rot = 1.69895611E-10,-0.49999997,-9.80892728E-11,-0.866025448
+	attRot = 0,0,0,1
+	attRot0 = 5.07747455E-11,-0.965925813,-1.89493893E-10,-0.258819103
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 5
+	resPri = 0
+	dstg = 5
+	sidx = 1
+	sqor = 5
+	sepI = 5
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4292463192
+	sym = launchClamp1_4292463034
+	sym = launchClamp1_4292462876
+	sym = launchClamp1_4292462718
+	sym = launchClamp1_4292464526
+	srfN = srfAttach,proceduralStructural_4293632810,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 6.03465843
+		height = 12.0693169
+		stagingEnabled = True
+		towerRot = 1.87576923E-08,0.50000006,-1.08297593E-08,-0.866025448
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRTAntennaPassive
+		isEnabled = True
+		IsRTAntenna = True
+		IsRTActive = True
+		IsRTPowered = True
+		IsRTBroken = False
+		RTDishCosAngle = 1
+		RTOmniRange = 5000
+		RTDishRange = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4292463192
+	partName = Part
+	persistentId = 3176137724
+	pos = -3.06146002,11.4091682,2.66060066
+	attPos = 0,0,0
+	attPos0 = -0.952675819,-1.21967316,1.65008247
+	rot = 9.80892936E-11,-0.866025448,-1.69895598E-10,-0.500000238
+	attRot = 0,0,0,1
+	attRot0 = 5.0774749E-11,-0.965925872,-1.89493893E-10,-0.258819133
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 5
+	resPri = 0
+	dstg = 5
+	sidx = 1
+	sqor = 5
+	sepI = 5
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4292463034
+	sym = launchClamp1_4292462876
+	sym = launchClamp1_4292462718
+	sym = launchClamp1_4292464526
+	sym = launchClamp1_4292463350
+	srfN = srfAttach,proceduralStructural_4293632726,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 6.03465843
+		height = 12.0693169
+		stagingEnabled = True
+		towerRot = 1.08297593E-08,0.866025388,-1.87576887E-08,-0.50000006
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRTAntennaPassive
+		isEnabled = True
+		IsRTAntenna = True
+		IsRTActive = True
+		IsRTPowered = True
+		IsRTBroken = False
+		RTDishCosAngle = 1
+		RTOmniRange = 5000
+		RTDishRange = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4292463034
+	partName = Part
+	persistentId = 3956236114
+	pos = 0.840293884,11.4091682,4.91327858
+	attPos = 0,0,0
+	attPos0 = -0.95267576,-1.21967316,1.65008271
+	rot = -2.08166817E-17,1.00000012,1.96178546E-10,2.08616257E-07
+	attRot = 0,0,0,1
+	attRot0 = 5.0774742E-11,-0.965925872,-1.89493907E-10,-0.258819133
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 5
+	resPri = 0
+	dstg = 5
+	sidx = 1
+	sqor = 5
+	sepI = 5
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4292462876
+	sym = launchClamp1_4292462718
+	sym = launchClamp1_4292464526
+	sym = launchClamp1_4292463350
+	sym = launchClamp1_4292463192
+	srfN = srfAttach,proceduralStructural_4293632642,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 6.03465843
+		height = 12.0693169
+		stagingEnabled = True
+		towerRot = -1.31356122E-15,-1,2.16595151E-08,5.86125353E-08
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRTAntennaPassive
+		isEnabled = True
+		IsRTAntenna = True
+		IsRTActive = True
+		IsRTPowered = True
+		IsRTBroken = False
+		RTDishCosAngle = 1
+		RTOmniRange = 5000
+		RTDishRange = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4292462876
+	partName = Part
+	persistentId = 3835148582
+	pos = 4.74204826,11.4091682,2.66060066
+	attPos = 0,0,0
+	attPos0 = -0.952675998,-1.21967316,1.65008318
+	rot = 9.80892867E-11,0.866025507,1.69895625E-10,-0.49999994
+	attRot = 0,0,0,1
+	attRot0 = 5.07747455E-11,-0.965925813,-1.89493907E-10,-0.258819163
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 5
+	resPri = 0
+	dstg = 5
+	sidx = 1
+	sqor = 5
+	sepI = 5
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4292462718
+	sym = launchClamp1_4292464526
+	sym = launchClamp1_4292463350
+	sym = launchClamp1_4292463192
+	sym = launchClamp1_4292463034
+	srfN = srfAttach,proceduralStructural_4293634402,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 6.03465843
+		height = 12.0693169
+		stagingEnabled = True
+		towerRot = 1.08297575E-08,-0.866025388,1.87576923E-08,-0.5
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRTAntennaPassive
+		isEnabled = True
+		IsRTAntenna = True
+		IsRTActive = True
+		IsRTPowered = True
+		IsRTBroken = False
+		RTDishCosAngle = 1
+		RTOmniRange = 5000
+		RTDishRange = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = launchClamp1_4292462718
+	partName = Part
+	persistentId = 3432559115
+	pos = 4.74204683,11.4091682,-1.84475601
+	attPos = 0,0,0
+	attPos0 = -0.952676117,-1.21967316,1.65008259
+	rot = 1.6989557E-10,0.500000119,9.80892798E-11,-0.866025448
+	attRot = 0,0,0,1
+	attRot0 = 5.07747455E-11,-0.965925813,-1.89493865E-10,-0.258819103
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 5
+	resPri = 0
+	dstg = 5
+	sidx = 1
+	sqor = 5
+	sepI = 5
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = launchClamp1_4292464526
+	sym = launchClamp1_4292463350
+	sym = launchClamp1_4292463192
+	sym = launchClamp1_4292463034
+	sym = launchClamp1_4292462876
+	srfN = srfAttach,proceduralStructural_4293632978,collisionMesh,0|1.35443699|0.806919396,0|0|-1,0|1.35443699|0.806919396
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleGenerator
+		isEnabled = True
+		generatorIsActive = False
+		throttle = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ActivateAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+			ShutdownAction
+			{
+				actionGroup = None
+				active = False
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleTestSubject
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRestockLaunchClamp
+		isEnabled = True
+		scaleFactor = 6.03465843
+		height = 12.0693169
+		stagingEnabled = True
+		towerRot = 1.87576923E-08,-0.50000006,1.08297593E-08,-0.866025448
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ReleaseClamp
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleRTAntennaPassive
+		isEnabled = True
+		IsRTAntenna = True
+		IsRTActive = True
+		IsRTPowered = True
+		IsRTBroken = False
+		RTDishCosAngle = 1
+		RTOmniRange = 5000
+		RTDishRange = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
 		EVENTS
 		{
 		}

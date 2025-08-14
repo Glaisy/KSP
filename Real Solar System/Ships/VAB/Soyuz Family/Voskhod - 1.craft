@@ -2,7 +2,7 @@ ship = Voskhod - 1
 version = 1.12.5
 description = 
 type = VAB
-size = 10.7355042,42.3435364,10.7355251
+size = 10.7355022,43.346817,10.7355165
 steamPublishedFileId = 0
 persistentId = 295058986
 rot = 0,0,0,0
@@ -12,13 +12,13 @@ OverrideDefault = False,False,False,False
 OverrideActionControl = 0,0,0,0
 OverrideAxisControl = 0,0,0,0
 OverrideGroupNames = ,,,
-_modVersions = Scale_Redist=3.2.4|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|B9PartSwitch=2.21.0|BetterTimeWarpCont=2.3.13|Chatterer=0.9.99|ContractConfigurator=2.11.2|RemoteTech=1.9.12|CC_RemoteTech=2.0.0|DecouplerShroud=0.9.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.4|DynamicBatteryStorage=1.0.0|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|HangerExtenderExtended=3.6.0|HUDReplacer=1.0.0|KerbalChangelog=1.4.2|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalJointReinforcement=3.8.6|Kopernicus.Parser=1.0.0|ModularFlightIntegrator=1.2.10|Kopernicus=1.12.227|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-KerbalEngineer=0.1.1|KSCSwitcher=2.2.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.38.1|MechJeb2=2.14.3|System.Buffers=4.6.28619|DockingPortAlignmentIndicator=6.10.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.0.0|NearFutureElectrical=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|ROUtils=1.1.0|ProceduralFairings=6.7.0|ProceduralParts=2.8.0|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|RealChute=1.4.9059|RealSolarSystem=20.1.3|BackgroundResources=1.12.0|DeepFreeze=0.31.0|Restock=1.0.0|RSSTimeFormatter=1.12.0|RSSVE=1.8.1|SCANsat=1.20.4|SCANmechjeb=1.20.4|SCANsat.Unity=1.20.4|scatterer=0.878.0|Shabby=0.4.2|KSP_Log=1.2.0|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|VesselModuleSave=1.0.2|KSPSteamCtrlr=0.0.1|HabUtils=1.0.0|SystemHeat=0.1.0|TacFuelBalancer=2.21.5|TacLifeSupport=0.18.0|TUFX=1.1.0|Scale=3.2.4|Waterfall=0.10.2|TweakScale_Waterfall=3.2.4|VaporCones=1.0.0|Deferred=1.2.6
+_modVersions = Scale_Redist=3.2.4|ModuleManager=4.2.3|ClickThroughBlocker=2.1.10|0Harmony=2.2.1|HarmonyInstallChecker=2.2.1|aaa_Toolbar=1.8.1|ToolbarControl=0.1.9|B9PartSwitch=2.21.0|BetterTimeWarpCont=2.3.13|Chatterer=0.9.99|ContractConfigurator=2.11.2|RemoteTech=1.9.12|CC_RemoteTech=2.0.0|DecouplerShroud=0.9.0|DistantObject=0.0.0|KSPe.Light.DOE=2.5.4|DynamicBatteryStorage=1.0.0|Atmosphere=1.11.7|CelestialShadows=1.11.7|CityLights=1.11.7|EVEManager=1.11.7|PartFX=1.11.7|PQSManager=1.11.7|ShaderLoader=1.11.7|Terrain=1.11.7|TextureConfig=1.11.7|Utils=1.11.7|_BuildManager=1.11.7|FireflyAPI=1.0.0|Firefly=1.0.5|FireflyInstallChecker=1.0.0|Firespitter=7.3.7660|FP_DockingSndFX=2.1.12|HangerExtenderExtended=3.6.0|HUDReplacer=1.0.0|KerbalChangelog=1.4.2|KerbalEngineer.Unity=1.0.0|KerbalEngineer=1.1.9|KerbalJointReinforcement=3.8.6|Kopernicus.Parser=1.0.0|ModularFlightIntegrator=1.2.10|Kopernicus=1.12.227|ICSharpCode.SharpZipLib=0.86.0|kOS=1.5.1|kOS.Safe=1.5.1|kOS-KerbalEngineer=0.1.1|KSCSwitcher=2.2.0|0_MultipleModuleInPartAPI=1.0.0|KSPCommunityFixes=1.38.1|MechJeb2=2.14.3|System.Buffers=4.6.28619|DockingPortAlignmentIndicator=6.10.0|DPAI_RPM=1.0.0|ModuleDockingNodeNamed=1.0.0|NearFutureElectrical=1.0.0|NearFuturePropulsion=0.9.0|NearFutureSolar=0.4.0|Grass=0.0.0|ParallaxQualityLibrary=1.0.0|ParallaxOptimized=1.0.0|ROUtils=1.1.0|ProceduralFairings=6.7.0|ProceduralParts=2.8.0|RCSBuildAid=1.0.6|RCSBuildAidToolbar=1.0.6|RealChute=1.4.9059|RealSolarSystem=20.1.3|BackgroundResources=1.12.0|DeepFreeze=0.31.0|Restock=1.0.0|RSSTimeFormatter=1.12.0|RSSVE=1.8.1|SCANsat=1.20.4|SCANmechjeb=1.20.4|SCANsat.Unity=1.20.4|scatterer=0.878.0|Shabby=0.4.2|KSP_Log=1.2.0|ButtonManager=1.0.2|KSP_ColorPicker=1.1.1|KSP_PartHighlighter=1.1.1|SpaceTuxUtility=1.0.2|VesselModuleSave=1.0.2|KSPSteamCtrlr=0.0.1|HabUtils=1.0.0|SystemHeat=0.1.0|TacFuelBalancer=2.21.5|TacLifeSupport=0.18.0|TUFX=1.1.0|Scale=3.2.4|Waterfall=0.10.2|TweakScale_Waterfall=3.2.4|Deferred=1.2.6
 PART
 {
 	part = kv3Pod_4294170106
 	partName = Part
-	persistentId = 3480409409
-	pos = 0.0657560825,40.5310669,-0.561099172
+	persistentId = 1035762196
+	pos = 0.0657560825,40.553566,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0.0657560825,40.5310669,-0.561099172
 	rot = 0,0,0,1
@@ -1277,8 +1277,8 @@ PART
 {
 	part = RC.stack_4293796922
 	partName = Part
-	persistentId = 2075219912
-	pos = 0.0657560825,41.5898743,-0.561099172
+	persistentId = 589581606
+	pos = 0.0657560825,41.6123734,-0.561099172
 	attPos = 0,-0.455345154,0
 	attPos0 = 0,1.51415253,0
 	rot = 0,0,0,1
@@ -1496,7 +1496,7 @@ PART
 			modelID = 1
 			typeID = 0
 			lastTypeID = 0
-			position = 0.0657560825,41.5898743,-1.07009912
+			position = 0.0657560825,41.6123734,-1.07009912
 			isPressure = False
 			calcSelect = True
 			getMass = True
@@ -1520,7 +1520,7 @@ PART
 			modelID = 0
 			typeID = 1
 			lastTypeID = 1
-			position = 0.0657560825,41.5898743,-0.0520991683
+			position = 0.0657560825,41.6123734,-0.0520991683
 			isPressure = False
 			calcSelect = True
 			getMass = True
@@ -1619,8 +1619,8 @@ PART
 {
 	part = sasModule_4293798360
 	partName = Part
-	persistentId = 1371447356
-	pos = 0.0657560825,41.8353844,-0.561099172
+	persistentId = 663146199
+	pos = 0.0657560825,41.8578835,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,0.245510101,0
 	rot = 0,0,0,1
@@ -1801,8 +1801,8 @@ PART
 {
 	part = proceduralStackDecoupler_4294268382
 	partName = Part
-	persistentId = 3331264922
-	pos = 0.0657560825,42.0264931,-0.561099172
+	persistentId = 1647886415
+	pos = 0.0657560825,42.0489922,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,0.191108704,0
 	rot = 0,0,1,0
@@ -1907,10 +1907,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsDecoupler3m
-			upgrade = ProceduralPartsDecoupler4.5m
-			upgrade = ProceduralPartsDecoupler0.125m
-			upgrade = ProceduralPartsDecouplerUnlimited
+			upgrade = SimpleRSSProceduralPartsStackDecoupler3.5M
+			upgrade = SimpleRSSProceduralPartsStackDecoupler10M
+			upgrade = SimpleRSSProceduralPartsStackDecouplerInfinite
 		}
 	}
 	MODULE
@@ -2072,8 +2071,8 @@ PART
 {
 	part = advSasModule_4294067542
 	partName = Part
-	persistentId = 564134036
-	pos = 0.0657560825,42.2459145,-0.561099172
+	persistentId = 2555820908
+	pos = 0.0657560825,42.2684135,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,-0.299026489,0
 	rot = 0,0,0,1
@@ -2257,8 +2256,8 @@ PART
 {
 	part = proceduralBattery_4294076314
 	partName = Part
-	persistentId = 1342994741
-	pos = 0.0657560825,42.5528297,-0.561099172
+	persistentId = 2760729918
+	pos = 0.0657560825,42.5753288,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,0.306915283,0
 	rot = 0,0,0,1
@@ -2358,11 +2357,10 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsBattery300
-			upgrade = ProceduralPartsBattery600
-			upgrade = ProceduralPartsBattery2400
-			upgrade = ProceduralPartsBattery4800
-			upgrade = ProceduralPartsBatteryUnlimited
+			upgrade = SimpleRSSProceduralPartsBattery1kL
+			upgrade = SimpleRSSProceduralPartsBattery5kL
+			upgrade = SimpleRSSProceduralPartsBattery25kL
+			upgrade = SimpleRSSProceduralPartsBatteryInfinite
 		}
 	}
 	MODULE
@@ -2406,7 +2404,7 @@ PART
 		isEnabled = False
 		diameter = 0.368887663
 		length = 0.507927537
-		fillet = 0.368887663
+		fillet = 0.368873209
 		stagingEnabled = True
 		EVENTS
 		{
@@ -2507,8 +2505,8 @@ PART
 {
 	part = sensorThermometer_4294076248
 	partName = Part
-	persistentId = 3626713518
-	pos = -0.194192111,42.5445442,-0.561099172
+	persistentId = 800105840
+	pos = -0.194192111,42.5670433,-0.561099172
 	attPos = 0,0,0
 	attPos0 = -0.259948194,-0.00827980228,1.54941215E-08
 	rot = 0,0.707106829,0,0.707106709
@@ -2701,8 +2699,8 @@ PART
 {
 	part = EngineerChip_4294076208
 	partName = Part
-	persistentId = 737436046
-	pos = 0.0632585436,42.77145,-0.556773305
+	persistentId = 1701505344
+	pos = 0.0632585436,42.7939491,-0.556773305
 	attPos = 0,0,0
 	attPos0 = -0.0024975352,0.225000381,0.00432585739
 	rot = 0,0,0,1
@@ -2861,8 +2859,8 @@ PART
 {
 	part = GooExperiment_4290706752
 	partName = Part
-	persistentId = 3634684965
-	pos = 0.265756071,42.5528297,-0.561099172
+	persistentId = 4082848737
+	pos = 0.265756071,42.5753288,-0.561099172
 	attPos = 0.0300567895,0.0488052368,-2.98023224E-08
 	attPos0 = 0.169943213,-0.0488052368,2.98023224E-08
 	rot = 0,0.707106829,0,-0.707106829
@@ -3086,8 +3084,8 @@ PART
 {
 	part = solarPanels5_4290696692
 	partName = Part
-	persistentId = 1520643220
-	pos = 0.296220958,42.1447906,-0.791564047
+	persistentId = 1972705632
+	pos = 0.296220958,42.1672897,-0.791564047
 	attPos = -0.0258371532,-0.0378837585,0.0258371234
 	attPos0 = 0.256302029,-0.0632400513,-0.256301999
 	rot = 2.11756213E-08,0.923879564,-5.11224698E-08,0.382683456
@@ -3272,8 +3270,8 @@ PART
 {
 	part = solarPanels5_4290696474
 	partName = Part
-	persistentId = 2775704497
-	pos = -0.249064803,42.1447906,-0.645455122
+	persistentId = 148884785
+	pos = -0.249064803,42.1672897,-0.645455122
 	attPos = 0.035294205,-0.0378837585,0.00945708156
 	attPos0 = -0.350115091,-0.0632400513,-0.0938130319
 	rot = -3.36855486E-08,0.793353379,-4.38998597E-08,-0.608761489
@@ -3458,8 +3456,8 @@ PART
 {
 	part = solarPanels5_4290696424
 	partName = Part
-	persistentId = 551951109
-	pos = 0.150112107,42.1447906,-0.246278286
+	persistentId = 3813356539
+	pos = 0.150112107,42.1672897,-0.246278286
 	attPos = -0.0094570294,-0.0378837585,-0.035294205
 	attPos0 = 0.0938130543,-0.0632400513,0.350115091
 	rot = -5.48611681E-08,-0.130526245,7.22261229E-09,-0.991444886
@@ -3644,8 +3642,8 @@ PART
 {
 	part = longAntenna_4294239064
 	partName = Part
-	persistentId = 2031899801
-	pos = 0.0657560825,41.9532776,-0.173174202
+	persistentId = 2888723894
+	pos = 0.0657560825,41.9757767,-0.173174202
 	attPos = 0,0.0230445862,0.0149882734
 	attPos0 = 0,0.0501718521,0.372936696
 	rot = 0,-0.999573469,-0.0292053856,0
@@ -3905,8 +3903,8 @@ PART
 {
 	part = longAntenna_4294057554
 	partName = Part
-	persistentId = 1983830417
-	pos = 0.0657561123,41.9532776,-0.949024141
+	persistentId = 1542963500
+	pos = 0.0657561123,41.9757767,-0.949024141
 	attPos = -1.32422429E-09,0.0230445862,-0.0149882734
 	attPos0 = -3.25962901E-08,0.0501718521,-0.372936696
 	rot = 0.0292053856,4.36927436E-08,1.27660793E-09,-0.999573469
@@ -4162,8 +4160,8 @@ PART
 {
 	part = RCSblock.01.small_4294007996
 	partName = Part
-	persistentId = 1430823313
-	pos = 0.4313142,42.0771675,-0.561099172
+	persistentId = 1894165302
+	pos = 0.4313142,42.0996666,-0.561099172
 	attPos = 0,0,0
 	attPos0 = -0.365558118,-0.0506715775,2.17842171E-08
 	rot = 0,0,0.999097407,-0.0424774177
@@ -4401,8 +4399,8 @@ PART
 {
 	part = RCSblock.01.small_4293918592
 	partName = Part
-	persistentId = 1097566841
-	pos = -0.117023036,42.0771675,-0.244516581
+	persistentId = 2767901556
+	pos = -0.117023036,42.0996666,-0.244516581
 	attPos = 0,0,0
 	attPos0 = 0.182779118,-0.0506715775,0.31658259
 	rot = -0.865243793,0.0367865264,0.499548674,-0.021238707
@@ -4640,8 +4638,8 @@ PART
 {
 	part = RCSblock.01.small_4293918084
 	partName = Part
-	persistentId = 1256264704
-	pos = -0.117022961,42.0771675,-0.877681851
+	persistentId = 887883743
+	pos = -0.117022961,42.0996666,-0.877681851
 	attPos = 0,0,0
 	attPos0 = 0.182779044,-0.0506715775,-0.31658268
 	rot = -0.865243733,0.0367865227,-0.499548763,0.0212387107
@@ -4879,8 +4877,8 @@ PART
 {
 	part = proceduralTankLiquid_4294197854
 	partName = Part
-	persistentId = 4045055473
-	pos = 0.0657560825,39.3698158,-0.561099172
+	persistentId = 499831254
+	pos = 0.0657560825,39.3923149,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,-1.16125107,0
 	rot = 0,0,0,1
@@ -5003,15 +5001,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -5247,8 +5239,8 @@ PART
 {
 	part = proceduralTankLiquid_4294197226
 	partName = Part
-	persistentId = 3497466291
-	pos = 0.0657560825,38.6823158,-0.561099172
+	persistentId = 834617570
+	pos = 0.0657560825,38.7048149,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,-0.75,0
 	rot = 0,0,0,1
@@ -5357,15 +5349,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -5601,8 +5587,8 @@ PART
 {
 	part = RCSblock.01.small_4294049644
 	partName = Part
-	persistentId = 858616508
-	pos = -0.40255326,38.4267426,-0.561099172
+	persistentId = 245643466
+	pos = -0.40255326,38.4492416,-0.561099172
 	attPos = 0.130110562,-0.151892662,-7.90168997E-09
 	attPos0 = -0.598419905,-0.103679657,3.56667442E-08
 	rot = 2.10734239E-08,0,0.346798539,0.937939644
@@ -5840,8 +5826,8 @@ PART
 {
 	part = RCSblock.01.small_4294010168
 	partName = Part
-	persistentId = 3781703493
-	pos = 0.299910843,38.4267426,-0.155531406
+	persistentId = 3014066279
+	pos = 0.299910843,38.4492416,-0.155531406
 	attPos = -0.0650552958,-0.151892662,-0.112679064
 	attPos0 = 0.299210042,-0.103679657,0.51824683
 	rot = 0.300336361,0.812279582,0.17339924,0.468969792
@@ -6079,8 +6065,8 @@ PART
 {
 	part = RCSblock.01.small_4294009660
 	partName = Part
-	persistentId = 182209609
-	pos = 0.299910724,38.4267426,-0.966667056
+	persistentId = 3949872228
+	pos = 0.299910724,38.4492416,-0.966667056
 	attPos = -0.0650552809,-0.151892662,0.112679094
 	attPos0 = 0.299209923,-0.103679657,-0.518246949
 	rot = 0.300336331,0.812279522,-0.173399314,-0.468969882
@@ -6318,8 +6304,8 @@ PART
 {
 	part = microEngine.v2_4294179162
 	partName = Part
-	persistentId = 1095667725
-	pos = 0.0657560825,38.3948174,-0.561099172
+	persistentId = 3960530665
+	pos = 0.0657560825,38.4173164,-0.561099172
 	attPos = -0.0361257643,1.90734863E-06,0
 	attPos0 = 0,-0.287498474,0
 	rot = 0,0,0,1
@@ -6654,8 +6640,8 @@ PART
 {
 	part = solarPanels5_4290693596
 	partName = Part
-	persistentId = 3880977408
-	pos = 0.599614143,38.8569717,-1.09495711
+	persistentId = 4254293529
+	pos = 0.599614143,38.8794708,-1.09495711
 	attPos = -0.0333539844,0.0404052734,0.0333539844
 	attPos0 = 0.567212045,0.134250641,-0.567211986
 	rot = 0.132714078,0.866543233,-0.320400119,0.358934015
@@ -6845,8 +6831,8 @@ PART
 {
 	part = solarPanels5_4290686906
 	partName = Part
-	persistentId = 372102323
-	pos = 0.0657560825,38.8569717,-1.31608844
+	persistentId = 1328048402
+	pos = 0.0657560825,38.8794708,-1.31608844
 	attPos = 3.7252903E-09,0.0404052734,0.0471696854
 	attPos0 = -7.4505806E-09,0.134250641,-0.802158952
 	rot = -8.33118285E-09,0.937939644,-0.346798599,2.05725996E-08
@@ -7036,8 +7022,8 @@ PART
 {
 	part = solarPanels5_4290686856
 	partName = Part
-	persistentId = 1215748308
-	pos = -0.468101859,38.8569717,-1.09495723
+	persistentId = 261097761
+	pos = -0.468101859,38.8794708,-1.09495723
 	attPos = 0.0333539844,0.0404052734,0.0333539844
 	attPos0 = -0.567211926,0.134250641,-0.567212045
 	rot = -0.132714063,0.866543233,-0.320400119,-0.358933926
@@ -7227,8 +7213,8 @@ PART
 {
 	part = solarPanels5_4290686806
 	partName = Part
-	persistentId = 1654671610
-	pos = -0.689233124,38.8569717,-0.561099231
+	persistentId = 3313845741
+	pos = -0.689233124,38.8794708,-0.561099231
 	attPos = 0.0471696854,0.0404052734,2.98023224E-08
 	attPos0 = -0.802158892,0.134250641,-8.94069672E-08
 	rot = -0.245223626,0.663223505,-0.245223626,-0.663223445
@@ -7418,8 +7404,8 @@ PART
 {
 	part = solarPanels5_4290686756
 	partName = Part
-	persistentId = 3623466675
-	pos = -0.468101919,38.8569717,-0.0272411108
+	persistentId = 3457574516
+	pos = -0.468101919,38.8794708,-0.0272411108
 	attPos = 0.0333539844,0.0404052734,-0.0333539844
 	attPos0 = -0.567211986,0.134250641,0.567212045
 	rot = -0.320400119,0.358933985,-0.132714063,-0.866543233
@@ -7609,8 +7595,8 @@ PART
 {
 	part = solarPanels5_4290686706
 	partName = Part
-	persistentId = 2684336978
-	pos = 0.0657561347,38.8569717,0.193890095
+	persistentId = 220592691
+	pos = 0.0657561347,38.8794708,0.193890095
 	attPos = -7.4505806E-09,0.0404052734,-0.0471696854
 	attPos0 = 5.96046448E-08,0.134250641,0.802158952
 	rot = -0.346798599,-3.1077402E-08,2.74285181E-08,-0.937939644
@@ -7800,8 +7786,8 @@ PART
 {
 	part = solarPanels5_4290686656
 	partName = Part
-	persistentId = 874487537
-	pos = 0.599614084,38.8569717,-0.0272411704
+	persistentId = 2658353840
+	pos = 0.599614084,38.8794708,-0.0272411704
 	attPos = -0.0333539844,0.0404052734,-0.0333539844
 	attPos0 = 0.567211986,0.134250641,0.567211986
 	rot = -0.320400119,-0.358933926,0.132714063,-0.866543233
@@ -7991,8 +7977,8 @@ PART
 {
 	part = solarPanels5_4290686606
 	partName = Part
-	persistentId = 3305483241
-	pos = 0.820745349,38.8569717,-0.56109935
+	persistentId = 1932944600
+	pos = 0.820745349,38.8794708,-0.56109935
 	attPos = -0.0471696854,0.0404052734,2.98023224E-08
 	attPos0 = 0.802158952,0.134250641,-2.08616257E-07
 	rot = -0.245223597,-0.663223565,0.245223686,-0.663223445
@@ -8182,8 +8168,8 @@ PART
 {
 	part = monopropMiniSphere_4294188064
 	partName = Part
-	persistentId = 4245157975
-	pos = -0.765441298,39.6154327,-0.567425728
+	persistentId = 2334194066
+	pos = -0.765441298,39.6379318,-0.567425728
 	attPos = 0.123186946,0.0232334137,-0.00632660277
 	attPos0 = -0.954384267,0.222384453,3.30475771E-08
 	rot = 0.0152010191,-0.00437627593,0.276615351,-0.960850537
@@ -8339,8 +8325,8 @@ PART
 {
 	part = monopropMiniSphere_4294187484
 	partName = Part
-	persistentId = 1951184490
-	pos = -0.526462615,39.6154327,0.0221728086
+	persistentId = 3889053683
+	pos = -0.526462615,39.6379318,0.0221728086
 	attPos = 0.0826327801,0.0232334137,-0.0915797353
 	attPos0 = -0.674851537,0.222384453,0.674851656
 	rot = 0.11990007,-0.371744901,0.249742061,-0.886035383
@@ -8496,8 +8482,8 @@ PART
 {
 	part = monopropMiniSphere_4294187428
 	partName = Part
-	persistentId = 3186161387
-	pos = 0.0594295003,39.6154327,0.270098269
+	persistentId = 547710613
+	pos = 0.0594295003,39.6379318,0.270098269
 	attPos = -0.00632659579,0.0232334137,-0.123186827
 	attPos0 = -2.38381599E-08,0.222384453,0.954384208
 	rot = -0.206345335,0.682518423,-0.184847847,0.676329434
@@ -8653,8 +8639,8 @@ PART
 {
 	part = monopropMiniSphere_4294187372
 	partName = Part
-	persistentId = 926639631
-	pos = 0.649028003,39.6154327,0.031119585
+	persistentId = 180025251
+	pos = 0.649028003,39.6379318,0.031119585
 	attPos = -0.0915797949,0.0232334137,-0.0826326609
 	attPos0 = 0.674851537,0.222384453,0.674851537
 	rot = -0.261376441,0.889384866,-0.0918121934,0.363658398
@@ -8810,8 +8796,8 @@ PART
 {
 	part = monopropMiniSphere_4294187316
 	partName = Part
-	persistentId = 1644551675
-	pos = 0.896953464,39.6154327,-0.554772675
+	persistentId = 3750896405
+	pos = 0.896953464,39.6379318,-0.554772675
 	attPos = -0.123186946,0.0232334137,0.00632678531
 	attPos0 = 0.954384267,0.222384453,-1.16482497E-07
 	rot = -0.276615351,0.960850537,0.0152010191,-0.00437627593
@@ -8967,8 +8953,8 @@ PART
 {
 	part = monopropMiniSphere_4294187260
 	partName = Part
-	persistentId = 151598134
-	pos = 0.657974958,39.6154327,-1.14437079
+	persistentId = 1702777656
+	pos = 0.657974958,39.6379318,-1.14437079
 	attPos = -0.0826326013,0.0232334137,0.0915800929
 	attPos0 = 0.674851477,0.222384453,-0.674851716
 	rot = -0.249742091,0.886035442,0.119900025,-0.371744752
@@ -9124,8 +9110,8 @@ PART
 {
 	part = monopropMiniSphere_4294187204
 	partName = Part
-	persistentId = 2778045202
-	pos = 0.0720826536,39.6154327,-1.39229655
+	persistentId = 627384286
+	pos = 0.0720826536,39.6379318,-1.39229655
 	attPos = 0.00632663677,0.0232334137,0.123186827
 	attPos0 = -8.99333088E-08,0.222384453,-0.954384208
 	rot = -0.184847847,0.676329434,0.206345364,-0.682518482
@@ -9281,8 +9267,8 @@ PART
 {
 	part = monopropMiniSphere_4294187148
 	partName = Part
-	persistentId = 4039735423
-	pos = -0.517515659,39.6154327,-1.15331817
+	persistentId = 3986460478
+	pos = -0.517515659,39.6379318,-1.15331817
 	attPos = 0.0915800333,0.0232334137,0.0826325417
 	attPos0 = -0.674851835,0.222384453,-0.674851358
 	rot = -0.0918121785,0.363658339,0.261376441,-0.889384925
@@ -9438,8 +9424,8 @@ PART
 {
 	part = monopropMiniSphere_4294161940
 	partName = Part
-	persistentId = 3976371489
-	pos = -0.724999428,39.6265869,-0.241095394
+	persistentId = 3320861541
+	pos = -0.724999428,39.649086,-0.241095394
 	attPos = 0.166571617,0.0925664902,-0.126405239
 	attPos0 = -0.957327127,0.16420269,0.446408927
 	rot = -0.049832046,0.210625082,-0.224777684,0.950067818
@@ -9595,8 +9581,8 @@ PART
 {
 	part = monopropMiniSphere_4294155688
 	partName = Part
-	persistentId = 283685482
-	pos = -0.267115265,39.6265869,0.224326491
+	persistentId = 2595864682
+	pos = -0.267115265,39.649086,0.224326491
 	attPos = 0.0284020305,0.0925664902,-0.207165837
 	attPos0 = -0.361273676,0.16420269,0.992591321
 	rot = -0.132057548,0.558167577,-0.18859759,0.797145426
@@ -9752,8 +9738,8 @@ PART
 {
 	part = monopropMiniSphere_4294155626
 	partName = Part
-	persistentId = 2483488892
-	pos = 0.385759562,39.6265869,0.229656577
+	persistentId = 2367823386
+	pos = 0.385759562,39.649086,0.229656577
 	attPos = -0.12640518,0.0925664902,-0.166571498
 	attPos0 = 0.446408838,0.16420269,0.957327068
 	rot = 0.194178402,-0.820733845,0.123705246,-0.522864997
@@ -9909,8 +9895,8 @@ PART
 {
 	part = monopropMiniSphere_4294155564
 	partName = Part
-	persistentId = 3101956113
-	pos = 0.851181686,39.6265869,-0.228227556
+	persistentId = 582861904
+	pos = 0.851181686,39.649086,-0.228227556
 	attPos = -0.207165778,0.0925664902,-0.0284019113
 	attPos0 = 0.992591202,0.16420269,0.361273736
 	rot = 0.226737395,-0.958350956,0.0399798788,-0.168982998
@@ -10066,8 +10052,8 @@ PART
 {
 	part = monopropMiniSphere_4294155502
 	partName = Part
-	persistentId = 2997416583
-	pos = 0.856511712,39.6265869,-0.88110292
+	persistentId = 2424676448
+	pos = 0.856511712,39.649086,-0.88110292
 	attPos = -0.166571498,0.0925664902,0.126405418
 	attPos0 = 0.957327068,0.16420269,-0.446409017
 	rot = 0.224777684,-0.950067818,-0.049832046,0.210625082
@@ -10223,8 +10209,8 @@ PART
 {
 	part = monopropMiniSphere_4294155440
 	partName = Part
-	persistentId = 1072601023
-	pos = 0.398627877,39.6265869,-1.34652448
+	persistentId = 1529320427
+	pos = 0.398627877,39.649086,-1.34652448
 	attPos = -0.0284017324,0.0925664902,0.207166076
 	attPos0 = 0.361273617,0.16420269,-0.992591381
 	rot = 0.188597605,-0.797145486,-0.132057503,0.558167398
@@ -10380,8 +10366,8 @@ PART
 {
 	part = monopropMiniSphere_4294155378
 	partName = Part
-	persistentId = 1552924566
-	pos = -0.254247725,39.6265869,-1.3518548
+	persistentId = 2354531345
+	pos = -0.254247725,39.649086,-1.3518548
 	attPos = 0.126405239,0.0925664902,0.166571498
 	attPos0 = -0.446408957,0.16420269,-0.957327068
 	rot = 0.123705238,-0.522864938,-0.194178402,0.820733845
@@ -10537,8 +10523,8 @@ PART
 {
 	part = monopropMiniSphere_4294155316
 	partName = Part
-	persistentId = 3428935005
-	pos = -0.719669402,39.6265869,-0.893971026
+	persistentId = 78086396
+	pos = -0.719669402,39.649086,-0.893971026
 	attPos = 0.207166016,0.0925664902,0.0284016728
 	attPos0 = -0.992591441,0.16420269,-0.361273438
 	rot = 0.0399798676,-0.168982938,-0.22673741,0.958351016
@@ -10694,8 +10680,8 @@ PART
 {
 	part = proceduralStructural_4294149476
 	partName = Part
-	persistentId = 649414689
-	pos = -0.755161405,39.3301964,-0.561098695
+	persistentId = 3480725242
+	pos = -0.755161405,39.3526955,-0.561098695
 	attPos = 0.364237428,0.0370254517,-4.12914574E-08
 	attPos0 = -1.18515491,-0.0766468048,7.40589172E-08
 	rot = 0.528964102,0.469251513,-0.528964162,0.469251484
@@ -10798,15 +10784,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -11020,8 +11000,8 @@ PART
 {
 	part = longAntenna_4294136434
 	partName = Part
-	persistentId = 2582886950
-	pos = -0.979457378,39.3262253,-0.614243805
+	persistentId = 3786831053
+	pos = -0.979457378,39.3487244,-0.614243805
 	attPos = 0,0,0
 	attPos0 = 0.0531452335,-0.222222626,0.0306833647
 	rot = -0.662509859,0.614193797,-0.419603407,0.0882034451
@@ -11282,8 +11262,8 @@ PART
 {
 	part = longAntenna_4294134996
 	partName = Part
-	persistentId = 3457009168
-	pos = -0.968483925,39.4176178,-0.561098635
+	persistentId = 484770780
+	pos = -0.968483925,39.4401169,-0.561098635
 	attPos = 0,0,0
 	attPos0 = -4.7276373E-08,-0.222223029,-0.0613666624
 	rot = 0.212093368,-0.658786476,-0.249914363,-0.677170277
@@ -11540,11 +11520,11 @@ PART
 {
 	part = longAntenna_4294134914
 	partName = Part
-	persistentId = 605640778
-	pos = -0.97945714,39.3262253,-0.507953644
+	persistentId = 1997076885
+	pos = -0.97945714,39.3487244,-0.507953644
 	attPos = 0,0,0
 	attPos0 = -0.0531452037,-0.222222567,0.0306834541
-	rot = -0.450416863,-0.0445938632,-0.669517636,-0.588966966
+	rot = -0.450416863,-0.0445939079,-0.669517696,-0.588967025
 	attRot = 0,0,0,1
 	attRot0 = 0.474027187,-2.98023224E-08,-0.880510211,-3.7252903E-08
 	mir = 1,1,1
@@ -11798,8 +11778,8 @@ PART
 {
 	part = batteryPack_4294098038
 	partName = Part
-	persistentId = 3693305801
-	pos = 0.956311047,39.2530594,-0.561099172
+	persistentId = 1084532500
+	pos = 0.956311047,39.2755585,-0.561099172
 	attPos = -0.0828443766,-0.0413427353,-1.73548322E-08
 	attPos0 = 0.973399341,-0.0754127502,5.80191255E-08
 	rot = -0.371978432,-0.601358593,0.601358533,0.371978343
@@ -11959,8 +11939,8 @@ PART
 {
 	part = batteryPack_4294096076
 	partName = Part
-	persistentId = 3581429101
-	pos = 0.695473552,39.2530594,-1.19081664
+	persistentId = 3495588235
+	pos = 0.695473552,39.2755585,-1.19081664
 	attPos = -0.0585798025,-0.0413427353,0.0585798025
 	attPos0 = 0.688297272,-0.0754127502,-0.688297272
 	rot = -0.113533318,-0.413232952,0.69793278,0.573793173
@@ -12120,8 +12100,8 @@ PART
 {
 	part = batteryPack_4294096028
 	partName = Part
-	persistentId = 2336492548
-	pos = 0.0657560453,39.2530594,-1.4516542
+	persistentId = 2560373999
+	pos = 0.0657560453,39.2755585,-1.4516542
 	attPos = -2.06309949E-07,-0.0413427353,0.0828442574
 	attPos0 = 1.16038244E-07,-0.0754127502,-0.973399282
 	rot = 0.162196249,-0.162196293,0.688253164,0.688253164
@@ -12281,8 +12261,8 @@ PART
 {
 	part = batteryPack_4294095980
 	partName = Part
-	persistentId = 2964476365
-	pos = -0.563961387,39.2530594,-1.19081664
+	persistentId = 1187404472
+	pos = -0.563961387,39.2755585,-1.19081664
 	attPos = 0.0585795641,-0.0413427353,0.0585799217
 	attPos0 = -0.688297153,-0.0754127502,-0.688297331
 	rot = 0.413232893,0.113533281,0.573793173,0.697932839
@@ -12442,8 +12422,8 @@ PART
 {
 	part = batteryPack_4294095932
 	partName = Part
-	persistentId = 698457335
-	pos = -0.824798882,39.2530594,-0.561098695
+	persistentId = 2384379318
+	pos = -0.824798882,39.2755585,-0.561098695
 	attPos = 0.0828443766,-0.0413427353,3.84199872E-08
 	attPos0 = -0.973399341,-0.0754127502,2.70781477E-08
 	rot = 0.601358533,0.371978343,0.371978432,0.601358593
@@ -12603,8 +12583,8 @@ PART
 {
 	part = batteryPack_4294095884
 	partName = Part
-	persistentId = 2404929888
-	pos = -0.563961148,39.2530594,0.0686185956
+	persistentId = 1887314357
+	pos = -0.563961148,39.2755585,0.0686185956
 	attPos = 0.0585799813,-0.0413427353,-0.0585796237
 	attPos0 = -0.688297272,-0.0754127502,0.688297331
 	rot = 0.697932839,0.573793232,0.113533191,0.413232863
@@ -12764,8 +12744,8 @@ PART
 {
 	part = batteryPack_4294095836
 	partName = Part
-	persistentId = 3074645297
-	pos = 0.0657560974,39.2530594,0.329455853
+	persistentId = 4256106062
+	pos = 0.0657560974,39.2755585,0.329455853
 	attPos = 1.24169217E-08,-0.0413427353,-0.0828442574
 	attPos0 = -9.4504313E-17,-0.0754127502,0.973399282
 	rot = -0.688253164,-0.688253164,0.162196219,-0.162196323
@@ -12925,8 +12905,8 @@ PART
 {
 	part = batteryPack_4294095788
 	partName = Part
-	persistentId = 3300359307
-	pos = 0.69547379,39.2530594,0.0686181188
+	persistentId = 1504517389
+	pos = 0.69547379,39.2755585,0.0686181188
 	attPos = -0.0585799217,-0.0413427353,-0.0585796833
 	attPos0 = 0.688297451,-0.0754127502,0.688297153
 	rot = -0.573793173,-0.697932839,0.413232863,0.113533244
@@ -13086,8 +13066,8 @@ PART
 {
 	part = Decoupler.1_4293899882
 	partName = Part
-	persistentId = 2021255399
-	pos = 0.0657560825,37.4448166,-0.561099172
+	persistentId = 888949325
+	pos = 0.0657560825,37.4673157,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,-0.950000763,0
 	rot = 0,0,0,1
@@ -13343,9 +13323,9 @@ PART
 {
 	part = KzResizableFairingBaseRing_4293969650
 	partName = Part
-	persistentId = 3105896087
-	pos = 0.0657560825,36.8098183,-0.561099172
-	attPos = 0,-0.925739288,0
+	persistentId = 1775032292
+	pos = 0.0657560825,36.8323174,-0.561099172
+	attPos = 0.0210169554,-0.0768737793,-0.0158750415
 	attPos0 = 0,-0.612499237,0
 	rot = 0,0,0,1
 	attRot = 0,0,0,1
@@ -13362,24 +13342,24 @@ PART
 	sepI = 2
 	attm = 0
 	sameVesselCollision = False
-	modCost = 190.62439
-	modMass = 0.29062438
+	modCost = 190.624329
+	modMass = 0.290624321
 	modSize = 0,0,0
-	link = probeCoreHex.v2_4293957738
-	link = MainSailorFairing001BK_4293161696
-	link = MainSailorFairing001BK_4293161190
+	link = probeCoreOcto.v2_4294186954
 	link = MainSailorFairing001BK_4293161140
-	link = MainSailorFairing001BK_4293161090
-	attN = top,Decoupler.1_4293899882_0|0.200000003|0_0|1|0_0|0.585000038|0_0|1|0
-	attN = bottom,probeCoreHex.v2_4293957738_0|0|0_0|-1|0_0|0|0_0|-1|0
-	attN = connect01,MainSailorFairing001BK_4293161190_1|0.292500019|0_0|1|0_1.62500012|0.292500019|0_0|1|0
-	attN = connect02,MainSailorFairing001BK_4293161696_-4.37113883E-08|0.292500019|1_0|1|0_-7.10310104E-08|0.292500019|1.62500012_0|1|0
-	attN = connect03,MainSailorFairing001BK_4293161090_-1|0.292500019|-8.74227766E-08_0|1|0_-1.62500012|0.292500019|-1.42062021E-07_0|1|0
-	attN = connect04,MainSailorFairing001BK_4293161140_1.19248806E-08|0.292500019|-1_0|1|0_1.93779321E-08|0.292500019|-1.62500012_0|1|0
-	attN = connect05,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292500019|0_0|1|0
-	attN = connect06,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292500019|0_0|1|0
-	attN = connect07,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292500019|0_0|1|0
-	attN = connect08,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292500019|0_0|1|0
+	link = MainSailorFairing001BK_4293697220
+	link = MainSailorFairing001BK_4293696672
+	link = MainSailorFairing001BK_4293696124
+	attN = top,Decoupler.1_4293899882_0|0.200000003|0_0|1|0_0|0.584999979|0_0|1|0
+	attN = bottom,probeCoreOcto.v2_4294186954_0|0|0_0|-1|0_0|0|0_0|-1|0
+	attN = connect01,MainSailorFairing001BK_4293697220_1|0.292499989|0_0|1|0_1.625|0.292499989|0_0|1|0
+	attN = connect02,MainSailorFairing001BK_4293161140_-4.37113883E-08|0.292499989|1_0|1|0_-7.10310033E-08|0.292499989|1.625_0|1|0
+	attN = connect03,MainSailorFairing001BK_4293696124_-1|0.292499989|-8.74227766E-08_0|1|0_-1.625|0.292499989|-1.42062007E-07_0|1|0
+	attN = connect04,MainSailorFairing001BK_4293696672_1.19248806E-08|0.292499989|-1_0|1|0_1.93779304E-08|0.292499989|-1.625_0|1|0
+	attN = connect05,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292499989|0_0|1|0
+	attN = connect06,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292499989|0_0|1|0
+	attN = connect07,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292499989|0_0|1|0
+	attN = connect08,Null_0_0.5|0.100000001|0_0|1|0_10000|0.292499989|0_0|1|0
 	EVENTS
 	{
 	}
@@ -13441,17 +13421,17 @@ PART
 		name = ProceduralFairingBase
 		isEnabled = True
 		mode = Payload
-		baseSize = 3.25000024
+		baseSize = 3.25
 		topSize = 1.25
 		height = 1
 		extraHeight = 0
 		extraRadius = 0
 		autoStrutSides = True
 		autoShape = False
-		manualMaxSize = 2.87500024
+		manualMaxSize = 3
 		manualCylStart = 0
-		manualCylEnd = 4.30000019
-		maxFairingSize = 2.87500024
+		manualCylEnd = 5.18400002
+		maxFairingSize = 3
 		decouplerEnabled = False
 		autoDecoupleTopNode = False
 		showInterstageNodes = True
@@ -13464,11 +13444,8 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = FairingBaseMin0_4m
-			upgrade = FairingBaseMax2_75m
-			upgrade = FairingBaseMax4m
-			upgrade = FairingBaseMax12m
-			upgrade = FairingBaseMaxUnlimited
+			upgrade = SimpleRSSFairingBase3.5M
+			upgrade = SimpleRSSFairingBase10M
 		}
 	}
 	MODULE
@@ -13476,7 +13453,7 @@ PART
 		name = KzNodeNumberTweaker
 		isEnabled = True
 		numNodes = 4
-		radius = 1.62500012
+		radius = 1.625
 		stagingEnabled = True
 		EVENTS
 		{
@@ -13643,12 +13620,12 @@ PART
 }
 PART
 {
-	part = probeCoreHex.v2_4293957738
+	part = probeCoreOcto.v2_4294186954
 	partName = Part
-	persistentId = 2460193138
-	pos = 0.0657560825,36.9911423,-0.561099172
-	attPos = 0,0.368824005,0
-	attPos0 = 0,-0.1875,0
+	persistentId = 3399402220
+	pos = 0.0657560825,37.2323151,-0.561099172
+	attPos = 0,0.587078094,0
+	attPos0 = 0,-0.187080383,0
 	rot = 0,0,0,1
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
@@ -13667,11 +13644,11 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = batteryPack_4293943426
 	link = batteryPack_4293943260
-	link = proceduralTankLiquid_4292687230
-	attN = bottom,proceduralTankLiquid_4292687230_0|-0.1875|0_0|-1|0_0|-0.1875|0_0|-1|0
-	attN = top,KzResizableFairingBaseRing_4293969650_0|0.1875|0_0|1|0_0|0.1875|0_0|1|0
+	link = batteryPack_4294185064
+	link = sasModule_4294178928
+	attN = bottom,sasModule_4294178928_0|-0.187081799|0_0|-1|0_0|-0.187081799|0_0|-1|0
+	attN = top,KzResizableFairingBaseRing_4293969650_0|0.187081799|0_0|1|0_0|0.187081799|0_0|1|0
 	EVENTS
 	{
 	}
@@ -13833,7 +13810,7 @@ PART
 	{
 		name = ModuleCargoPart
 		isEnabled = True
-		packedVolume = 200
+		packedVolume = 180
 		beingAttached = False
 		beingSettled = False
 		reinitResourcesOnStoreInVessel = False
@@ -13973,7 +13950,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = True
+		isEnabled = False
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -14013,10 +13990,10 @@ PART
 		isEnabled = True
 		IsRTAntenna = True
 		IsRTActive = True
-		IsRTPowered = True
+		IsRTPowered = False
 		IsRTBroken = False
 		RTDishCosAngle = 1
-		RTOmniRange = 3000
+		RTOmniRange = 0
 		RTDishRange = -1
 		stagingEnabled = True
 		EVENTS
@@ -14158,24 +14135,173 @@ PART
 		isVisible = True
 		flowMode = Both
 	}
-	VESSELNAMING
+}
+PART
+{
+	part = batteryPack_4293943260
+	partName = Part
+	persistentId = 2307646845
+	pos = 0.0657560825,37.2314224,-0.897399604
+	attPos = 0,0,0
+	attPos0 = 0,-0.00089263916,-0.336300433
+	rot = -0.000174288652,6.70298732E-08,-1.16825473E-11,-1
+	attRot = 0,0,0,1
+	attRot0 = -0.000174288652,6.70298732E-08,-1.16825473E-11,-1
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = 2
+	resPri = 0
+	dstg = 5
+	sidx = -1
+	sqor = -1
+	sepI = 2
+	attm = 1
+	sameVesselCollision = False
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = batteryPack_4294185064
+	srfN = srfAttach,probeCoreOcto.v2_4294186954,COLLIDER_REBUILT,0|0|0,0|0|-1,0|0|0
+	EVENTS
 	{
-		name = Soyuz - Booster
-		type = Probe
-		priority = 10
+	}
+	ACTIONS
+	{
+		ToggleSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		SetSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		RemoveSameVesselInteraction
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutOff
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutRoot
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutHeaviest
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		AutostrutGrandparent
+		{
+			actionGroup = None
+			active = False
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesEnableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+		ResourcesDisableFlow
+		{
+			actionGroup = None
+			wasActiveBeforePartWasAdjusted = False
+		}
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleCargoPart
+		isEnabled = True
+		packedVolume = 35
+		beingAttached = False
+		beingSettled = False
+		reinitResourcesOnStoreInVessel = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = KOSNameTag
+		isEnabled = False
+		nameTag = 
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = TweakScale
+		isEnabled = True
+		currentScaleFactor = 1
+		defaultTransformScale = (0, 0, 0)
+		extraCost = 0
+		extraMass = 0
+		stagingEnabled = True
+		type = free
+		defaultScale = 100
+		currentScale = 100
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	RESOURCE
+	{
+		name = ElectricCharge
+		amount = 100
+		maxAmount = 100
+		flowState = True
+		isTweakable = True
+		hideFlow = False
+		isVisible = True
+		flowMode = Both
 	}
 }
 PART
 {
-	part = batteryPack_4293943426
+	part = batteryPack_4294185064
 	partName = Part
-	persistentId = 1283526176
-	pos = 0.0657560825,36.9188347,-0.219990522
+	persistentId = 2064102229
+	pos = 0.0657560825,37.2314224,-0.224798739
 	attPos = 0,0,0
-	attPos0 = 0,-0.0723075867,0.34110865
-	rot = -1.05038641E-22,1,1.49011585E-08,7.04902513E-15
+	attPos0 = 0,-0.00089263916,0.336300433
+	rot = -4.06414832E-12,-1,0.000174288652,-2.33184849E-08
 	attRot = 0,0,0,1
-	attRot0 = -1.05038641E-22,1,1.49011585E-08,7.04902513E-15
+	attRot0 = -4.06414832E-12,-1,0.000174288652,-2.33184849E-08
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
@@ -14192,7 +14318,7 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	sym = batteryPack_4293943260
-	srfN = srfAttach,probeCoreHex.v2_4293957738,COLLIDER,0|0|0,0|0|-1,0|0|0
+	srfN = srfAttach,probeCoreOcto.v2_4294186954,COLLIDER_REBUILT,0|0|0,0|0|-1,0|0|0
 	EVENTS
 	{
 	}
@@ -14322,15 +14448,15 @@ PART
 }
 PART
 {
-	part = batteryPack_4293943260
+	part = sasModule_4294178928
 	partName = Part
-	persistentId = 4259446811
-	pos = 0.0657560825,36.9188347,-0.902207792
-	attPos = 0,0,0
-	attPos0 = 0,-0.0723075867,-0.34110865
-	rot = 1.49011585E-08,-4.37113812E-08,-6.51350231E-16,-1
+	persistentId = 4027167486
+	pos = 0.0657560825,36.932312,-0.561099172
+	attPos = 0,-0.021812439,0
+	attPos0 = 0,-0.278190613,0
+	rot = 0,0,0,1
 	attRot = 0,0,0,1
-	attRot0 = 1.49011585E-08,-4.37113812E-08,-6.51350231E-16,-1
+	attRot0 = 0,0,0,1
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
@@ -14341,13 +14467,14 @@ PART
 	sidx = -1
 	sqor = -1
 	sepI = 2
-	attm = 1
+	attm = 0
 	sameVesselCollision = False
-	modCost = 0
-	modMass = 0
+	modCost = 4200
+	modMass = 0.262500018
 	modSize = 0,0,0
-	sym = batteryPack_4293943426
-	srfN = srfAttach,probeCoreHex.v2_4293957738,COLLIDER,0|0|0,0|0|-1,0|0|0
+	link = proceduralTankLiquid_4292687230
+	attN = bottom,proceduralTankLiquid_4292687230_0|-0.1822218|0_0|-1|0_0|-0.1822218|0_0|-1|0
+	attN = top,probeCoreOcto.v2_4294186954_0|0.1822218|0_0|1|0_0|0.1822218|0_0|1|0
 	EVENTS
 	{
 	}
@@ -14371,35 +14498,33 @@ PART
 		AutostrutOff
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutRoot
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutHeaviest
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		AutostrutGrandparent
 		{
 			actionGroup = None
-			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		ResourcesEnableFlow
 		{
 			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 		ResourcesDisableFlow
 		{
 			actionGroup = None
+			active = False
 			wasActiveBeforePartWasAdjusted = False
 		}
 	}
@@ -14408,9 +14533,48 @@ PART
 	}
 	MODULE
 	{
+		name = ModuleReactionWheel
+		isEnabled = True
+		actuatorModeCycle = 0
+		authorityLimiter = 100
+		stateString = Active
+		stagingEnabled = True
+		WheelState = Active
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			CycleAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Activate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Deactivate
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+			Toggle
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ModuleCargoPart
 		isEnabled = True
-		packedVolume = 35
+		packedVolume = 560
 		beingAttached = False
 		beingSettled = False
 		reinitResourcesOnStoreInVessel = False
@@ -14428,7 +14592,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = False
+		isEnabled = True
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -14445,14 +14609,14 @@ PART
 	{
 		name = TweakScale
 		isEnabled = True
-		currentScaleFactor = 1
-		defaultTransformScale = (0, 0, 0)
-		extraCost = 0
-		extraMass = 0
+		currentScaleFactor = 2
+		defaultTransformScale = (1, 1, 1)
+		extraCost = 4200
+		extraMass = 0.262500018
 		stagingEnabled = True
-		type = free
-		defaultScale = 100
-		currentScale = 100
+		type = stack
+		defaultScale = 0.625
+		currentScale = 1.25
 		EVENTS
 		{
 		}
@@ -14463,26 +14627,15 @@ PART
 		{
 		}
 	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
 }
 PART
 {
 	part = proceduralTankLiquid_4292687230
 	partName = Part
-	persistentId = 2260545490
-	pos = 0.0657560825,36.222641,-0.561099172
-	attPos = 0,0,0
-	attPos0 = 0,-0.768501282,0
+	persistentId = 3093623913
+	pos = 0.0657560825,36.2508507,-0.561099172
+	attPos = 0,0.0817604065,0
+	attPos0 = 0,-0.763221741,0
 	rot = 0,0,0,1
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
@@ -14502,7 +14655,7 @@ PART
 	modMass = -0.48833397
 	modSize = 0,0,0
 	link = proceduralTankLiquid_4292687398
-	attN = top,probeCoreHex.v2_4293957738_0|0.58100003|0_0|1|0_0|0.58100003|0_0|1|0
+	attN = top,sasModule_4294178928_0|0.58100003|0_0|1|0_0|0.58100003|0_0|1|0
 	attN = bottom,proceduralTankLiquid_4292687398_0|-0.58100003|0_0|-1|0_0|-0.58100003|0_0|-1|0
 	EVENTS
 	{
@@ -14578,15 +14731,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -14723,7 +14870,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -14822,8 +14969,8 @@ PART
 {
 	part = proceduralTankLiquid_4292687398
 	partName = Part
-	persistentId = 3761142597
-	pos = 0.0657560825,34.4541397,-0.561099172
+	persistentId = 2596980884
+	pos = 0.0657560825,34.4823494,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 0,-1.875,0
 	rot = 0,0,1.11022276E-16,1
@@ -14923,15 +15070,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -15068,7 +15209,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -15167,8 +15308,8 @@ PART
 {
 	part = proceduralTankLiquid_4292687810
 	partName = Part
-	persistentId = 1486956459
-	pos = 0.0657559633,32.7666397,-0.56109947
+	persistentId = 781386660
+	pos = 0.0657559633,32.7948494,-0.56109947
 	attPos = 0,0,0
 	attPos0 = 0,-3.5,0
 	rot = 0,0,1.11022276E-16,1
@@ -15270,15 +15411,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -15415,7 +15550,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -15514,8 +15649,8 @@ PART
 {
 	part = sepMotor1_4292687726
 	partName = Part
-	persistentId = 858910955
-	pos = 0.0657564402,32.7666397,-1.72183049
+	persistentId = 3725962761
+	pos = 0.0657564402,32.7948494,-1.72183049
 	attPos = 4.47034836E-08,-0.241119385,0.174656153
 	attPos0 = -1.1920929E-07,0.241119385,-1.37465596
 	rot = -0.999048233,2.04890949E-08,-1.49270974E-07,-0.0436193161
@@ -15726,7 +15861,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = True
+		isEnabled = False
 		nameTag = 
 		stagingEnabled = True
 		EVENTS
@@ -15777,8 +15912,8 @@ PART
 {
 	part = sepMotor1_4292687644
 	partName = Part
-	persistentId = 2461440302
-	pos = -1.0949738,32.7666397,-0.561097503
+	persistentId = 1361580251
+	pos = -1.09497392,32.7948494,-0.561097503
 	attPos = 0.174655914,-0.241119385,-4.47034836E-08
 	attPos0 = -1.37465584,0.241119385,4.47034836E-08
 	rot = 0.706433773,0.0308434982,-0.706433773,0.0308434963
@@ -16040,8 +16175,8 @@ PART
 {
 	part = sepMotor1_4292687562
 	partName = Part
-	persistentId = 2693592229
-	pos = 0.0657559633,32.7666397,0.59962976
+	persistentId = 956917062
+	pos = 0.0657559633,32.7948494,0.59962976
 	attPos = -3.12924385E-07,-0.241119385,-0.174656153
 	attPos0 = 2.38418579E-07,0.241119385,1.37465596
 	rot = -3.27865678E-07,0.0436192751,-0.999048233,3.72528897E-09
@@ -16303,8 +16438,8 @@ PART
 {
 	part = sepMotor1_4292687480
 	partName = Part
-	persistentId = 3799593342
-	pos = 1.22648501,32.7666435,-0.56109941
+	persistentId = 3187821099
+	pos = 1.22648489,32.7948532,-0.56109941
 	attPos = -0.174655914,-0.241119385,8.94069672E-08
 	attPos0 = 1.37465584,0.241119385,-1.93715096E-07
 	rot = -0.706433833,0.030843487,-0.706433713,-0.0308434796
@@ -16566,8 +16701,8 @@ PART
 {
 	part = proceduralStructural_4292688038
 	partName = Part
-	persistentId = 2606572402
-	pos = 0.0657559633,31.3916397,-0.56109941
+	persistentId = 122141283
+	pos = 0.0657559633,31.4198494,-0.56109941
 	attPos = 0,0.166999817,0
 	attPos0 = 0,-1.5625,0
 	rot = 0,0,1.11022276E-16,1
@@ -16667,15 +16802,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -16812,7 +16941,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75000006
 		fillet = 0.25
@@ -16889,8 +17018,8 @@ PART
 {
 	part = LiquidEngineRK-10_4292689148
 	partName = Part
-	persistentId = 2615574855
-	pos = 0.0657557249,31.8299599,-0.561098516
+	persistentId = 2181169017
+	pos = 0.0657557249,31.8581696,-0.561098576
 	attPos = 0,2.43832016,0
 	attPos0 = 0,1.64866638,0
 	rot = 0,0,0,1
@@ -17251,8 +17380,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292688774
 	partName = Part
-	persistentId = 531733946
-	pos = -0.781155229,31.3836288,-0.561099708
+	persistentId = 909001470
+	pos = -0.781155467,31.4118385,-0.561099768
 	attPos = 0.128676534,-0.478340149,-1.1920929E-07
 	attPos0 = -0.975584507,0.0320053101,5.96046448E-08
 	rot = 3.3837555E-10,0.70710665,-2.82080004E-09,-0.707106888
@@ -17639,8 +17768,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292688590
 	partName = Part
-	persistentId = 1311739220
-	pos = 0.0657560825,31.383625,0.285811722
+	persistentId = 3495918723
+	pos = 0.0657560825,31.4118347,0.285811543
 	attPos = 7.4505806E-08,-0.478340149,-0.128676414
 	attPos0 = 0,0.0320053101,0.975584388
 	rot = 7.57326557E-09,-3.87430049E-07,2.96344038E-09,-1
@@ -18027,8 +18156,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292688406
 	partName = Part
-	persistentId = 1534056765
-	pos = 0.912665606,31.383625,-0.561100125
+	persistentId = 2592953639
+	pos = 0.912665606,31.4118347,-0.561100125
 	attPos = -0.128676653,-0.478340149,8.94069672E-08
 	attPos0 = 0.975584507,0.0320053101,-1.49011612E-07
 	rot = -3.43493478E-09,-0.707106888,-6.49002796E-10,-0.70710665
@@ -18415,8 +18544,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292688222
 	partName = Part
-	persistentId = 3702047352
-	pos = 0.0657559633,31.383625,-1.40800917
+	persistentId = 3097521613
+	pos = 0.0657559633,31.4118347,-1.40800917
 	attPos = 1.1920929E-07,-0.478340149,0.128676534
 	attPos0 = -1.1920929E-07,0.0320053101,-0.975584507
 	rot = -2.30490826E-09,1,-4.28053992E-09,-1.78813892E-07
@@ -18803,8 +18932,8 @@ PART
 {
 	part = Size1p5.Strut.Decoupler_4291992416
 	partName = Part
-	persistentId = 1693709160
-	pos = 0.0657557249,30.1812935,-0.561098516
+	persistentId = 1628206520
+	pos = 0.0657557249,30.2095032,-0.561098576
 	attPos = 0,0.0388946533,0
 	attPos0 = -0.143768653,42.9187126,-0.27676636
 	rot = 0,0,0,1
@@ -19031,8 +19160,8 @@ PART
 {
 	part = proceduralStructural_4293847278
 	partName = Part
-	persistentId = 1076104603
-	pos = 0.0657557249,29.5121269,-0.561098516
+	persistentId = 2577328556
+	pos = 0.0657557249,29.5403366,-0.561098576
 	attPos = 0,0,0
 	attPos0 = 1.48584905E-16,-0.669166565,0
 	rot = 0,0,0,1
@@ -19132,15 +19261,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -19277,7 +19400,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -19354,8 +19477,8 @@ PART
 {
 	part = proceduralTankLiquid_4291915120
 	partName = Part
-	persistentId = 1347927783
-	pos = 0.0657557249,25.8246269,-0.561098516
+	persistentId = 1600988820
+	pos = 0.0657557249,25.8528366,-0.561098576
 	attPos = -2.27155876,-11.9071999,0.129194319
 	attPos0 = 0,-3.6875,0
 	rot = 0,0,0,1
@@ -19457,15 +19580,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -19602,7 +19719,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -19701,8 +19818,8 @@ PART
 {
 	part = proceduralTankLiquid_4291911302
 	partName = Part
-	persistentId = 1165482235
-	pos = 0.0657557249,19.4496269,-0.561098516
+	persistentId = 1740873257
+	pos = 0.0657557249,19.4778366,-0.561098576
 	attPos = 0,0,0
 	attPos0 = 0,-0.625,0
 	rot = 0,0,0,1
@@ -19804,15 +19921,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -19949,7 +20060,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -20048,8 +20159,8 @@ PART
 {
 	part = proceduralTankLiquid_4291906674
 	partName = Part
-	persistentId = 1070865962
-	pos = 0.0657557249,10.449625,-0.561098516
+	persistentId = 2633902994
+	pos = 0.0657557249,10.4778347,-0.561098576
 	attPos = 0,0,0
 	attPos0 = 0,-7.5,0
 	rot = 0,0,0,1
@@ -20151,15 +20262,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -20296,7 +20401,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -20395,8 +20500,8 @@ PART
 {
 	part = LiquidEngineRK-7_4294176722
 	partName = Part
-	persistentId = 2539895551
-	pos = 0.0657557249,3.32462311,-0.561098516
+	persistentId = 4190088260
+	pos = 0.0657557249,3.35283279,-0.561098576
 	attPos = 0,0,0
 	attPos0 = 0,-1.5,0
 	rot = 0,0,0,1
@@ -20409,7 +20514,7 @@ PART
 	istg = 7
 	resPri = 0
 	dstg = 7
-	sidx = 5
+	sidx = 4
 	sqor = 7
 	sepI = 4
 	attm = 0
@@ -20765,8 +20870,8 @@ PART
 {
 	part = LiquidEngineRV-1_4294175750
 	partName = Part
-	persistentId = 112600035
-	pos = -0.922597945,2.87935257,-0.561098456
+	persistentId = 3482316978
+	pos = -0.922598243,2.90756226,-0.561098456
 	attPos = 0.181224942,0.0598735809,2.98023437E-08
 	attPos0 = -1.16957855,-0.505144119,2.98023011E-08
 	rot = -1.57710744E-07,0.707106709,-1.5771073E-07,-0.707106829
@@ -21154,8 +21259,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292545578
 	partName = Part
-	persistentId = 3600098172
-	pos = 0.0657559633,2.87935257,0.427255332
+	persistentId = 3779302430
+	pos = 0.0657559633,2.90756226,0.427255273
 	attPos = 3.42726679E-07,0.0598735809,-0.181224704
 	attPos0 = -4.47034587E-08,-0.505144119,1.16957855
 	rot = -2.23036665E-07,-8.74227766E-08,1.9498485E-14,-1
@@ -21543,8 +21648,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292545374
 	partName = Part
-	persistentId = 3637233149
-	pos = 1.05410945,2.87935257,-0.561098695
+	persistentId = 2390140794
+	pos = 1.05410945,2.90756226,-0.561098695
 	attPos = -0.181224704,0.0598735809,-5.96046164E-08
 	attPos0 = 1.16957855,-0.505144119,-1.19209318E-07
 	rot = -1.5771073E-07,-0.707106829,1.57710744E-07,-0.707106709
@@ -21932,8 +22037,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292545170
 	partName = Part
-	persistentId = 1054941554
-	pos = 0.0657556057,2.87935257,-1.54945242
+	persistentId = 3996570852
+	pos = 0.0657556057,2.90756226,-1.54945242
 	attPos = 4.47034942E-08,0.0598735809,0.181224704
 	attPos0 = -1.04308135E-07,-0.505144119,-1.16957855
 	rot = -9.7492425E-15,1,-2.23036665E-07,-4.37113883E-08
@@ -22321,8 +22426,8 @@ PART
 {
 	part = radialDecoupler_4293066506
 	partName = Part
-	persistentId = 3690587295
-	pos = -0.934244394,6.09762192,-0.561098516
+	persistentId = 1880769730
+	pos = -0.934244514,6.12582779,-0.561098576
 	attPos = -0.047549963,0.253238678,-5.96046021E-08
 	attPos0 = -0.952450275,-4.60524368,5.96046021E-08
 	rot = 8.23180621E-11,8.42936956E-08,0.00272348896,0.999996305
@@ -22440,16 +22545,19 @@ PART
 			ToggleAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			EnableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			DisableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 		}
@@ -22534,11 +22642,11 @@ PART
 {
 	part = proceduralStructural_4293411682
 	partName = Part
-	persistentId = 2724911252
-	pos = -2.59800267,5.29762268,-0.561098337
+	persistentId = 1060837797
+	pos = -2.59800267,5.32583237,-0.561098456
 	attPos = -2.67370987,-0.489426225,0.269454837
 	attPos0 = 1.00561869,-0.301496834,-0.269454956
-	rot = 6.58546273E-10,-1.68587405E-07,0.0075018378,-0.999971926
+	rot = 6.5854594E-10,-1.68587405E-07,0.0075018378,-0.999971926
 	attRot = -1.21952382E-09,-0.7933532,8.92032628E-11,0.60876137
 	attRot0 = -4.36389674E-10,1.15050817E-07,1.86264515E-09,1
 	mir = 1,1,1
@@ -22640,15 +22748,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -22785,7 +22887,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -22862,8 +22964,8 @@ PART
 {
 	part = LiquidEngineRK-8_4293532348
 	partName = Part
-	persistentId = 1455369097
-	pos = -2.62288594,3.2977829,-0.561099946
+	persistentId = 3442154435
+	pos = -2.62288594,3.32599258,-0.561100006
 	attPos = -1.36822308E-07,-18.0014858,-0.0327130407
 	attPos0 = -1.59961573E-07,-1.50000036,-9.65196989E-08
 	rot = -0.00369328423,-0.707096994,-0.00369328237,0.707097471
@@ -23227,11 +23329,11 @@ PART
 {
 	part = LiquidEngineRV-1_4293531962
 	partName = Part
-	persistentId = 2219810315
-	pos = -3.72890306,2.84529877,-0.856166959
+	persistentId = 934625236
+	pos = -3.72890067,2.87350845,-0.856167912
 	attPos = 0.129409552,0,-0.482962966
 	attPos0 = -0.424475074,-0.464017868,1.58416224
-	rot = -0.00414371025,-0.793342352,-0.00317956018,0.608753443
+	rot = -0.00414370745,-0.793342412,-0.00317955879,0.608753443
 	attRot = 0,0,0,1
 	attRot0 = 1.09192889E-07,-0.130526215,1.43755194E-08,0.991444886
 	mir = 1,1,1
@@ -23615,11 +23717,11 @@ PART
 {
 	part = LiquidEngineRV-1_4293531766
 	partName = Part
-	persistentId = 2748640789
-	pos = -3.7288878,2.84529877,-0.266030341
+	persistentId = 2061618168
+	pos = -3.72889066,2.87350845,-0.266030282
 	attPos = -0.129409552,0,-0.482962966
 	attPos0 = 0.424475074,-0.464017868,1.58416224
-	rot = -0.00317956228,-0.608752966,-0.00414372794,0.793342829
+	rot = -0.00317955948,-0.608752966,-0.00414372794,0.793342829
 	attRot = 0,0,0,1
 	attRot0 = 1.09192889E-07,0.130526215,-1.43755177E-08,0.991444886
 	mir = 1,1,1
@@ -24003,11 +24105,11 @@ PART
 {
 	part = deltaWing_4293531570
 	partName = Part
-	persistentId = 2735992297
-	pos = -4.02281666,2.8974762,-0.561098874
+	persistentId = 2217717525
+	pos = -4.0228138,2.92568588,-0.561098933
 	attPos = -1.00940326E-06,0.102212429,-0.00307106972
 	attPos0 = 0,-0.517123222,1.3987267
-	rot = 1.03430393E-08,4.66540428E-07,-0.00522298086,0.999986529
+	rot = 1.03430402E-08,4.66540428E-07,-0.00522298086,0.999986529
 	attRot = 0,0,0,1
 	attRot0 = 8.35725444E-08,0.707106829,8.35725373E-08,0.707106829
 	mir = 1,1,1
@@ -24162,8 +24264,8 @@ PART
 {
 	part = launchClamp1_4292551304
 	partName = Part
-	persistentId = 1326818166
-	pos = -2.64094853,1.56935883,1.64067352
+	persistentId = 3133821958
+	pos = -2.6409471,1.59756851,1.64067185
 	attPos = 4.76837158E-06,-3.4570694E-06,-1.00582838E-06
 	attPos0 = 2.2017653,-1.72851825,7.15255737E-07
 	rot = -0.00522309076,-0.999986529,-1.08803725E-07,1.67770168E-07
@@ -24176,7 +24278,7 @@ PART
 	istg = 7
 	resPri = 0
 	dstg = 9
-	sidx = 4
+	sidx = 5
 	sqor = 7
 	sepI = 7
 	attm = 1
@@ -24298,8 +24400,8 @@ PART
 	{
 		name = ModuleRestockLaunchClamp
 		isEnabled = True
-		scaleFactor = 1.1147126
-		height = 2.22942352
+		scaleFactor = 1.12881744
+		height = 2.25763321
 		stagingEnabled = True
 		towerRot = 0.00522308936,0.99998641,8.72561756E-08,2.24622625E-07
 		EVENTS
@@ -24382,8 +24484,8 @@ PART
 {
 	part = proceduralTankLiquid_4293824056
 	partName = Part
-	persistentId = 3887383518
-	pos = -2.53389382,7.26436615,-0.561098576
+	persistentId = 2436250381
+	pos = -2.53389096,7.29257584,-0.561098695
 	attPos = -3.51155496,-12.2868233,4.75411034
 	attPos0 = 3.54740572,14.2977877,-4.75411034
 	rot = -0.015453971,-0.706937671,-0.0154539719,0.706938326
@@ -24484,15 +24586,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -24629,7 +24725,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -24728,8 +24824,8 @@ PART
 {
 	part = proceduralTankLiquid_4293823018
 	partName = Part
-	persistentId = 753965745
-	pos = -2.25157046,12.2000694,-0.56109941
+	persistentId = 3068271296
+	pos = -2.25157046,12.2282791,-0.56109947
 	attPos = -0.0103569552,-8.33003044,-0.410074532
 	attPos0 = 0.0103569329,14.0641308,0.251434863
 	rot = -0.0216642711,-0.706774652,-0.0216642749,0.706775308
@@ -24830,15 +24926,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -24975,7 +25065,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -25074,11 +25164,11 @@ PART
 {
 	part = proceduralStructural_4293822934
 	partName = Part
-	persistentId = 689593266
-	pos = -1.8628509,18.046936,-0.561102331
+	persistentId = 3225959597
+	pos = -1.86285102,18.0751457,-0.561102211
 	attPos = -4.2913959E-07,-0.207645416,-0.145996124
 	attPos0 = 0,6.06250048,3.7252903E-09
-	rot = -0.026471721,-0.706610799,-0.0264717974,0.706611633
+	rot = -0.0264717098,-0.706610799,-0.0264717825,0.706611633
 	attRot = 0.0189499464,0,0,-0.999820411
 	attRot0 = 0.0189499464,0,0,-0.999820411
 	mir = 1,1,1
@@ -25179,15 +25269,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -25324,7 +25408,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -25401,11 +25485,11 @@ PART
 {
 	part = sepMotor1_4293822764
 	partName = Part
-	persistentId = 3566291014
-	pos = -1.52213585,19.6612129,-0.561102152
+	persistentId = 4263840599
+	pos = -1.52213657,19.6894226,-0.561101973
 	attPos = -2.15591811E-08,-0.035497427,0.219271809
 	attPos0 = 3.86745462E-08,1.76983094,-0.442385435
-	rot = -0.520936012,0.47814846,0.520937443,0.47814697
+	rot = -0.520936012,0.478148401,0.520937443,0.478147149
 	attRot = 0.707106769,2.96088096E-16,-1.92786207E-14,-0.707106888
 	attRot0 = -3.74366955E-08,0.648148179,0.761514246,3.18635358E-08
 	mir = 1,1,1
@@ -25664,11 +25748,11 @@ PART
 {
 	part = proceduralTankLiquid_4293747642
 	partName = Part
-	persistentId = 2532670539
-	pos = -1.62691605,20.8340569,-0.561101794
+	persistentId = 3180707884
+	pos = -1.62691629,20.8622665,-0.561101854
 	attPos = 1.9726329E-08,-0.0155403614,-0.0267401338
 	attPos0 = -1.09014891E-07,2.81249881,1.34855509E-06
-	rot = -0.0385324135,-0.706056118,-0.0385324024,0.706056595
+	rot = -0.038532421,-0.706056118,-0.0385324135,0.706056595
 	attRot = 0,0,0,1
 	attRot0 = -4.65661176E-10,3.87644377E-07,-1.07225793E-08,-1
 	mir = 1,1,1
@@ -25765,15 +25849,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -25910,7 +25988,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -25998,8 +26076,8 @@ PART
 {
 	part = radialDecoupler_4292552262
 	partName = Part
-	persistentId = 1058844806
-	pos = 0.0657556057,6.09762192,0.438901782
+	persistentId = 1326494842
+	pos = 0.0657556057,6.12582779,0.438901782
 	attPos = -5.96046412E-08,0.253238678,0.0475499034
 	attPos0 = 5.25529945E-15,-4.60524368,0.952450216
 	rot = 0.00192579767,0.707104266,0.00192579755,0.707104146
@@ -26117,16 +26195,19 @@ PART
 			ToggleAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			EnableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			DisableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 		}
@@ -26211,8 +26292,8 @@ PART
 {
 	part = proceduralStructural_4292552184
 	partName = Part
-	persistentId = 3162468233
-	pos = 0.0657560825,5.29762268,2.10266829
+	persistentId = 3758285912
+	pos = 0.0657560825,5.32583237,2.10266685
 	attPos = -2.67371035,-0.489426225,0.269454837
 	attPos0 = 1.00561869,-0.301496834,-0.269454956
 	rot = 0.00530460104,-0.7070871,0.00530460058,-0.707086861
@@ -26317,15 +26398,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -26462,7 +26537,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -26539,8 +26614,8 @@ PART
 {
 	part = LiquidEngineRK-8_4292552100
 	partName = Part
-	persistentId = 1564148240
-	pos = 0.0657545328,3.2977829,2.12755728
+	persistentId = 2955722713
+	pos = 0.0657545328,3.32599258,2.12755537
 	attPos = -1.36822308E-07,-18.0014858,-0.0327130407
 	attPos0 = -1.59961573E-07,-1.50000036,-9.65196989E-08
 	rot = -0.00522309123,3.27825546E-07,1.51339918E-09,0.999986529
@@ -26904,11 +26979,11 @@ PART
 {
 	part = LiquidEngineRV-1_4292551726
 	partName = Part
-	persistentId = 4176770709
-	pos = -0.229311883,2.84529877,3.23357153
+	persistentId = 3120734604
+	pos = -0.229311883,2.87350845,3.23356819
 	attPos = 0.129409552,0,-0.482962966
 	attPos0 = -0.424475074,-0.464017868,1.58416224
-	rot = -0.0051783165,-0.130522609,0.000681752223,0.991431713
+	rot = -0.00517831556,-0.130522937,0.000681752805,0.991431594
 	attRot = 0,0,0,1
 	attRot0 = 1.09192889E-07,-0.130526215,1.43755194E-08,0.991444886
 	mir = 1,1,1
@@ -27292,11 +27367,11 @@ PART
 {
 	part = LiquidEngineRV-1_4292551542
 	partName = Part
-	persistentId = 2051879247
-	pos = 0.360824347,2.84529877,3.23358154
+	persistentId = 4277412663
+	pos = 0.360824347,2.87350845,3.23357725
 	attPos = -0.129409552,0,-0.482962966
 	attPos0 = 0.424475074,-0.464017868,1.58416224
-	rot = -0.00517833978,0.130524606,-0.000681776553,0.991431415
+	rot = -0.00517834071,0.130524665,-0.000681776903,0.991431475
 	attRot = 0,0,0,1
 	attRot0 = 1.09192889E-07,0.130526215,-1.43755177E-08,0.991444886
 	mir = 1,1,1
@@ -27680,8 +27755,8 @@ PART
 {
 	part = deltaWing_4292551358
 	partName = Part
-	persistentId = 182608020
-	pos = 0.0657556131,2.8974762,3.52747822
+	persistentId = 1427359265
+	pos = 0.0657556131,2.92568588,3.52747297
 	attPos = -1.00940326E-06,0.102212429,-0.00307106972
 	attPos0 = 0,-0.517123222,1.3987267
 	rot = -0.00369319739,0.70709765,-0.00369321252,0.707096934
@@ -27839,11 +27914,11 @@ PART
 {
 	part = launchClamp1_4292538836
 	partName = Part
-	persistentId = 343635656
-	pos = 2.26752496,1.56935883,2.14561319
+	persistentId = 3903686830
+	pos = 2.26752496,1.59756851,2.14561129
 	attPos = 4.76837158E-06,-3.4570694E-06,-1.00582838E-06
 	attPos0 = 2.20176673,-1.72851944,1.66893005E-06
-	rot = -0.00369335432,-0.707097232,0.00369319227,0.707097352
+	rot = -0.00369335595,-0.707097232,0.00369319553,0.707097352
 	attRot = 0,0,0,1
 	attRot0 = -7.86444971E-08,-0.707106888,-7.92302188E-08,0.707106769
 	mir = 1,1,1
@@ -27853,7 +27928,7 @@ PART
 	istg = 7
 	resPri = 0
 	dstg = 9
-	sidx = 4
+	sidx = 5
 	sqor = 7
 	sepI = 7
 	attm = 1
@@ -27975,10 +28050,10 @@ PART
 	{
 		name = ModuleRestockLaunchClamp
 		isEnabled = True
-		scaleFactor = 1.1147126
-		height = 2.22942352
+		scaleFactor = 1.12881744
+		height = 2.25763321
 		stagingEnabled = True
-		towerRot = 0.00369333895,0.707097054,-0.0036932074,0.707097292
+		towerRot = 0.00369334011,0.707097054,-0.00369320996,0.707097292
 		EVENTS
 		{
 		}
@@ -28059,8 +28134,8 @@ PART
 {
 	part = proceduralTankLiquid_4292551146
 	partName = Part
-	persistentId = 2362162657
-	pos = 0.0657558441,7.26436615,2.03855896
+	persistentId = 3740303103
+	pos = 0.0657558441,7.29257584,2.03855753
 	attPos = -3.51155758,-12.2868233,4.75411034
 	attPos0 = 3.54740572,14.2977877,-4.75411034
 	rot = -0.0218552183,4.17232513E-07,-1.16415322E-10,0.999761462
@@ -28161,15 +28236,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -28306,7 +28375,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -28405,8 +28474,8 @@ PART
 {
 	part = proceduralTankLiquid_4292551062
 	partName = Part
-	persistentId = 2399795614
-	pos = 0.0657552183,12.2000809,1.75625288
+	persistentId = 1863693811
+	pos = 0.0657552183,12.2282906,1.75625145
 	attPos = -0.0103569552,-8.33003044,-0.410074532
 	attPos0 = 0.0103569329,14.0641308,0.251434863
 	rot = -0.0306379069,5.06639481E-07,-6.4028427E-09,0.999530792
@@ -28507,15 +28576,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -28652,7 +28715,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -28751,11 +28814,11 @@ PART
 {
 	part = proceduralStructural_4292550978
 	partName = Part
-	persistentId = 4078707712
-	pos = 0.0657516494,18.0469475,1.36752927
+	persistentId = 4012804276
+	pos = 0.0657517686,18.0751572,1.36752927
 	attPos = -4.2913959E-07,-0.207645416,-0.145996124
 	attPos0 = 0,6.06250048,3.7252903E-09
-	rot = -0.0374367759,5.96046448E-07,-5.83240762E-08,0.999299288
+	rot = -0.0374367461,6.2584877E-07,-5.07570803E-08,0.999299288
 	attRot = 0.0189499464,0,0,-0.999820411
 	attRot0 = 0.0189499464,0,0,-0.999820411
 	mir = 1,1,1
@@ -28856,15 +28919,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -29001,7 +29058,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -29078,11 +29135,11 @@ PART
 {
 	part = sepMotor1_4292550894
 	partName = Part
-	persistentId = 3968434944
-	pos = 0.0657508671,19.6612244,1.02681243
+	persistentId = 1521893217
+	pos = 0.0657514632,19.6894341,1.02681243
 	attPos = -2.15591811E-08,-0.035497427,0.219271809
 	attPos0 = 3.86745462E-08,1.76983094,-0.442385435
-	rot = 8.64092726E-07,0.676203132,0.736715853,-5.96046448E-07
+	rot = 8.64150934E-07,0.676203132,0.736715734,-5.66244125E-07
 	attRot = 0.707106769,2.96088096E-16,-1.92786207E-14,-0.707106888
 	attRot0 = -3.74366955E-08,0.648148179,0.761514246,3.18635358E-08
 	mir = 1,1,1
@@ -29341,11 +29398,11 @@ PART
 {
 	part = proceduralTankLiquid_4292550812
 	partName = Part
-	persistentId = 4200162403
-	pos = 0.0657525212,20.8340645,1.13159335
+	persistentId = 2019369828
+	pos = 0.0657527596,20.8622742,1.1315943
 	attPos = -1.40516079E-08,-0.0155403614,-0.0267399698
 	attPos0 = -1.09014891E-07,2.81249881,1.34855509E-06
-	rot = -0.0544929802,3.27825546E-07,-2.17696652E-08,0.998514533
+	rot = -0.0544930026,3.27825546E-07,-1.990702E-08,0.998514533
 	attRot = 0,0,0,1
 	attRot0 = -4.65661176E-10,3.87644377E-07,-1.07225793E-08,-1
 	mir = 1,1,1
@@ -29442,15 +29499,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -29587,7 +29638,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -29675,8 +29726,8 @@ PART
 {
 	part = radialDecoupler_4292550644
 	partName = Part
-	persistentId = 26831629
-	pos = 1.06575608,6.09762192,-0.561098576
+	persistentId = 1731831448
+	pos = 1.06575608,6.12582779,-0.561098695
 	attPos = 0.0475500822,0.253238678,5.96046021E-08
 	attPos0 = 0.952450156,-4.60524368,-1.49011612E-07
 	rot = 0.00272348896,0.999996305,-2.01365549E-10,-1.28004928E-07
@@ -29794,16 +29845,19 @@ PART
 			ToggleAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			EnableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			DisableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 		}
@@ -29888,11 +29942,11 @@ PART
 {
 	part = proceduralStructural_4292550566
 	partName = Part
-	persistentId = 2097685778
-	pos = 2.72951531,5.29762268,-0.561098933
+	persistentId = 3277897541
+	pos = 2.72951531,5.32583237,-0.561098993
 	attPos = -2.67371035,-0.489426225,0.269454837
 	attPos0 = 1.00561869,-0.301496834,-0.269454956
-	rot = 0.0075018378,-0.999971926,-9.86461801E-10,2.12297792E-07
+	rot = 0.0075018378,-0.999971926,-9.86461579E-10,2.12297749E-07
 	attRot = -1.21952382E-09,-0.7933532,8.92032628E-11,0.60876137
 	attRot0 = -4.36389674E-10,1.15050817E-07,1.86264515E-09,1
 	mir = 1,1,1
@@ -29994,15 +30048,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -30139,7 +30187,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -30216,11 +30264,11 @@ PART
 {
 	part = LiquidEngineRK-8_4292550482
 	partName = Part
-	persistentId = 781424036
-	pos = 2.75439811,3.2977829,-0.561097383
+	persistentId = 1457889507
+	pos = 2.75439811,3.32599258,-0.561097383
 	attPos = -1.36822308E-07,-18.0014858,-0.0327130407
 	attPos0 = -1.59961573E-07,-1.50000036,-9.65196989E-08
-	rot = -0.00369327492,0.707097471,0.00369329168,0.707096934
+	rot = -0.00369327632,0.707097471,0.00369329029,0.707096934
 	attRot = -0.0207993668,0.70680058,-0.0207993779,-0.706800997
 	attRot0 = 2.63417865E-09,0.70710659,7.71532171E-10,-0.707106948
 	mir = 1,1,1
@@ -30581,11 +30629,11 @@ PART
 {
 	part = LiquidEngineRV-1_4292550108
 	partName = Part
-	persistentId = 3594559052
-	pos = 3.86041713,2.84529877,-0.266029835
+	persistentId = 611247153
+	pos = 3.86041522,2.87350845,-0.266030014
 	attPos = 0.129409552,0,-0.482962966
 	attPos0 = -0.424475074,-0.464017868,1.58416224
-	rot = -0.0031795518,0.608753681,0.0041437,0.793342233
+	rot = -0.00317955157,0.608753741,0.00414369814,0.793342292
 	attRot = 0,0,0,1
 	attRot0 = 1.09192889E-07,-0.130526215,1.43755194E-08,0.991444886
 	mir = 1,1,1
@@ -30969,11 +31017,11 @@ PART
 {
 	part = LiquidEngineRV-1_4292549924
 	partName = Part
-	persistentId = 3471125867
-	pos = 3.86040759,2.84529877,-0.856167257
+	persistentId = 4229914720
+	pos = 3.86040187,2.87350845,-0.856167257
 	attPos = -0.129409552,0,-0.482962966
 	attPos0 = 0.424475074,-0.464017868,1.58416224
-	rot = -0.00414372794,0.793342888,0.00317956274,0.608752847
+	rot = -0.00414372794,0.793342888,0.00317955995,0.608752847
 	attRot = 0,0,0,1
 	attRot0 = 1.09192889E-07,0.130526215,-1.43755177E-08,0.991444886
 	mir = 1,1,1
@@ -31357,11 +31405,11 @@ PART
 {
 	part = deltaWing_4292549740
 	partName = Part
-	persistentId = 3832371711
-	pos = 4.15431499,2.8974762,-0.561098576
+	persistentId = 854670822
+	pos = 4.15431499,2.92568588,-0.561098576
 	attPos = -1.00940326E-06,0.102212429,-0.00307106972
 	attPos0 = 0,-0.517123222,1.3987267
-	rot = -0.00522297993,0.999986529,-1.04639728E-08,-5.10248867E-07
+	rot = -0.00522297993,0.999986529,-1.0347561E-08,-5.1024972E-07
 	attRot = 0,0,0,1
 	attRot0 = 8.35725444E-08,0.707106829,8.35725373E-08,0.707106829
 	mir = 1,1,1
@@ -31516,11 +31564,11 @@ PART
 {
 	part = launchClamp1_4292538672
 	partName = Part
-	persistentId = 1798009180
-	pos = 2.77245402,1.56935883,-2.76287127
+	persistentId = 1613754284
+	pos = 2.77245402,1.59756851,-2.76286983
 	attPos = 4.76837158E-06,-3.4570694E-06,-1.00582838E-06
 	attPos0 = 2.20176601,-1.72851896,1.43051147E-06
-	rot = -1.08459012E-07,2.1148206E-07,0.00522309076,0.999986529
+	rot = -1.08459012E-07,2.11482018E-07,0.00522309076,0.999986529
 	attRot = 0,0,0,1
 	attRot0 = -7.85929757E-08,-0.707106888,-7.91786974E-08,0.707106769
 	mir = 1,1,1
@@ -31530,7 +31578,7 @@ PART
 	istg = 7
 	resPri = 0
 	dstg = 9
-	sidx = 4
+	sidx = 5
 	sqor = 7
 	sepI = 7
 	attm = 1
@@ -31652,10 +31700,10 @@ PART
 	{
 		name = ModuleRestockLaunchClamp
 		isEnabled = True
-		scaleFactor = 1.1147126
-		height = 2.22942352
+		scaleFactor = 1.12881744
+		height = 2.25763321
 		stagingEnabled = True
-		towerRot = 8.72777548E-08,-3.43831886E-07,-0.00522308936,0.99998641
+		towerRot = 8.69884431E-08,-3.43831886E-07,-0.00522308936,0.99998641
 		EVENTS
 		{
 		}
@@ -31736,11 +31784,11 @@ PART
 {
 	part = proceduralTankLiquid_4292549528
 	partName = Part
-	persistentId = 3701241690
-	pos = 2.66540265,7.26436615,-0.561098695
+	persistentId = 3426193328
+	pos = 2.66540265,7.29257584,-0.561098695
 	attPos = -3.51155543,-12.2868233,4.75411034
 	attPos0 = 3.54740572,14.2977877,-4.75411034
-	rot = -0.0154539999,0.706938326,0.0154539999,0.706937611
+	rot = -0.0154539943,0.706938386,0.0154539961,0.706937671
 	attRot = 0,0,0,0.999999881
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -31838,15 +31886,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -31983,7 +32025,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -32082,11 +32124,11 @@ PART
 {
 	part = proceduralTankLiquid_4292549444
 	partName = Part
-	persistentId = 1392614468
-	pos = 2.38308167,12.2000694,-0.561098099
+	persistentId = 849004663
+	pos = 2.38307977,12.2282791,-0.561098158
 	attPos = -0.0103569552,-8.33003044,-0.410074532
 	attPos0 = 0.0103569329,14.0641308,0.251434863
-	rot = -0.0216642302,0.706775248,0.021664286,0.706774533
+	rot = -0.0216642413,0.706775308,0.0216642879,0.706774592
 	attRot = -0.0075545297,9.63572798E-12,-2.79395085E-09,0.999971628
 	attRot0 = -0.0110031469,0,-2.79396706E-09,0.999939442
 	mir = 1,1,1
@@ -32184,15 +32226,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -32329,7 +32365,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -32428,11 +32464,11 @@ PART
 {
 	part = proceduralStructural_4292549360
 	partName = Part
-	persistentId = 18508219
-	pos = 1.9943676,18.046936,-0.561095893
+	persistentId = 786853467
+	pos = 1.994367,18.0751457,-0.561095893
 	attPos = -4.2913959E-07,-0.207645416,-0.145996124
 	attPos0 = 0,6.06250048,3.7252903E-09
-	rot = -0.0264717471,0.706611633,0.0264716744,0.706610739
+	rot = -0.0264717434,0.706611693,0.0264716707,0.706610799
 	attRot = 0.0189499464,0,0,-0.999820411
 	attRot0 = 0.0189499464,0,0,-0.999820411
 	mir = 1,1,1
@@ -32533,15 +32569,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -32678,7 +32708,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -32755,11 +32785,11 @@ PART
 {
 	part = sepMotor1_4292549276
 	partName = Part
-	persistentId = 2956091636
-	pos = 1.65365064,19.6612129,-0.561096191
+	persistentId = 55873604
+	pos = 1.65365064,19.6894226,-0.561096191
 	attPos = -2.15591811E-08,-0.035497427,0.219271809
 	attPos0 = 3.86745462E-08,1.76983094,-0.442385435
-	rot = 0.520937443,0.478147417,0.520936191,-0.478147656
+	rot = 0.520937383,0.478147447,0.520936251,-0.478147775
 	attRot = 0.707106769,2.96088096E-16,-1.92786207E-14,-0.707106888
 	attRot0 = -3.74366955E-08,0.648148179,0.761514246,3.18635358E-08
 	mir = 1,1,1
@@ -33018,11 +33048,11 @@ PART
 {
 	part = proceduralTankLiquid_4292549194
 	partName = Part
-	persistentId = 3722086845
-	pos = 1.75843275,20.8340549,-0.561095953
+	persistentId = 754073129
+	pos = 1.75843227,20.8622646,-0.561096072
 	attPos = 3.5673942E-08,-0.0155403614,-0.0267399549
 	attPos0 = -1.09014891E-07,2.81249881,1.34855509E-06
-	rot = -0.0385324396,0.706056535,0.0385324359,0.706055939
+	rot = -0.0385324433,0.706056595,0.0385324359,0.706055999
 	attRot = 0,0,0,1
 	attRot0 = -4.65661176E-10,3.87644377E-07,-1.07225793E-08,-1
 	mir = 1,1,1
@@ -33119,15 +33149,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -33264,7 +33288,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -33352,8 +33376,8 @@ PART
 {
 	part = radialDecoupler_4292549026
 	partName = Part
-	persistentId = 866389389
-	pos = 0.0657556057,6.09762192,-1.56109905
+	persistentId = 3317864452
+	pos = 0.0657556057,6.12582779,-1.56109893
 	attPos = 5.96046661E-08,0.253238678,-0.0475500226
 	attPos0 = -1.19209304E-07,-4.60524368,-0.952450097
 	rot = 0.00192579755,0.707104146,-0.00192579767,-0.707104266
@@ -33471,16 +33495,19 @@ PART
 			ToggleAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			EnableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 			DisableAction
 			{
 				actionGroup = None
+				active = False
 				wasActiveBeforePartWasAdjusted = False
 			}
 		}
@@ -33565,8 +33592,8 @@ PART
 {
 	part = proceduralStructural_4292548948
 	partName = Part
-	persistentId = 2136977728
-	pos = 0.0657556057,5.29762268,-3.22486687
+	persistentId = 3472989033
+	pos = 0.0657556057,5.32583237,-3.22486258
 	attPos = -2.67370915,-0.489426225,0.269454837
 	attPos0 = 1.00561869,-0.301496834,-0.269454956
 	rot = 0.00530460477,-0.707086861,-0.0053046043,0.7070871
@@ -33671,15 +33698,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -33816,7 +33837,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -33893,8 +33914,8 @@ PART
 {
 	part = LiquidEngineRK-8_4292548864
 	partName = Part
-	persistentId = 3049551291
-	pos = 0.0657571554,3.2977829,-3.24975204
+	persistentId = 3263174630
+	pos = 0.0657571554,3.32599258,-3.24975014
 	attPos = -1.36822308E-07,-18.0014858,-0.0327130407
 	attPos0 = -1.59961573E-07,-1.50000036,-9.65196989E-08
 	rot = 5.3551048E-09,0.999986529,0.00522308983,-3.27825546E-07
@@ -34258,11 +34279,11 @@ PART
 {
 	part = LiquidEngineRV-1_4292548490
 	partName = Part
-	persistentId = 2510644809
-	pos = 0.360823333,2.84529877,-4.35577822
+	persistentId = 3102069634
+	pos = 0.360823333,2.87350845,-4.3557744
 	attPos = 0.129409552,0,-0.482962966
 	attPos0 = -0.424475074,-0.464017868,1.58416224
-	rot = 0.000681755715,0.991431713,0.00517831277,0.130523056
+	rot = 0.000681754318,0.991431475,0.00517831091,0.130523205
 	attRot = 0,0,0,1
 	attRot0 = 1.09192889E-07,-0.130526215,1.43755194E-08,0.991444886
 	mir = 1,1,1
@@ -34646,8 +34667,8 @@ PART
 {
 	part = LiquidEngineRV-1_4292548306
 	partName = Part
-	persistentId = 84569806
-	pos = -0.229313135,2.84529877,-4.35577488
+	persistentId = 2653549246
+	pos = -0.229313135,2.87350845,-4.35576773
 	attPos = -0.129409552,0,-0.482962966
 	attPos0 = 0.424475074,-0.464017868,1.58416224
 	rot = -0.000681777019,0.991431355,0.00517833931,-0.130524814
@@ -35034,8 +35055,8 @@ PART
 {
 	part = deltaWing_4292548122
 	partName = Part
-	persistentId = 3994827889
-	pos = 0.0657563135,2.8974762,-4.64967394
+	persistentId = 2252537127
+	pos = 0.0657563135,2.92568588,-4.6496706
 	attPos = -1.00940326E-06,0.102212429,-0.00307106972
 	attPos0 = 0,-0.517123222,1.3987267
 	rot = -0.00369321392,0.707096875,0.00369319599,-0.70709765
@@ -35193,11 +35214,11 @@ PART
 {
 	part = launchClamp1_4292538508
 	partName = Part
-	persistentId = 2353655019
-	pos = -2.13601851,1.56935883,-3.26780796
+	persistentId = 4190106499
+	pos = -2.13601708,1.59756851,-3.26780653
 	attPos = 4.76837158E-06,-3.4570694E-06,-1.00582838E-06
 	attPos0 = 2.20176673,-1.72851944,1.66893005E-06
-	rot = 0.00369319762,0.707097411,0.00369335408,0.707097173
+	rot = 0.00369319855,0.707097411,0.00369335501,0.707097173
 	attRot = 0,0,0,1
 	attRot0 = -7.86444758E-08,-0.707106829,-7.92301904E-08,0.707106709
 	mir = 1,1,1
@@ -35207,7 +35228,7 @@ PART
 	istg = 7
 	resPri = 0
 	dstg = 9
-	sidx = 4
+	sidx = 5
 	sqor = 7
 	sepI = 7
 	attm = 1
@@ -35329,10 +35350,10 @@ PART
 	{
 		name = ModuleRestockLaunchClamp
 		isEnabled = True
-		scaleFactor = 1.1147126
-		height = 2.22942352
+		scaleFactor = 1.12881744
+		height = 2.25763321
 		stagingEnabled = True
-		towerRot = -0.00369321182,-0.707097352,-0.00369333755,0.707096994
+		towerRot = -0.00369321299,-0.707097352,-0.00369333895,0.707096994
 		EVENTS
 		{
 		}
@@ -35413,11 +35434,11 @@ PART
 {
 	part = proceduralTankLiquid_4292547910
 	partName = Part
-	persistentId = 2332883123
-	pos = 0.0657558441,7.26436615,-3.16075754
+	persistentId = 743955451
+	pos = 0.0657558441,7.29257584,-3.16075325
 	attPos = -0.0497682095,0.986072779,2.62420372E-07
 	attPos0 = 3.54740572,14.2977877,-4.75411034
-	rot = -3.14321369E-08,0.999761462,0.0218551736,-5.06639481E-07
+	rot = -2.30502337E-08,0.999761462,0.0218551811,-5.06639481E-07
 	attRot = 0,0,0,0.999999881
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -35515,15 +35536,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -35660,7 +35675,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -35759,8 +35774,8 @@ PART
 {
 	part = proceduralTankLiquid_4292547826
 	partName = Part
-	persistentId = 4266090501
-	pos = 0.0657563359,12.2000809,-2.8784461
+	persistentId = 2172017267
+	pos = 0.0657563359,12.2282906,-2.87844467
 	attPos = -0.0103569552,-8.33003044,-0.410074532
 	attPos0 = 0.0103569329,14.0641308,0.251434863
 	rot = -1.75787136E-08,0.999530852,0.0306378976,-5.06639481E-07
@@ -35861,15 +35876,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -36006,7 +36015,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -36105,11 +36114,11 @@ PART
 {
 	part = proceduralStructural_4292547742
 	partName = Part
-	persistentId = 2990434345
-	pos = 0.0657590479,18.0469475,-2.48971844
+	persistentId = 1440975009
+	pos = 0.0657589287,18.0751572,-2.48971796
 	attPos = -4.2913959E-07,-0.207645416,-0.145996124
 	attPos0 = 0,6.06250048,3.7252903E-09
-	rot = -4.30736691E-08,0.999299288,0.0374367312,-6.2584877E-07
+	rot = -4.30736691E-08,0.999299288,0.0374367088,-6.2584877E-07
 	attRot = 0.0189499464,0,0,-0.999820411
 	attRot0 = 0.0189499464,0,0,-0.999820411
 	mir = 1,1,1
@@ -36210,15 +36219,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -36355,7 +36358,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -36432,11 +36435,11 @@ PART
 {
 	part = sepMotor1_4292547658
 	partName = Part
-	persistentId = 4178442388
-	pos = 0.0657594278,19.6612244,-2.14900351
+	persistentId = 3535577224
+	pos = 0.0657592788,19.6894341,-2.14900255
 	attPos = -2.15591811E-08,-0.035497427,0.219271809
 	attPos0 = 3.86745462E-08,1.76983094,-0.442385435
-	rot = 0.736715436,-5.36441803E-07,-1.13126589E-06,-0.676203489
+	rot = 0.736715436,-5.36441803E-07,-1.13120768E-06,-0.676203489
 	attRot = 0.707106769,2.96088096E-16,-1.92786207E-14,-0.707106888
 	attRot0 = -3.74366955E-08,0.648148179,0.761514246,3.18635358E-08
 	mir = 1,1,1
@@ -36695,11 +36698,11 @@ PART
 {
 	part = proceduralTankLiquid_4292547576
 	partName = Part
-	persistentId = 2630196707
-	pos = 0.0657589883,20.8340645,-2.25378275
+	persistentId = 1025808297
+	pos = 0.0657587498,20.8622742,-2.25378275
 	attPos = 4.49374085E-08,-0.0155394077,-0.0267402735
 	attPos0 = -1.09014891E-07,2.81249881,1.34855509E-06
-	rot = -4.07453626E-08,0.998514533,0.0544931255,-5.06639481E-07
+	rot = -2.77068466E-08,0.998514533,0.0544931218,-5.06639481E-07
 	attRot = 0.0170739181,-1.18561942E-07,-6.00147798E-09,-0.999854326
 	attRot0 = -0.0170739181,-2.69209039E-07,1.01038866E-08,0.999854326
 	mir = 1,1,1
@@ -36796,15 +36799,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -36941,7 +36938,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -37029,8 +37026,8 @@ PART
 {
 	part = proceduralTankLiquid_4293709888
 	partName = Part
-	persistentId = 2858713066
-	pos = -1.46021199,21.8960781,-0.561130762
+	persistentId = 1448686097
+	pos = -1.46021211,21.9242878,-0.561130881
 	attPos = 0.523431897,-0.396406174,0.106664479
 	attPos0 = -2.0488174,2.84659576,-0.106664449
 	rot = 0.0477171727,0.685766399,-0.0451441966,0.724851429
@@ -37131,15 +37128,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -37276,7 +37267,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -37364,8 +37355,8 @@ PART
 {
 	part = proceduralTankLiquid_4293698504
 	partName = Part
-	persistentId = 4094659124
-	pos = 0.0657236576,21.8960781,0.964869142
+	persistentId = 3688213397
+	pos = 0.0657236576,21.9242878,0.964869142
 	attPos = 0.106664851,-0.396406174,-0.52343142
 	attPos0 = -0.106664553,2.84659576,2.04881716
 	rot = 0.00181936589,0.997457445,-0.0656629056,0.0276372284
@@ -37466,15 +37457,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -37611,7 +37596,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -37699,8 +37684,8 @@ PART
 {
 	part = proceduralTankLiquid_4293698420
 	partName = Part
-	persistentId = 1839796817
-	pos = 1.59172344,21.8960781,-0.561066389
+	persistentId = 967974158
+	pos = 1.59172332,21.9242878,-0.561066508
 	attPos = -0.523431659,-0.396406174,-0.106664479
 	attPos0 = 2.0488174,2.84659576,0.10666427
 	rot = -0.0451441966,0.724851429,-0.0477171727,-0.685766399
@@ -37801,15 +37786,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -37946,7 +37925,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -38034,8 +38013,8 @@ PART
 {
 	part = proceduralTankLiquid_4293698336
 	partName = Part
-	persistentId = 300320788
-	pos = 0.0657879114,21.8960781,-2.08706617
+	persistentId = 766557131
+	pos = 0.0657879114,21.9242878,-2.08706617
 	attPos = -0.106664382,-0.396406174,0.523431659
 	attPos0 = 0.106664322,2.84659576,-2.0488174
 	rot = 0.0656629056,-0.0276372712,0.0018193688,0.997457445
@@ -38136,15 +38115,9 @@ PART
 		}
 		UPGRADESAPPLIED
 		{
-			upgrade = ProceduralPartsTank1500L
-			upgrade = ProceduralPartsTank2500L
-			upgrade = ProceduralPartsTankAviation
-			upgrade = ProceduralPartsTank20000L
-			upgrade = ProceduralPartsTank37000L
-			upgrade = ProceduralPartsTank45000L
-			upgrade = ProceduralPartsTank85000L
-			upgrade = ProceduralPartsTankMiniaturization
-			upgrade = ProceduralPartsTankUnlimited
+			upgrade = SimpleRSSProceduralParts1kL
+			upgrade = SimpleRSSProceduralParts5kL
+			upgrade = SimpleRSSProceduralParts25kL
 		}
 	}
 	MODULE
@@ -38281,7 +38254,7 @@ PART
 	{
 		name = ProceduralShapeHollowPill
 		isEnabled = False
-		innerDiameter = 0.5
+		innerDiameter = 0
 		outerDiameter = 1
 		length = 0.75
 		fillet = 0.25
@@ -38369,8 +38342,8 @@ PART
 {
 	part = sepMotor1_4291888098
 	partName = Part
-	persistentId = 3951702474
-	pos = -1.02377772,28.3246269,-0.561096907
+	persistentId = 4147577957
+	pos = -1.02377784,28.3528366,-0.561096907
 	attPos = 0.190733671,-0.228622437,-8.94069672E-08
 	attPos0 = -1.3183583,2.72862244,8.94069672E-08
 	rot = -0.70519805,-0.0519212782,0.70519799,-0.0519212782
@@ -38640,8 +38613,8 @@ PART
 {
 	part = sepMotor1_4291886914
 	partName = Part
-	persistentId = 2858038644
-	pos = 0.0657557249,28.3246269,0.528435111
+	persistentId = 1837996616
+	pos = 0.0657557249,28.3528366,0.528435111
 	attPos = -7.03148544E-08,-0.228622437,-0.190733433
 	attPos0 = 1.07102096E-08,2.72862244,1.31835818
 	rot = 4.21468478E-08,0.073427774,-0.997300565,0
@@ -38903,8 +38876,8 @@ PART
 {
 	part = sepMotor1_4291886832
 	partName = Part
-	persistentId = 3319977769
-	pos = 1.15528917,28.3246269,-0.561098516
+	persistentId = 3021130147
+	pos = 1.15528905,28.3528366,-0.561098576
 	attPos = -0.190733671,-0.228622437,3.27825546E-07
 	attPos0 = 1.3183583,2.72862244,-2.08616257E-07
 	rot = -0.70519799,0.0519212782,-0.70519805,-0.0519212782
@@ -39166,8 +39139,8 @@ PART
 {
 	part = sepMotor1_4291886750
 	partName = Part
-	persistentId = 3620092751
-	pos = 0.0657556057,28.3246269,-1.65063298
+	persistentId = 1083997939
+	pos = 0.0657556057,28.3528366,-1.65063298
 	attPos = 1.23400241E-07,-0.228622437,0.190733433
 	attPos0 = -1.68103725E-07,2.72862244,-1.31835818
 	rot = -0.997300565,-3.2096299E-09,1.44654444E-09,-0.073427774
@@ -39429,8 +39402,8 @@ PART
 {
 	part = SurfAntenna_4292687314
 	partName = Part
-	persistentId = 2613340178
-	pos = 0.0657562017,35.0461845,-1.94069064
+	persistentId = 698119254
+	pos = 0.0657562017,35.0743942,-1.94069064
 	attPos = 0,0,0
 	attPos0 = 1.1920929E-07,0.59204483,-1.37959135
 	rot = 0.50000006,0.50000006,-0.5,-0.5
@@ -39649,8 +39622,8 @@ PART
 {
 	part = SurfAntenna_4293998636
 	partName = Part
-	persistentId = 1477218387
-	pos = 0.0657560825,35.0461845,0.818492174
+	persistentId = 317238779
+	pos = 0.0657560825,35.0743942,0.818492174
 	attPos = 0,0,0
 	attPos0 = 1.31460334E-16,0.59204483,1.37959135
 	rot = -0.5,-0.5,-0.50000006,-0.50000006
@@ -39867,10 +39840,10 @@ PART
 }
 PART
 {
-	part = MainSailorFairing001BK_4293161696
+	part = MainSailorFairing001BK_4293161140
 	partName = Part
-	persistentId = 2414164568
-	pos = 0.065756008,36.6023178,1.06390095
+	persistentId = 3348181972
+	pos = 0.065756008,36.6248169,1.06390083
 	attPos = 0,0,0
 	attPos0 = -6.70552254E-08,-0.220718384,1.5625
 	rot = 0,-0.707106829,0,0.707106829
@@ -39888,12 +39861,12 @@ PART
 	sepI = 2
 	attm = 0
 	sameVesselCollision = False
-	modCost = 1137.37903
-	modMass = 0.10738159
+	modCost = 1388.04004
+	modMass = 0.12827
 	modSize = 0,0,0
-	sym = MainSailorFairing001BK_4293161190
-	sym = MainSailorFairing001BK_4293161140
-	sym = MainSailorFairing001BK_4293161090
+	sym = MainSailorFairing001BK_4293697220
+	sym = MainSailorFairing001BK_4293696672
+	sym = MainSailorFairing001BK_4293696124
 	attN = connect,KzResizableFairingBaseRing_4293969650_0|0.5|0_0|-1|0_0|0.5|0_0|-1|0
 	EVENTS
 	{
@@ -39957,14 +39930,14 @@ PART
 		isEnabled = True
 		numSegs = 6
 		numSideParts = 4
-		baseRad = 1.4625001
-		maxRad = 1.43750012
+		baseRad = 1.46249998
+		maxRad = 1.5
 		cylStart = 0
-		cylEnd = 4.30000019
+		cylEnd = 5.18400002
 		topRad = 0
 		inlineHeight = 0
 		sideThickness = 0.162500009
-		meshPos = (-1.62500012, 0.207499981, 0)
+		meshPos = (-1.625, 0.207500011, 0)
 		meshRot = (0, 0, 0, 1)
 		hingeOffset = (0, 0, 0)
 		density = 0.0500000007
@@ -40059,10 +40032,10 @@ PART
 }
 PART
 {
-	part = MainSailorFairing001BK_4293161190
+	part = MainSailorFairing001BK_4293697220
 	partName = Part
-	persistentId = 4252571227
-	pos = 1.6907562,36.6023178,-0.561099172
+	persistentId = 3192929773
+	pos = 1.69075608,36.6248169,-0.561099172
 	attPos = 0,0,0
 	attPos0 = 1.5625,-0.220718384,0
 	rot = 0,0,0,1
@@ -40080,12 +40053,12 @@ PART
 	sepI = 2
 	attm = 0
 	sameVesselCollision = False
-	modCost = 1137.37903
-	modMass = 0.10738159
+	modCost = 1388.04004
+	modMass = 0.12827
 	modSize = 0,0,0
+	sym = MainSailorFairing001BK_4293696672
+	sym = MainSailorFairing001BK_4293696124
 	sym = MainSailorFairing001BK_4293161140
-	sym = MainSailorFairing001BK_4293161090
-	sym = MainSailorFairing001BK_4293161696
 	attN = connect,KzResizableFairingBaseRing_4293969650_0|0.5|0_0|-1|0_0|0.5|0_0|-1|0
 	EVENTS
 	{
@@ -40149,14 +40122,14 @@ PART
 		isEnabled = True
 		numSegs = 6
 		numSideParts = 4
-		baseRad = 1.4625001
-		maxRad = 1.43750012
+		baseRad = 1.46249998
+		maxRad = 1.5
 		cylStart = 0
-		cylEnd = 4.30000019
+		cylEnd = 5.18400002
 		topRad = 0
 		inlineHeight = 0
 		sideThickness = 0.162500009
-		meshPos = (-1.62500012, 0.207499981, 0)
+		meshPos = (-1.625, 0.207500011, 0)
 		meshRot = (0, 0, 0, 1)
 		hingeOffset = (0, 0, 0)
 		density = 0.0500000007
@@ -40251,12 +40224,12 @@ PART
 }
 PART
 {
-	part = MainSailorFairing001BK_4293161140
+	part = MainSailorFairing001BK_4293696672
 	partName = Part
-	persistentId = 2937344845
-	pos = 0.0657561049,36.6023178,-2.18609929
+	persistentId = 1197207482
+	pos = 0.0657561049,36.6248169,-2.18609905
 	attPos = 0,0,0
-	attPos0 = 1.86264515E-08,-0.220718384,-1.5625
+	attPos0 = 2.23517418E-08,-0.220718384,-1.56249988
 	rot = 0,0.707106829,0,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,1,0,-4.37113883E-08
@@ -40272,12 +40245,12 @@ PART
 	sepI = 2
 	attm = 0
 	sameVesselCollision = False
-	modCost = 1137.37903
-	modMass = 0.10738159
+	modCost = 1388.04004
+	modMass = 0.12827
 	modSize = 0,0,0
-	sym = MainSailorFairing001BK_4293161090
-	sym = MainSailorFairing001BK_4293161696
-	sym = MainSailorFairing001BK_4293161190
+	sym = MainSailorFairing001BK_4293696124
+	sym = MainSailorFairing001BK_4293161140
+	sym = MainSailorFairing001BK_4293697220
 	attN = connect,KzResizableFairingBaseRing_4293969650_0|0.5|0_0|-1|0_0|0.5|0_0|-1|0
 	EVENTS
 	{
@@ -40341,14 +40314,14 @@ PART
 		isEnabled = True
 		numSegs = 6
 		numSideParts = 4
-		baseRad = 1.4625001
-		maxRad = 1.43750012
+		baseRad = 1.46249998
+		maxRad = 1.5
 		cylStart = 0
-		cylEnd = 4.30000019
+		cylEnd = 5.18400002
 		topRad = 0
 		inlineHeight = 0
 		sideThickness = 0.162500009
-		meshPos = (-1.62500012, 0.207499981, 0)
+		meshPos = (-1.62499988, 0.207500011, 0)
 		meshRot = (0, 0, 0, 1)
 		hingeOffset = (0, 0, 0)
 		density = 0.0500000007
@@ -40443,13 +40416,13 @@ PART
 }
 PART
 {
-	part = MainSailorFairing001BK_4293161090
+	part = MainSailorFairing001BK_4293696124
 	partName = Part
-	persistentId = 521076789
-	pos = -1.55924404,36.6023178,-0.561099291
+	persistentId = 2959615274
+	pos = -1.55924392,36.6248169,-0.561099291
 	attPos = 0,0,0
-	attPos0 = -1.5625,-0.220718384,-1.49011612E-07
-	rot = 0,1,0,3.66797792E-08
+	attPos0 = -1.5625,-0.220718384,-1.1920929E-07
+	rot = 0,1,0,3.66797828E-08
 	attRot = 0,0,0,1
 	attRot0 = 0,0.707106829,0,-0.707106829
 	mir = 1,1,1
@@ -40464,12 +40437,12 @@ PART
 	sepI = 2
 	attm = 0
 	sameVesselCollision = False
-	modCost = 1137.37903
-	modMass = 0.10738159
+	modCost = 1388.04004
+	modMass = 0.12827
 	modSize = 0,0,0
-	sym = MainSailorFairing001BK_4293161696
-	sym = MainSailorFairing001BK_4293161190
 	sym = MainSailorFairing001BK_4293161140
+	sym = MainSailorFairing001BK_4293697220
+	sym = MainSailorFairing001BK_4293696672
 	attN = connect,KzResizableFairingBaseRing_4293969650_0|0.5|0_0|-1|0_0|0.5|0_0|-1|0
 	EVENTS
 	{
@@ -40533,14 +40506,14 @@ PART
 		isEnabled = True
 		numSegs = 6
 		numSideParts = 4
-		baseRad = 1.4625001
-		maxRad = 1.43750012
+		baseRad = 1.46249998
+		maxRad = 1.5
 		cylStart = 0
-		cylEnd = 4.30000019
+		cylEnd = 5.18400002
 		topRad = 0
 		inlineHeight = 0
 		sideThickness = 0.162500009
-		meshPos = (-1.62500012, 0.207499981, 0)
+		meshPos = (-1.625, 0.207500011, 0)
 		meshRot = (0, 0, 0, 1)
 		hingeOffset = (0, 0, 0)
 		density = 0.0500000007
@@ -40597,7 +40570,7 @@ PART
 	MODULE
 	{
 		name = KOSNameTag
-		isEnabled = True
+		isEnabled = False
 		nameTag = 
 		stagingEnabled = True
 		EVENTS

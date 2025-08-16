@@ -58,6 +58,7 @@
     <None Include="SimpleRSS\RemoteTech\Remote_Squad.cfg" />
     <None Include="SimpleRSS\RealChute\RealChute.cfg" />
     <None Include="SimpleRSS\SETIGreenhouse\SETIGreenhouse.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\SquadEx_Tanks.cfg" />
     <None Include="SimpleRSS\SquadExpansion\SquadEx_Engines.cfg" />
     <None Include="SimpleRSS\Squad\Squad_Engines.cfg" />
     <None Include="SimpleRSS\Squad\Squad_SRBs.cfg" />

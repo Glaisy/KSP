@@ -58,6 +58,9 @@
     <None Include="SimpleRSS\RemoteTech\Remote_Squad.cfg" />
     <None Include="SimpleRSS\RealChute\RealChute.cfg" />
     <None Include="SimpleRSS\SETIGreenhouse\SETIGreenhouse.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\Breaking Grounds\BreakingGrounds_Features.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\Breaking Grounds\BreakingGrounds_Science.cfg" />
+    <None Include="SimpleRSS\SquadExpansion\Breaking Grounds\BreakingGrounds_SeismicEnergy.cfg" />
     <None Include="SimpleRSS\SquadExpansion\SquadEx_Tanks.cfg" />
     <None Include="SimpleRSS\SquadExpansion\SquadEx_Engines.cfg" />
     <None Include="SimpleRSS\Squad\Squad_Engines.cfg" />
@@ -81,14 +84,8 @@
     <None Include="SimpleRSS\Waterfall\Templates\SWE-Smoke .cfg" />
     <None Include="SimpleRSS\Waterfall\Waterfall_SquadEx.cfg" />
     <None Include="SimpleRSS\Waterfall\Waterfall_Squad.cfg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="SimpleRSS\Waterfall\Waterfall_CormorantAeronology.cfg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="SimpleRSS\ModularFuelTanks\ModularFuelTanks.cfg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="SimpleRSS\Squad\Squad_Aero.cfg" />
   </ItemGroup>
   <ItemGroup>
